@@ -1,0 +1,23 @@
+#EXTM3U
+
+#EXTINF:-1,CBC NEWS
+https://livecbcdai-i.akamaihd.net/hls/live/567245/event2/CBCN
+
+#EXTINF:-1,GLOBAL NEWS
+https://live.corusdigitaldev.com/groupd/live/8970c668-40cd-4cWS
+
+#EXTINF:-1,BLOOMBERG
+https://liveproduseast.global.ssl.fastly.net/btv/desktop/us_l
+
+#EXTINF:-1,RT AMERICA
+https://rt-usa-gd.secure2.footprint.net/1105_2500Kb.m3u8
+
+#EXTINF:-1,WEATHER NETWORK
+http://weather-lh.akamaihd.net/i/twc_1@92006/master.m3u8
+
+#EXTINF:-1,ET LIVE
+https://etlive-mediapackage-fastly.cbsaavideo.com/dvr/manifest.m3u8?iu=/8264/vaw-can/desktop/cbslocal
+
+#EXTINF:-1,
+
+#EXTINF:-1,
