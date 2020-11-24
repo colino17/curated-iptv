@@ -30,4 +30,5 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/59b722526996084038
 #EXTINF:-1,WWE LIVE
 http://cdnak10.cast4u.info/channels/4/10804.m3u8
 
-#EXTINF:-1,
+#EXTINF:-1,CLASSICS
+https://nrpus.bozztv.com/36bay2/gusa-tvs/index.m3u8
