@@ -1,123 +1,29 @@
 #EXTM3U
 
+#EXTINF:-1,GAME SHOW CENTRAL
+https://ffcf6c437bec4f3988224ccfe150499d.mediatailor.us-east-1.amazonaws.com/v1/manifest/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Plex_GameShowCentral/c3d6136c-3a3e-4690-949d-8dcebfe43fc2/3.m3u8
+
+#EXTINF:-1,HOLLY WIRE
+https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=141&live=1&avod=1&ip=91.97.129.97&ua=Mozilla%2F5.0%20(Windows%20NT%206.1%3B%20rv%3A83.0)%20Gecko%2F20100101%20Firefox%2F83.0&player_height=691&player_width=1224&is_lat=0&content_channel=5f5132e662fe160040f26c50&app_bundle=ctv.hollywire&app_name=plex&did=df8e1a36-847d-5096-86a7-3803ed330ede&content_dist_id=MorUy57ijWhGe4ixZb_T&app_domain=app.plex.tv&app_store_url=https%3A%2F%2Fapp.plex.tv&us-privacy=1---&gdpr=1&consent=0&coppa=0&device_type=desktop
+
+#EXTINF:-1,WEATHER SPY
+https://04799df414944908856c6c521891945f.mediatailor.us-east-1.amazonaws.com/v1/manifest/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Plex-intl_WeatherSpy/2eba863c-1452-4ea6-98b2-2b1c0c81c112/3.m3u8
+
+#EXTINF:-1,CLOUDFLARE TV
+https://cloudflare.tv/hls/live.m3u8
+
+#EXTINF:-1,IGN TV
+https://ign-plex.amagi.tv/amRdirect/us_privacy=1---&did=61e24c69-c657-5bf3-b863-7cdc122e912c&dnt=0&X-Plex-Token=yd2t7_mqLeso7PyTUYZ6&channelId=5eea605474085f0040ddc77c/hls/amagi_hls_data_ignAAAAAA-ign-plexA/CDN/playlist.m3u8
+
+#EXTINF:-1,AFV TV
+https://66fbef2650a94f95ad9eb85816482b11.mediatailor.us-west-2.amazonaws.com/v1/manifest/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-12-AFV-PLEX/b2bc9f3a-4e07-4879-8cbd-069986706a88/0.m3u8
+
+#EXTINF:-1,DESIGN
+https://d06b09a740824c49b9937130662ef38a.mediatailor.us-east-1.amazonaws.com/v1/manifest/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Plex_TheDesignNetwork/7c1469be-63d2-44de-8083-ee421aeb53df/4.m3u8
+
+#EXTINF:-1,UNIDENTIFIED
+https://studio1091-plex.amagi.tv/amRdirect/us_privacy=1---&did=3f68a808-1437-5e57-9eaf-7a12279d9462&dnt=0&X-Plex-Token=nkPyxTGm41qFS7TFC9Yh&channelId=5eea605374085f0040ddc764/hls/amagi_hls_data_plexAAAAA-unindentifiedtv-plex/CDN/1920x1080_5055600/index.m3u8
+
 #EXTINF:-1 tvg-name="CBSN" tvg-id="CBS Eastern US" group-title="USA" tvg-logo="https://i.imgur.com/nki2HDQ.png",CBSN
 http://cbsnewshd-lh.akamaihd.net/i/CBSNHD_7@199302/master.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="Brut TV" tvg-logo="https://i.imgur.com/AOj9cgU.png" group-title="USA",Brut TV
-https://a.jsrdn.com/broadcast/baac3e801e/+0000/high/c.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="Cloudflare TV" tvg-logo="https://i.imgur.com/DU6kO3S.png" group-title="USA",Cloudflare TV
-https://cloudflare.tv/hls/live.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="Saveur" tvg-logo="https://i.imgur.com/h0MqKbJ.png" group-title="DISTRO USA",Saveur
-http://a.jsrdn.com/broadcast/060753d37e/+0000/high/c.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/L0aXwHX.png" group-title="DISTRO USA",Gusto TV
-https://a.jsrdn.com/broadcast/ebf95254ca/+0000/low/c.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/jL5IWRZ.png" group-title="REDBOX USA",RedBox Comedy
-https://comedy-redbox.amagi.tv/hls/amagi_hls_data_redboxAAA-comedy/CDN/playlist.m3u8
-
-#EXTINF:-1,HBO EAST
-https://edge.roku-live.top.comcast.net/out/u/hbo-east.m3u8
-
-#EXTINF:-1 tvg-ID="HBOW" tvg-name="HBO (West)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/500px-HBO_logo.svg.png" group-title="ROKU USA",HBO (West)
-https://edge.roku-live.top.comcast.net/out/u/hbo-west.m3u8
-
-#EXTINF:-1 tvg-ID="CINE" tvg-name="Cinemax (East)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Cinemax_%28Yellow%29.svg/500px-Cinemax_%28Yellow%29.svg.png" group-title="ROKU USA",Cinemax (East)
-https://edge.roku-live.top.comcast.net/out/u/cinemax-east.m3u8
-
-#EXTINF:-1 tvg-ID="CINW" tvg-name="Cinemax (West)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Cinemax_%28Yellow%29.svg/500px-Cinemax_%28Yellow%29.svg.png" group-title="ROKU USA",Cinemax (West)
-https://edge.roku-live.top.comcast.net/out/u/cinemax-west.m3u8
-
-#EXTINF:-1 tvg-ID="SHOE" tvg-name="Showtime (East)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Showtime.svg/500px-Showtime.svg.png" group-title="ROKU USA",Showtime (East)
-https://edge.roku-live.top.comcast.net/out/u/showtime-east.m3u8
-
-#EXTINF:-1 tvg-ID="SHOW" tvg-name="Showtime (West)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Showtime.svg/500px-Showtime.svg.png" group-title="ROKU USA",Showtime (West)
-https://edge.roku-live.top.comcast.net/out/u/showtime-west.m3u8
-
-#EXTINF:-1 tvg-ID="STAW" tvg-name="STARZ (West)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Starz_2016.svg/500px-Starz_2016.svg.png" group-title="ROKU USA",STARZ (West)
-https://edge.roku-live.top.comcast.net/out/u/starz-west.m3u8
-
-#EXTINF:-1 tvg-ID="STAE" tvg-name="STARZ (East)" tvg-logo="https://www.pngkey.com/png/full/335-3358841_the-previous-logos-were-introduced-in-2005-as.png" group-title="ROKU USA",STARZ (East)
-https://edge.roku-live.top.comcast.net/out/u/starz-encore.m3u8
-
-#EXTINF:-1 tvg-ID="EPIE" tvg-name="Epix (East)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Epix_Logo_2009.svg/500px-Epix_Logo_2009.svg.png" group-title="ROKU USA",Epix (East)
-https://edge.roku-live.top.comcast.net/out/u/epix-east.m3u8
-
-#EXTINF:-1 tvg-ID="EPIE2" tvg-name="Epix 2 (East)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Epix_Logo_2009.svg/500px-Epix_Logo_2009.svg.png" group-title="ROKU USA",Epix 2 (East)
-https://edge.roku-live.top.comcast.net/out/u/epix2-east.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/FLKdEzZ.png" group-title="PLEX USA",AFV Family
-https://66fbef2650a94f95ad9eb85816482b11.mediatailor.us-west-2.amazonaws.com/v1/manifest/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-12-AFV-PLEX/b2bc9f3a-4e07-4879-8cbd-069986706a88/0.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/17WHXnc.png" group-title="PLEX USA",Camp Spoopy
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=269&livestream=1&live=1&app_bundle=com.plexapp.desktop&did=df8e1a36-847d-5096-86a7-3803ed330ede&app_domain=app.plex.tv&app_name=plex&h=691&w=1224&content_title=MorUy57ijWhGe4ixZb_T&content_series=5f77a99416621400402b3dc1&custom4=plex&gdpr=1&device_make=Windows&device_model=Firefox&coppa=1&us_privacy=1---
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/RKzHHRC.jpg" group-title="PLEX USA",Cooking Panda
-https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=46&live=1&app_bundle=com.plexapp.desktop&did=df8e1a36-847d-5096-86a7-3803ed330ede&app_domain=app.plex.tv&app_name=plex&h=691&w=1224&content_title=MorUy57ijWhGe4ixZb_T&content_series=5f07e9fdf313eb0041bbecda&custom4=plex&gdpr=1&device_make=Windows&device_model=Firefox&coppa=0&us_privacy=1---
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/4Ugp1ju.jpg" group-title="PLEX USA",Design
-https://d06b09a740824c49b9937130662ef38a.mediatailor.us-east-1.amazonaws.com/v1/manifest/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Plex_TheDesignNetwork/7c1469be-63d2-44de-8083-ee421aeb53df/4.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/TuCztKV.png" group-title="PLEX USA",Drink TV
-https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=62&live=1&app_bundle=com.plexapp.desktop&did=df8e1a36-847d-5096-86a7-3803ed330ede&app_domain=app.plex.tv&app_name=plex&h=691&w=1224&content_title=MorUy57ijWhGe4ixZb_T&content_series=5eea605474085f0040ddc76a&custom4=plex&gdpr=1&device_make=Windows&device_model=Firefox&coppa=0&us_privacy=1---
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/JlEcHtx.png" group-title="PLEX USA",ESRevolution
-https://69603b0bf51d4c7fa9335a84ee752b10.mediatailor.us-east-1.amazonaws.com/v1/manifest/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Plex_ESRevolution/d98e1a54-0b10-4779-85dc-d910b00f5f43/0.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/YAQi1PP.png" group-title="PLEX USA",Fail Army
-https://9c17e762ec814557b3516dd3e0a7ca56.mediatailor.us-east-1.amazonaws.com/v1/manifest/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Plex-intl_FailArmy/ade59f27-be9b-4b71-b8dc-05928c1dfdf4/2.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/4dMoXtm.jpg" group-title="PLEX USA",Film Stream
-https://b58cbafb283b4d0b9610407d0e766d64.mediatailor.us-east-1.amazonaws.com/v1/manifest/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Plex_Filmstream/29d2a5e9-0e59-4a8b-b906-0f82d8fa81b8/5.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/F65M8sk.png" group-title="PLEX USA",Game Show
-https://ffcf6c437bec4f3988224ccfe150499d.mediatailor.us-east-1.amazonaws.com/v1/manifest/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Plex_GameShowCentral/c3d6136c-3a3e-4690-949d-8dcebfe43fc2/3.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/O1rYDXF.png" group-title="PLEX USA",Glewed TV
-https://e54c4fcc08f14de7bc1094ca25cb9d29.mediatailor.us-east-1.amazonaws.com/v1/manifest/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Plex_GlewedTV/d1a011d0-5758-439c-9939-ef96c8e13323/3.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/mQ7CMiF.png" group-title="PLEX USA",Gravitas Movies
-https://cba5182b39c145c2b96ecc5c3f72e41a.mediatailor.us-east-1.amazonaws.com/v1/manifest/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Plex_GravitasMovies/b465c16f-0c23-4bf0-9a52-e1d87cb0f5ee/3.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/BfPMUrU.jpg" group-title="PLEX USA",Gusto TV
-https://gustous-plex.amagi.tv/hls/amagi_hls_data_gustoAAAA-gustous-plex/CDN/playlist.m3u8?us_privacy=1---&did=df8e1a36-847d-5096-86a7-3803ed330ede&dnt=0&X-Plex-Token=MorUy57ijWhGe4ixZb_T&channelId=5f8746eabd529300418246d9
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Afka45R.jpg" group-title="PLEX USA",Hollywood Classics
-https://fef5003bb7e7447ab21a2c3fd81e3b74.mediatailor.us-east-1.amazonaws.com/v1/manifest/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Plex_HollywoodClassics/5e48be49-66f7-4712-9fff-347b1ae7afbd/5.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/XcxeVNe.jpg" group-title="PLEX USA",Holly Wires
-https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=141&live=1&avod=1&ip=91.97.129.97&ua=Mozilla%2F5.0%20(Windows%20NT%206.1%3B%20rv%3A83.0)%20Gecko%2F20100101%20Firefox%2F83.0&player_height=691&player_width=1224&is_lat=0&content_channel=5f5132e662fe160040f26c50&app_bundle=ctv.hollywire&app_name=plex&did=df8e1a36-847d-5096-86a7-3803ed330ede&content_dist_id=MorUy57ijWhGe4ixZb_T&app_domain=app.plex.tv&app_store_url=https%3A%2F%2Fapp.plex.tv&us-privacy=1---&gdpr=1&consent=0&coppa=0&device_type=desktop
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/UR5w7g9.png" group-title="PLEX USA",IGN TV
-https://ign-plex.amagi.tv/amRdirect/us_privacy=1---&did=61e24c69-c657-5bf3-b863-7cdc122e912c&dnt=0&X-Plex-Token=yd2t7_mqLeso7PyTUYZ6&channelId=5eea605474085f0040ddc77c/hls/amagi_hls_data_ignAAAAAA-ign-plexA/CDN/playlist.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/zK98jJZ.jpg" group-title="PLEX USA",Reuters
-https://32ce4aad1eed49b1ba2999fb68d119c8.mediatailor.us-east-1.amazonaws.com/v1/manifest/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Plex_ReutersNow/678e78de-ad71-4747-936a-55da37f68898/6.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/jTrTJZr.jpg" group-title="PLEX USA",Sqadl
-https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=39&live=1&app_bundle=com.plexapp.desktop&did=df8e1a36-847d-5096-86a7-3803ed330ede&app_domain=app.plex.tv&app_name=plex&h=691&w=1224&content_title=MorUy57ijWhGe4ixZb_T&content_series=5f12332eeca6a20040b328e5&custom4=plex&gdpr=1&device_make=Windows&device_model=Firefox&coppa=1&us_privacy=1---
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/XrBn1ZO.jpg" group-title="PLEX USA",Tankee
-https://72c5b87587c545558c3170ab55de2915.mediatailor.us-east-1.amazonaws.com/v1/manifest/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Plex_Tankee/282d947f-8e33-4bcb-8d98-3c7d9254f6f5/3.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/FjJEYsf.jpg" group-title="PLEX USA",TG Toon Googles
-https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=37&live=1&app_bundle=com.plexapp.desktop&did=df8e1a36-847d-5096-86a7-3803ed330ede&app_domain=app.plex.tv&app_name=plex&h=691&w=1224&content_title=MorUy57ijWhGe4ixZb_T&content_series=5eea605574085f0040ddc794&custom4=plex&gdpr=1&device_make=Windows&device_model=Firefox&coppa=1&us_privacy=1---
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/3aHWa0R.jpg" group-title="PLEX USA",The Pet Collective
-https://631dd17512664bafa0f3d1bd9717d7c0.mediatailor.us-east-1.amazonaws.com/v1/manifest/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Plex-intl_ThePetCollective/9a0bc894-3507-4712-ac73-40ae060ddbef/3.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Tpn020B.jpg" group-title="PLEX USA",Toon Googles
-https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=36&live=1&app_bundle=com.plexapp.desktop&did=df8e1a36-847d-5096-86a7-3803ed330ede&app_domain=app.plex.tv&app_name=plex&h=691&w=1224&content_title=MorUy57ijWhGe4ixZb_T&content_series=5f123330eca6a20040b328e8&custom4=plex&gdpr=1&device_make=Windows&device_model=Firefox&coppa=1&us_privacy=1---
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/AQneoQh.jpg" group-title="PLEX USA",Unidentivied
-https://studio1091-plex.amagi.tv/amRdirect/us_privacy=1---&did=3f68a808-1437-5e57-9eaf-7a12279d9462&dnt=0&X-Plex-Token=nkPyxTGm41qFS7TFC9Yh&channelId=5eea605374085f0040ddc764/hls/amagi_hls_data_plexAAAAA-unindentifiedtv-plex/CDN/1920x1080_5055600/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/YpkNhU4.jpg" group-title="PLEX USA",VENN
-https://venntv-plex.amagi.tv/hls/amagi_hls_data_venntvAAA-venntv-plex/CDN/playlist.m3u8?us_privacy=1---&did=df8e1a36-847d-5096-86a7-3803ed330ede&dnt=0&X-Plex-Token=MorUy57ijWhGe4ixZb_T&channelId=5f74cf7dffbe690040689f3b%20
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Ir8LX0x.jpg" group-title="PLEX USA",Weather Spy
-https://04799df414944908856c6c521891945f.mediatailor.us-east-1.amazonaws.com/v1/manifest/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Plex-intl_WeatherSpy/2eba863c-1452-4ea6-98b2-2b1c0c81c112/3.m3u8
