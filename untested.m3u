@@ -3,38 +3,26 @@
 #EXTINF:-1 tvg-name="CBSN" tvg-id="CBS Eastern US" group-title="USA" tvg-logo="https://i.imgur.com/nki2HDQ.png",CBSN
 http://cbsnewshd-lh.akamaihd.net/i/CBSNHD_7@199302/master.m3u8
 
-#EXTINF:-1 tvg-id="BBC One" tvg-name="BBC One" tvg-logo="https://i.imgur.com/arwMXZg.png" group-title="UK",BBC One
-https://edge-1192-ch-gv.filmon.com/live/3166.high.stream/playlist.m3u8
-
-#EXTINF:-1 tvg-id="BBC News" tvg-name="BBC News UK" tvg-logo="https://i.imgur.com/eNPIQ9f.png" group-title="UK",BBC News
-https://edge-1192-ch-gv.filmon.com/live/27.high.stream/playlist.m3u8
-
-#EXTINF:-1 tvg-id="ITV (UK)" tvg-name="ITV" tvg-logo="https://i.imgur.com/SsgOgRF.png" group-title="UK",ITV
+#EXTINF:-1,ITV
 http://sportportal1.akamaized.net/hls/live/702646/itvlive/ITV1PORTAL2/master_Main1800.m3u8
 
-#EXTINF:-1 tvg-id="COMET" tvg-name="COMET" tvg-logo="https://komonews.com/resources/media2/3x1/full/119/center/90/1e3c13e3-cba9-4754-8e30-e158f14d17fe-small3x1_stirr_1219_epg_comet_1920x1080.png?cb=c81e728d9d4c2f636f067f89cc14862c" group-title="STIRR USA",COMET
+#EXTINF:-1,COMET
 https://dai.google.com/linear/hls/event/83L2OqtGSZ6lbWt8ODomWg/master.m3u8
 
-#EXTINF:-1 tvg-id="Deal or No Deal" tvg-name="Deal or No Deal" tvg-logo="https://komonews.com/resources/media2/3x1/full/119/center/90/31bde873-2b72-4b5f-8087-05172adfd46e-small3x1_STIRR_Logo_0620_DealOrNoDeal_1920x1080_EPG.png?cb=c81e728d9d4c2f636f067f89cc14862c" group-title="STIRR USA",Deal or No Deal
+#EXTINF:-1,DEAL OR NO DEAL
 https://dai.google.com/linear/hls/event/9cq79TtPR6WbyaQGeDlHjA/master.m3u8
 
-#EXTINF:-1 tvg-id="Ring of Honor" tvg-name="Ring of Honor" tvg-logo="https://komonews.com/resources/media2/3x1/full/119/center/90/154876f2-ed78-4a1e-959d-96aab12af9cd-small3x1_STIRR_Logo_0720_ROHBestofthePlanet_1920x1080_EPG.png?cb=c81e728d9d4c2f636f067f89cc14862c" group-title="STIRR USA",Ring of Honor
+#EXTINF:-1,HONOR TV
 https://dai.google.com/linear/hls/event/RNiQYO3aTjOqTe8od1zlqA/master.m3u8
 
-#EXTINF:-1 tvg-id="STIRR | retro" tvg-name="STIRR | retro" tvg-logo="https://komonews.com/resources/media2/3x1/full/119/center/90/64751cb2-0f74-482b-a55f-b3c20da53a9b-small3x1_stirr_1219_epg_stirrtvmix_1920x1080.png?cb=c81e728d9d4c2f636f067f89cc14862c" group-title="STIRR USA",STIRR | retro
-https://dai.google.com/linear/hls/event/UQrixd_tTG2nC-lOUtw0mQ/master.m3u8
-
-#EXTINF:-1 tvg-id="STIRR | sports" tvg-name="STIRR | sports" tvg-logo="https://komonews.com/resources/media2/3x1/full/119/center/90/a43594d1-364b-4e0c-8647-0d117973a641-small3x1_stirr_1219_epg_stirrsports_1920x1080.png?cb=eccbc87e4b5ce2fe28308fd9f2a7baf3" group-title="STIRR USA",STIRR | sports
-https://dai.google.com/linear/hls/event/1B2yihdIR1mCL63rXzERag/master.m3u8
-
-#EXTINF:-1 tvg-id="STIRR Travel" tvg-name="STIRR Travel" tvg-logo="https://komonews.com/resources/media2/3x1/full/119/center/90/2adc9fb0-a8dd-4fc4-ac6e-9287f54c37e9-small3x1_STIRR_Logo_0320_STIRRTravel_1920x1080_EPG.png?cb=c81e728d9d4c2f636f067f89cc14862c" group-title="STIRR USA",STIRR Travel
+#EXTINF:-1,STIRR TRAVEL
 https://dai.google.com/linear/hls/event/0ZXyCbn9TYmrrAzcDfoU1w/master.m3u8
 
-#EXTINF:-1 tvg-id="Whose Line Is It Anyway" tvg-name="Whose Line Is It Anyway" tvg-logo="https://komonews.com/resources/media2/3x1/full/119/center/90/ed57e0b9-7f78-4203-a1d9-b0f542ca856a-small3x1_stirr_1219_epg_whoselineisitanyway_1920x1080.png?cb=eccbc87e4b5ce2fe28308fd9f2a7baf3" group-title="STIRR USA",Whose Line Is It Anyway
+#EXTINF:-1,WHOSE LINE IS IT ANYWAY
 https://dai.google.com/linear/hls/event/SYob3ZZfTwyVW7LILC9ckw/master.m3u8
 
-#EXTINF:-1 tvg-id="Wipeout Xtra" tvg-name="Wipeout Xtra" tvg-logo="https://komonews.com/resources/media2/3x1/full/119/center/90/8bb7cca9-e66e-4776-a70b-b22add0e368c-small3x1_STIRR_Logo_0620_Wipeout_1920x1080_EPG1.png?cb=c81e728d9d4c2f636f067f89cc14862c" group-title="STIRR USA",Wipeout Xtra
+#EXTINF:-1,WIPEOUT TV
 https://dai.google.com/linear/hls/event/0DG8p66IRES7ZzEe1WJS-w/master.m3u8
 
-#EXTINF:-1 tvg-id="World Poker Tour" tvg-name="World Poker Tour" tvg-logo="https://komonews.com/resources/media2/3x1/full/119/center/90/b0bcc7de-1b66-4bb0-aaba-f6b124b6446e-small3x1_STIRR_Logo_0520_WorldPokerTour_1920x1080_EPG.png?cb=c81e728d9d4c2f636f067f89cc14862c" group-title="STIRR USA",World Poker Tour
+#EXTINF:-1,POKER CHANNEL
 https://0f2030e8d8b24ee5bf5144417e07d65a.mediatailor.us-west-2.amazonaws.com/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/WPT-Stirr/119.m3u8
