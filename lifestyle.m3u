@@ -12,6 +12,12 @@ https://nrpus.bozztv.com/36bay2/gusa-tvstravel/index.m3u8
 #EXTINF:-1,TASTEMADE
 https://tastemadessai.akamaized.net/amagi_hls_data_tastemade-tastemade/CDN/playlist.m3u8
 
+#EXTINF:-1,SAVEUR
+http://a.jsrdn.com/broadcast/060753d37e/+0000/high/c.m3u8
+
+#EXTINF:-1,GUSTO
+https://a.jsrdn.com/broadcast/ebf95254ca/+0000/low/c.m3u8
+
 #EXTINF:-1,
 
 #EXTINF:-1,
