@@ -29,3 +29,9 @@ https://nrpus.bozztv.com/36bay2/gusa-tvs/index.m3u8
 
 #EXTINF:-1,POKER CHANNEL
 https://dai.google.com/linear/hls/event/V7AWGB66R3avQhuIFaxmjw/master.m3u8
+
+#EXTINF:-1,SURF NOW
+https://0e52d42a12b74a218576cd628069fa50.mediatailor.us-east-1.amazonaws.com/v1/manifest/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Plex_SurfNowTV/1e05afbf-0234-4d61-9406-20bf6719fce5/3.m3u8
+
+#EXTINF:-1,FIGHTING SPIRIT
+https://a.jsrdn.com/broadcast/22696/+0000/low/c.m3u8
