@@ -1,28 +1,2 @@
 #EXTM3U
 
-#EXTINF:-1,CBSN
-http://cbsnewshd-lh.akamaihd.net/i/CBSNHD_7@199302/master.m3u8
-
-#EXTINF:-1,ITV
-http://sportportal1.akamaized.net/hls/live/702646/itvlive/ITV1PORTAL2/master_Main1800.m3u8
-
-#EXTINF:-1,COMET
-https://dai.google.com/linear/hls/event/83L2OqtGSZ6lbWt8ODomWg/master.m3u8
-
-#EXTINF:-1,DEAL OR NO DEAL
-https://dai.google.com/linear/hls/event/9cq79TtPR6WbyaQGeDlHjA/master.m3u8
-
-#EXTINF:-1,HONOR TV
-https://dai.google.com/linear/hls/event/RNiQYO3aTjOqTe8od1zlqA/master.m3u8
-
-#EXTINF:-1,STIRR TRAVEL
-https://dai.google.com/linear/hls/event/0ZXyCbn9TYmrrAzcDfoU1w/master.m3u8
-
-#EXTINF:-1,WHOSE LINE IS IT ANYWAY
-https://dai.google.com/linear/hls/event/SYob3ZZfTwyVW7LILC9ckw/master.m3u8
-
-#EXTINF:-1,WIPEOUT TV
-https://dai.google.com/linear/hls/event/0DG8p66IRES7ZzEe1WJS-w/master.m3u8
-
-#EXTINF:-1,POKER CHANNEL
-https://0f2030e8d8b24ee5bf5144417e07d65a.mediatailor.us-west-2.amazonaws.com/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/WPT-Stirr/119.m3u8
