@@ -13,9 +13,6 @@ https://ott-live.olympicchannel.com/out/u/OC1_2.m3u8
 https://playoutengine.sinclairstoryline.com/playout/9f87522c-5a0e-4ff4-b82c-d5564216132f/g.m3u8
 
 #EXTINF:-1,POKER CHANNEL
-https://dai.google.com/linear/hls/event/V7AWGB66R3avQhuIFaxmjw/master.m3u8
-
-#EXTINF:-1,POKER CHANNEL-2
 https://0f2030e8d8b24ee5bf5144417e07d65a.mediatailor.us-west-2.amazonaws.com/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/WPT-Stirr/119.m3u8
 
 #EXTINF:-1,REDBULL TV
