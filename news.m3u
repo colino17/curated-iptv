@@ -33,3 +33,6 @@ https://live.chdrstatic.com/cheddar/primary/1.m3u8
 #EXTINF:-1,ABC NEWS
 https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8
 
+#EXTINF:-1,CBSN
+http://cbsnewshd-lh.akamaihd.net/i/CBSNHD_7@199302/master.m3u8
+
