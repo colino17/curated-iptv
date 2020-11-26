@@ -1,0 +1,25 @@
+version: '2'
+
+services:
+
+  webgrabplus:
+    image: ghcr.io/linuxserver/webgrabplus
+    container_name: webgrabplus
+    environment:
+      - PUID=1000
+      - PGID=1000
+      - TZ=Canada/Atlantic
+    volumes:
+      - /Storage/Configs/iptv/webgrabplus:/config
+      - /Storage/Configs/iptv/xmltv:/data
+    restart: unless-stopped
+   
+  xteve:
+    image: tnwhitwell/xteve:latest
+    ports:
+      - "34400:34400"
+    volumes:
+      - /Storage/Configs/iptv/xteve:/config
+      - /Storage/Configs/iptv/tmp:/tmp/xteve
+      - /Storage/Configs/iptv/xmltv:/xmltv
+    user: "1000:1000"
