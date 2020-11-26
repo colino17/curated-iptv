@@ -1,37 +1,43 @@
 #EXTM3U
 
-#EXTINF:-1,OLYMPIC CHANNEL
-https://ott-live.olympicchannel.com/out/u/OC1_2.m3u8
-
-#EXTINF:-1,REDBULL TV
-http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
-
-#EXTINF:-1,TENNIS CHANNEL
-https://playoutengine.sinclairstoryline.com/playout/9f87522c-5a0e-4ff4-b82c-d5564216132f/g.m3u8
-
-#EXTINF:-1,EDGESPORT
-https://dai2.xumo.com/amagi_hls_data_xumo1212A-edgesportxumo/CDN/master.m3u8
-
 #EXTINF:-1,FUBO TV
 https://dai2-xumo.fubo.tv/amagi_hls_data_xumo1212A-fubo/CDN/master.m3u8
 
 #EXTINF:-1,STADIUM
 https://dai2.xumo.com/amagi_hls_data_xumo1234A-stadiumsports/CDN/master.m3u8
 
-#EXTINF:-1,IMPACT PLUS
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/59b722526996084038c01e1b/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=734&deviceId=59b722526996084038c01e1b&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
+#EXTINF:-1,OLYMPIC CHANNEL
+https://ott-live.olympicchannel.com/out/u/OC1_2.m3u8
 
-#EXTINF:-1,WWE LIVE
-http://cdnak10.cast4u.info/channels/4/10804.m3u8
-
-#EXTINF:-1,CLASSICS
-https://nrpus.bozztv.com/36bay2/gusa-tvs/index.m3u8
+#EXTINF:-1,TENNIS CHANNEL
+https://playoutengine.sinclairstoryline.com/playout/9f87522c-5a0e-4ff4-b82c-d5564216132f/g.m3u8
 
 #EXTINF:-1,POKER CHANNEL
 https://dai.google.com/linear/hls/event/V7AWGB66R3avQhuIFaxmjw/master.m3u8
 
+#EXTINF:-1,POKER CHANNEL-2
+https://0f2030e8d8b24ee5bf5144417e07d65a.mediatailor.us-west-2.amazonaws.com/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/WPT-Stirr/119.m3u8
+
+#EXTINF:-1,REDBULL TV
+http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
+
+#EXTINF:-1,EDGESPORT
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-edgesportxumo/CDN/master.m3u8
+
 #EXTINF:-1,SURF NOW
 https://0e52d42a12b74a218576cd628069fa50.mediatailor.us-east-1.amazonaws.com/v1/manifest/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Plex_SurfNowTV/1e05afbf-0234-4d61-9406-20bf6719fce5/3.m3u8
 
+#EXTINF:-1,CLASSIC SPORTS
+https://nrpus.bozztv.com/36bay2/gusa-tvs/index.m3u8
+
 #EXTINF:-1,FIGHTING SPIRIT
 https://a.jsrdn.com/broadcast/22696/+0000/low/c.m3u8
+
+#EXTINF:-1,WRESTLE LIVE
+http://cdnak10.cast4u.info/channels/4/10804.m3u8
+
+#EXTINF:-1,IMPACT PLUS
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/59b722526996084038c01e1b/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=734&deviceId=59b722526996084038c01e1b&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
+
+#EXTINF:-1,HONOR TV
+https://dai.google.com/linear/hls/event/RNiQYO3aTjOqTe8od1zlqA/master.m3u8
