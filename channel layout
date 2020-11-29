@@ -106,6 +106,10 @@
 == MOVIES ==
 550 - FILM TV
 
+== OTHER ==
+
+580 - CMT
+
 ################
 # SPORTS - 600 #
 ################
@@ -153,3 +157,5 @@
 == HOLIDAY ==
 960 - HALLOWEEN CHANNEL
 970 - CHRISTMAS CHANNEL
+971 - MISTLETOE
+972 - HOLIDAY FIREPLACE
