@@ -5,3 +5,6 @@ https://studio1091-plex.amagi.tv/amRdirect/us_privacy=1---&did=3f68a808-1437-5e5
 
 #EXTINF:-1,COMET
 https://dai.google.com/linear/hls/event/83L2OqtGSZ6lbWt8ODomWg/master.m3u8
+
+#EXTINF:-1,CMT
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dcc42446750e200093b15e2/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=182&deviceId=5dcc42446750e200093b15e2&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=34.0485&deviceLon=-118.2529&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
