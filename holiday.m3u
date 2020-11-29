@@ -1,0 +1,22 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i.imgur.com/DSBjpDP.jpg" group-title="24/7",Christmas Fireplace
+http://silo.pluto.tv/production/201611/08/58212bb0a4d8f4494bc5b89c/christmasfireplace_master.m3u8
+
+#EXTINF:-1,Pluto Christmas
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5bb1b9f0adfc955391f8b7a2/master.m3u8?advertisingId=&appName=web&appVersion=5.11.0-1d883e1216be36c166cbf982f832a992718a0632&architecture=&buildVersion=&clientTime=&deviceDNT=false&deviceId=6164d3a9-4ae8-4c40-ba5b-41d9c52128a4&deviceLat=40.7157&deviceLon=-74.0000&deviceMake=Opera&deviceModel=Opera&deviceType=web&deviceVersion=72.0.3815.378&includeExtendedEvents=false&marketingRegion=US&sid=f70a2f5e-1629-4662-9e13-1cff94c4da18&userId=&serverSideAds=true
+
+#EXTINF:-1,Mistletoe
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d9ccd538661290009ecbdb7/master.m3u8?advertisingId=&appName=web&appVersion=5.11.0-1d883e1216be36c166cbf982f832a992718a0632&architecture=&buildVersion=&clientTime=&deviceDNT=false&deviceId=6164d3a9-4ae8-4c40-ba5b-41d9c52128a4&deviceLat=40.7157&deviceLon=-74.0000&deviceMake=Opera&deviceModel=Opera&deviceType=web&deviceVersion=72.0.3815.378&includeExtendedEvents=false&marketingRegion=US&sid=9e22d2bf-6681-495b-8c39-100ab5a4a95e&userId=&serverSideAds=true
+
+#EXTINF:-1,Pluto TV Fireplace
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5bf48085851dd5632e2f7b4d/master.m3u8?advertisingId=&appName=web&appVersion=5.11.0-1d883e1216be36c166cbf982f832a992718a0632&architecture=&buildVersion=&clientTime=&deviceDNT=false&deviceId=6164d3a9-4ae8-4c40-ba5b-41d9c52128a4&deviceLat=40.7157&deviceLon=-74.0000&deviceMake=Opera&deviceModel=Opera&deviceType=web&deviceVersion=72.0.3815.378&includeExtendedEvents=false&marketingRegion=US&sid=dce6e1d5-31f8-41e7-b649-43b664787b87&userId=&serverSideAds=true
+
+#EXTINF:-1,Holiday Lights
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/58348b5cc4d11ba530b30f51/master.m3u8?advertisingId=&appName=web&appVersion=5.11.0-1d883e1216be36c166cbf982f832a992718a0632&architecture=&buildVersion=&clientTime=&deviceDNT=false&deviceId=6164d3a9-4ae8-4c40-ba5b-41d9c52128a4&deviceLat=40.7157&deviceLon=-74.0000&deviceMake=Opera&deviceModel=Opera&deviceType=web&deviceVersion=72.0.3815.378&includeExtendedEvents=false&marketingRegion=US&sid=256e99ae-4c94-4a55-9f65-8ee1acdb9461&userId=&serverSideAds=true
+
+#EXTINF:-1,Fireplace Holiday Ed.
+https://cloudfront.tubi.video/efb1aca3-3525-468c-8e4b-8daa32e61c9b/g1zp7d0j/stream.m3u8
+
+#EXTINF:-1,VOD Anytime Fireplace
+https://cloudfront.tubi.video/5070a3d2-0be3-4f38-a440-7385d3821aef/u1xvps5h/stream.m3u8
