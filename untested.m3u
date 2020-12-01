@@ -1,29 +1,8 @@
 #EXTM3U
 
-#EXTINF:-1,Glory Kickboxing
-http://stitcher.pluto.tv/stitch/hls/channel/5417a212ff9fba68282fbf5e/master.m3u8?deviceType=&deviceMake=&deviceModel=&sid=2&deviceId=&deviceVersion=&appVersion=&deviceDNT=&userId=&advertisingId=&deviceLat=&deviceLon=-&app_name=&appName=&appStoreUrl=&profileLimit=high
-
-#EXTINF:-1,Lucha Libre AAA
-https://stitcher.pluto.tv/stitch/hls/channel/5c01df1759ee03633e7b272c/master.m3u8?deviceType=&deviceMake=&deviceVersion=&deviceId=&appVersion=&deviceDNT=0&deviceModel=&embedPartner=pluto.tv&sid=z24jbjrh2o33lln3jns6j2tmn0
-
-#EXTINF:-1,CHCH
-https://bcovelive-a.akamaihd.net/8919eed04a6e4279be1f434a4063df6a/us-west-2/5644964886001/playlist.m3u8
-
-#EXTINF:-1,CTV News Live 1
-http://ams-lp10.9c9media.com/hls-live/livepkgr/_definst_/liveNews/News18.m3u8
-
-#EXTINF:-1,Al Jazeera English
-http://aljazeera-eng-hd-live.hls.adaptive.level3.net/aljazeera/english2/index.m3u8
-
-#EXTINF:-1,Lucha Libre AAA (TWITCH) 
-https://video-weaver.dfw02.hls.ttvnw.net/v1/playlist/CpEEp28V0TY-Jl3CHblUcbwqR_FjBhiIWtM8veQ6WvROpHLt3yjAHFduBkrpqXnos_IHoWkkJ-7jHZhV1QeO7k8-13P0fF33fHlNRsZV1vMazUiZ3l0wS7B7mOkNfNoTRo-6-CnqHJzp7YGZISVLo8UfDfMTQr_qH0C3bHsi4oND8Det4Sa2oSf60eIB0mXcFBIjq4rmHuZtsXy6zMs31PCQFjUivtDZvvOmHPjB6Va1RY-uDX0UBB2H3eK_HjZar272S_1axfs5jacP3uQhbpn1DdF-6lNoEvv9H2Z_ZS5hx51J9bcIMX2C_YNorFB-semLyi6PyF4LAxEJ5ir7eOkpKt4lLOSoIaZB8bD5ZPcRr6jWQReBYrlTFodbAxA-UBWe9zA3_JtcRcVmg0edwh7_7669dThhcrMFC67vpVQl5ykC-ep5rVXrN99ZBsOQGU_fFZpuKniJVq7u4ruA8oKIxN3hrflQMxSU8CsoTONrBKuaubLGbF7BsGp4b-RigQy-kHWN3DVFZ7B-ZM0JfFRGpr2WNZZPIFMcvj9eS-5h_tPOf6SbQv4IJ7lFMt_mzCLxBfoL43jROpTIncTXpW2B1_NkWN9NCliZU_wmbrEK6WLk0oKqplziJiQQdLYla1PzEwsjrIjnLbuvVKQDx6i9Ysb0E-gQeFaiZrYrquQTqW7HB2IzrjVMa-Bb78BkiUSQsRIQOyO5Ft7QZkWz2Mhjjnm0KxoMhSrx8ljSp2EWHMea.m3u8
-
-#EXTINF:-1,Lucha Libre
-http://swf.x10.bz/swe/twich.php?canal=luchalibreaaa&f=.m3u8
-
-#EXTINF:-1,Relax.TV
-http://wse.planeta-online.tv:1935/live/channel_3/playlist.m3u8
-
 #EXTINF:-1,Rocky and Bullwinkle
 https://stream.allsprk.tv/live/2/index.m3u8
+
+#EXTINF:-1 tvg-name="Olympic Channel" tvg-id="Olympic Channel" tvg-logo="https://i.imgur.com/DDwsaHh.png" group-title="USA",Olympic Channel
+https://iocchannel-i.akamaihd.net/hls/live/514135/olylinear0629221316/DomesticOlympicsLinear_VIDEO_0_7064000.m3u8
 
