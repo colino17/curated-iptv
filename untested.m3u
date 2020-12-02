@@ -1,40 +1,10 @@
 #EXTM3U
 
-#EXTINF:-1,OLYMPIC CHANNEL
+#EXTINF:-1,OLYMPIC ONE
 https://iocchannel-i.akamaihd.net/hls/live/514135/olylinear0629221316/DomesticOlympicsLinear_VIDEO_0_7064000.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/dCh3ODY.png" group-title="Canadian TV",CBC Olympic Channel  HD
+#EXTINF:-1,OLYMPIC TWO
 https://ocshls-2-olympicchannel.akamaized.net/ocshls/OC1_1.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/dCh3ODY.png" group-title="Canadian TV",CBC Olympic Channel  SD
-https://ocshls-2-olympicchannel.akamaized.net/ocshls/OC1_3.m3u8
-
-#EXTINF:0,NASA TV
-http://nasatv-lh.akamaihd.net/i/NASA_101@319270/master.m3u8
-
-#EXTINF:0 tvg-name="Global BC" tvg-language="English" tvg-country="CA" tvg-id="Global BC" tvg-logo="http://s0.wp.com/wp-content/themes/vip/shaw-globalnews/_img/logos/globalnews-print.png" group-title="News",Global BC (News) (CA) (English)
-https://glblvestu-f.akamaihd.net/i/glblvPSTu_1@80128/master.m3u8?__b__=900&hdnea=ip=99.18.68.202~st=1434307348~exp=1434307948~acl=/i/*~id=5a91003f-0e87-4f31-b475-5beb4de69407~hmac=8011c2346009544656a3195d1e9e03e511efc6523dab9644debf3692f630fe77
-
-#EXTINF:0 tvg-name="Global Halifax" tvg-language="English" tvg-country="CA" tvg-id="Global Halifax" tvg-logo="http://s0.globalnews.ca/wp-content/themes/vip/shaw-globalnews/_img/logos/dark/halifax.png" group-title="News",Global Halifax (News) (CA) (English)
-https://glblvhalifax-lh.akamaihd.net/i/glblvHalifax_1@119843/master.m3u8?__b__=900&hdnea=ip=99.18.68.202~st=1434307535~exp=1434308135~acl=/i/*~id=17e92158-bbde-4665-a37c-817c97c7569c~hmac=1afe142fae8d05bad8895371e0834b246ce53e26af2bd6090227741f043668bd
-
-#EXTINF:0 tvg-name="Global tv" tvg-language="English" tvg-country="CA" tvg-id="Global tv" tvg-logo="http://s0.globalnews.ca/wp-content/themes/vip/shaw-globalnews/_img/logos/globalnews-print.png" group-title="News",Global tv (News) (CA) (English)
-https://glblvestu-f.akamaihd.net/i/glblvestu_1@78149/master.m3u8?__b__=900&hdnea=ip=99.18.68.202~st=1434303944~exp=1434304544~acl=/i/*~id=3f0edb02-c4e5-4596-8950-4331b8ce1baf~hmac=4acbecb511f7c3beaf085123ab9097c7a6acbd5d857fd4cefbfdfb733b666f57
-
-#EXTINF:0 tvg-name="Nasa TV Education" tvg-language="English" tvg-country="US" tvg-id="Nasa TV Education" tvg-logo="http://cdn-radiotime-logos.tunein.com/s18889q.png" group-title="Documentary",Nasa TV Education (Documentary) (US) (English)
-http://nasatv-lh.akamaihd.net/i/NASA_102@319272/master.m3u8
-
-#EXTINF:0 tvg-name="Nasa TV Media" tvg-language="English" tvg-country="US" tvg-id="Nasa TV Media" tvg-logo="http://talkiesnow.com/wp-content/uploads/2015/07/Nasa-Television-230x150.jpg" group-title="Documentary",Nasa TV Media (Documentary) (US) (English)
-http://nasatv-lh.akamaihd.net/i/NASA_103@319271/master.m3u8
-
-#EXTINF:0 tvg-name="Nasa TV Public" tvg-language="English" tvg-country="US" tvg-id="Nasa TV Public" tvg-logo="http://www.acrosstheuniverseday.com/images/nasa_TV_logo.jpg" group-title="Documentary",Nasa TV Public (Documentary) (US) (English)
-http://nasatv-lh.akamaihd.net/i/NASA_101@319270/master.m3u8
-
-#EXTINF:0 tvg-name="IGN1" tvg-language="English" tvg-country="US" tvg-id="IGN1" tvg-logo="https://pbs.twimg.com/media/CTULYveUEAAghPd.png:large" group-title="Entertainment",IGN1 (Entertainment) (US) (English)
-http://videochannel.ign.com/stitcher/playlist_1080.m3u8
-
-#EXTINF:0 tvg-name="Toonami Aftermath" tvg-language="English" tvg-country="US" tvg-id="Toonami Aftermath" tvg-logo="https://s-media-cache-ak0.pinimg.com/236x/e5/65/b0/e565b090b34dc756072aff0584f6cbab.jpg" group-title="Entertainment",Toonami Aftermath (Entertainment) (US) (English)
-http://iphone-streaming.ustream.tv/uhls/19964352/streams/live/iphone/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Aqetvxz.png" group-title="News",Global News National 
 https://live.corusdigitaldev.com/groupd/live/49a91e7f-1023-430f-8d66-561055f3d0f7/live.isml/.m3u8
