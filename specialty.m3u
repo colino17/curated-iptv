@@ -1,8 +1,5 @@
 #EXTM3U
 
-#EXTINF:-1,UNIDENTIFIED
-https://studio1091-plex.amagi.tv/amRdirect/us_privacy=1---&did=3f68a808-1437-5e57-9eaf-7a12279d9462&dnt=0&X-Plex-Token=nkPyxTGm41qFS7TFC9Yh&channelId=5eea605374085f0040ddc764/hls/amagi_hls_data_plexAAAAA-unindentifiedtv-plex/CDN/1920x1080_5055600/index.m3u8
-
 #EXTINF:-1,COMET
 https://dai.google.com/linear/hls/event/83L2OqtGSZ6lbWt8ODomWg/master.m3u8
 
