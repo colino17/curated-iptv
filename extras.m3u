@@ -1,0 +1,22 @@
+#EXTM3U
+
+#EXTINF:-1,GLOBAL NEWS NATIONAL 
+https://live.corusdigitaldev.com/groupd/live/49a91e7f-1023-430f-8d66-561055f3d0f7/live.isml/.m3u8
+
+#EXTINF:-1,GLOBAL NEWS HALIFAX 
+https://live.corusdigitaldev.com/groupa/live/b60d1d57-2851-4c29-bf5c-36feed988e57/live.isml/.m3u8
+
+#EXTINF:-1,GLOBAL TORONTO
+http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/Canada/b71d978ae8cc919.m3u8|User-Agent=stream
+
+#EXTINF:-1,FIREPLACE LOUNGE
+https://a.jsrdn.com/broadcast/aee08372e5/+0000/c.m3u8
+
+#EXTINF:-1,GLORY
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxglorykickboxing/CDN/playlist.m3u8?p=redbox&deviceid=&is_lat=&subp=RedboxdesktopWebWindows
+
+#EXTINF:-1,COOKS
+https://dai.google.com/linear/hls/event/CHaUZsCfSyS2CVF7I-NktA/master.m3u8
+
+#EXTINF:-1,CLOUDFLARE TV
+https://cloudflare.tv/hls/live.m3u8
