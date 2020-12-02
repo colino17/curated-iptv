@@ -6,42 +6,24 @@ https://iocchannel-i.akamaihd.net/hls/live/514135/olylinear0629221316/DomesticOl
 #EXTINF:-1,OLYMPIC TWO
 https://ocshls-2-olympicchannel.akamaized.net/ocshls/OC1_1.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Aqetvxz.png" group-title="News",Global News National 
+#EXTINF:-1,GLOBAL NEWS NATIONAL 
 https://live.corusdigitaldev.com/groupd/live/49a91e7f-1023-430f-8d66-561055f3d0f7/live.isml/.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/aPZUa0v.png" group-title="News",Global News Halifax 
+#EXTINF:-1,GLOBAL NEWS HALIFAX 
 https://live.corusdigitaldev.com/groupa/live/b60d1d57-2851-4c29-bf5c-36feed988e57/live.isml/.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/s0PjRqw.png" group-title="",Global Toronto
+#EXTINF:-1,GLOBAL TORONTO
 http://9ef693e4a1c9995c5003732394002e98.streamhost.cc/m3u8/Canada/b71d978ae8cc919.m3u8|User-Agent=stream
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/w12KdgA.png" group-title="USA",Hallmark Channel
-https://crownmediaingesttest.akamaized.net/hls/live/567739/cm/master.m3u8?hdnts=exp=3085179895~acl=/*~hmac=0eb6c6e77a672ed1f4816b69d2c74a057302f23f7b74ec74070b94f6919cb935
- 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/tNU6NHC.png" group-title="USA",Hallmark Movies & Mysteries
-https://crownmediaingesttest.akamaized.net/hls/live/567739/mm/master.m3u8?hdnts=exp=3085179895~acl=/*~hmac=0eb6c6e77a672ed1f4816b69d2c74a057302f23f7b74ec74070b94f6919cb935
-
-#EXTINF:-1 tvg-id="5417a212ff9fba68282fbf5e" tvg-chno="736" tvg-logo="https://images.pluto.tv/channels/5417a212ff9fba68282fbf5e/colorLogoPNG.png" group-title="Sports",GLORY Kickboxing
+#EXTINF:-1,GLORY
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5417a212ff9fba68282fbf5e/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=736&deviceId=5417a212ff9fba68282fbf5e&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
 
-#EXTINF:-1 tvg-id="5c01df1759ee03633e7b272c" tvg-chno="971" tvg-logo="https://images.pluto.tv/channels/5c01df1759ee03633e7b272c/colorLogoPNG.png" group-title="Latino",Lucha Libre AAA
+#EXTINF:-1,TELE LUCHA
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5c01df1759ee03633e7b272c/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=971&deviceId=5c01df1759ee03633e7b272c&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
 
-#EXTINF:-1 tvg-logo="https://a.jsrdn.com/hls/22895/drone-channel/logo_20201103_010328_68.png" group-title="DistroTV",Drone Channel
-https://f610a312b4ae4c22bf14771a4a5cfd2d.mediatailor.us-west-2.amazonaws.com/v1/manifest/6b8beeb9ed833d048c8c8155a25a28fe617c5474/drone_channel_distrotv/53db7265-f772-45a9-a239-63d7f3f8ab50/3.m3u8
-
-#EXTINF:-1 tvg-logo="https://d14c63magvk61v.cloudfront.net/hls/22801/fireplace-lounge/logo_20200229_000016.png" group-title="DistroTV",Fireplace Lounge
+#EXTINF:-1,FIREPLACE LOUNGE
 https://a.jsrdn.com/broadcast/aee08372e5/+0000/c.m3u8
 
-#EXTINF:-1 tvg-logo="https://d14c63magvk61v.cloudfront.net/hls/22801/fish-tank/logo_20200229_001442.png" group-title="DistroTV",Fish Tank
-https://a.jsrdn.com/broadcast/8b43a16c1e/+0000/c.m3u8
-
-#EXTINF:-1 tvg-logo="https://d14c63magvk61v.cloudfront.net/hls/22801/island-escape/logo_20200229_001935.png" group-title="DistroTV",Island Escape
-https://a.jsrdn.com/broadcast/41e3e6703e/+0000/c.m3u8
-
-#EXTINF:-1 tvg-logo="https://d14c63magvk61v.cloudfront.net/hls/22801/tranquil-thunderstorms/logo_20200305_210647.png" group-title="DistroTV",Tranquil Thunderstorms
-https://a.jsrdn.com/broadcast/18b42f9aef/+0000/c.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/VORGv30.png" group-title="RedboxTV",Redbox | Glory Kickboxing
+#EXTINF:-1,GLORY
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxglorykickboxing/CDN/playlist.m3u8?p=redbox&deviceid=&is_lat=&subp=RedboxdesktopWebWindows
 
