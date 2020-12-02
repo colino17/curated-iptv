@@ -9,9 +9,6 @@ https://a.jsrdn.com/broadcast/ebf95254ca/+0000/low/c.m3u8
 #EXTINF:-1,SAVEUR
 http://a.jsrdn.com/broadcast/060753d37e/+0000/high/c.m3u8
 
-#EXTINF:-1,COOKS
-https://dai.google.com/linear/hls/event/CHaUZsCfSyS2CVF7I-NktA/master.m3u8
-
 #EXTINF:-1,DESIGN
 https://d06b09a740824c49b9937130662ef38a.mediatailor.us-east-1.amazonaws.com/v1/manifest/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Plex_TheDesignNetwork/7c1469be-63d2-44de-8083-ee421aeb53df/4.m3u8
 
