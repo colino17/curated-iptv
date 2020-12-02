@@ -6,8 +6,11 @@ https://dai2-xumo.fubo.tv/amagi_hls_data_xumo1212A-fubo/CDN/master.m3u8
 #EXTINF:-1,STADIUM
 https://dai2.xumo.com/amagi_hls_data_xumo1234A-stadiumsports/CDN/master.m3u8
 
-#EXTINF:-1,OLYMPIC CHANNEL
-https://ott-live.olympicchannel.com/out/u/OC1_2.m3u8
+#EXTINF:-1,OLYMPIC ONE
+https://iocchannel-i.akamaihd.net/hls/live/514135/olylinear0629221316/DomesticOlympicsLinear_VIDEO_0_7064000.m3u8
+
+#EXTINF:-1,OLYMPIC TWO
+https://ocshls-2-olympicchannel.akamaized.net/ocshls/OC1_1.m3u8
 
 #EXTINF:-1,TENNIS CHANNEL
 https://playoutengine.sinclairstoryline.com/playout/9f87522c-5a0e-4ff4-b82c-d5564216132f/g.m3u8
@@ -30,6 +33,9 @@ https://nrpus.bozztv.com/36bay2/gusa-tvs/index.m3u8
 #EXTINF:-1,FIGHTING SPIRIT
 https://a.jsrdn.com/broadcast/22696/+0000/low/c.m3u8
 
+#EXTINF:-1,GLORY
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5417a212ff9fba68282fbf5e/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=736&deviceId=5417a212ff9fba68282fbf5e&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
+
 #EXTINF:-1,WRESTLE LIVE
 http://cdnak10.cast4u.info/channels/4/10804.m3u8
 
@@ -38,3 +44,6 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/59b722526996084038
 
 #EXTINF:-1,HONOR TV
 https://dai.google.com/linear/hls/event/RNiQYO3aTjOqTe8od1zlqA/master.m3u8
+
+#EXTINF:-1,TELE LUCHA
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5c01df1759ee03633e7b272c/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=971&deviceId=5c01df1759ee03633e7b272c&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
