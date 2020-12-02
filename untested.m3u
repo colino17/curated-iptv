@@ -1,9 +1,6 @@
 #EXTM3U
 
-#EXTINF:-1,Rocky and Bullwinkle
-https://stream.allsprk.tv/live/2/index.m3u8
-
-#EXTINF:-1 tvg-name="Olympic Channel" tvg-id="Olympic Channel" tvg-logo="https://i.imgur.com/DDwsaHh.png" group-title="USA",Olympic Channel
+#EXTINF:-1,OLYMPIC CHANNEL
 https://iocchannel-i.akamaihd.net/hls/live/514135/olylinear0629221316/DomesticOlympicsLinear_VIDEO_0_7064000.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/dCh3ODY.png" group-title="Canadian TV",CBC Olympic Channel  HD
