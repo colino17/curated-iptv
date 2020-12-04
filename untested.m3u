@@ -15,15 +15,14 @@ https://a.jsrdn.com/broadcast/aee08372e5/+0000/c.m3u8
 #EXTINF:-1,GLORY
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxglorykickboxing/CDN/playlist.m3u8?p=redbox&deviceid=&is_lat=&subp=RedboxdesktopWebWindows
 
-<channel update="f" site="fixed" site_id="00:00-23:59##title:Live Wrestling##description:The day's live wrestling events##category:Sports" xmltv_id="WRESTLE LIVE">WRESTLE LIVE</channel>
-<channel update="f" site="fixed" site_id="00:00-23:59##title:24/7 Surf Coverage on Surf Now TV##description:24/7 Surf Coverage on Surf Now TV##category:Sports" xmltv_id="SURF NOW TV">SURF NOW TV</channel>
-<channel update="f" site="fixed" site_id="00:00-23:59##title:Sports on OLYMPIC ONE##description:24/7 coverage of past and present Olympic Events##category:Sports" xmltv_id="OLYMPIC ONE">OLYMPIC ONE</channel>
-<channel update="f" site="fixed" site_id="00:00-23:59##title:Sports on OLYMPIC TWO##description:24/7 coverage of past and present Olympic Events##category:Sports" xmltv_id="OLYMPIC TWO">OLYMPIC TWO</channel>
-<channel update="f" site="fixed" site_id="00:00-23:59##title:24/7 Tennis Coverage on the Tennis Channel##description:24/7 Tennis Coverage on the Tennis Channel##category:Sports" xmltv_id="TENNIS CHANNEL">TENNIS CHANNEL</channel>
-<channel update="f" site="fixed" site_id="00:00-23:59##title:Family Feud##description:All feud all the time!##category:Family" xmltv_id="Family Feud">Family Feud</channel>
-<channel update="f" site="fixed" site_id="00:00-23:59##title:ABC News Live##description:ABC News Live##category:News" xmltv_id="ABC NEWS">ABC NEWS</channel>
-<channel update="f" site="fixed" site_id="00:00-23:59##title:RT America News Live##description:RT America News Live##category:News" xmltv_id="RT AMERICA">RT AMERICA</channel>
-<channel update="f" site="fixed" site_id="00:00-23:59##title:Weather News, Forecasts and Coverage##description:Weather News, Forecasts and Coverage##category:News" xmltv_id="WEATHER NETWORK">WEATHER NETWORK</channel>
-<channel update="f" site="fixed" site_id="00:00-23:59##title:Wild World of Weather##description:Wild World of Weather##category:News" xmltv_id="WEATHER SPY">WEATHER SPY</channel>
-<channel update="f" site="fixed" site_id="00:00-23:59##title:Holly Wire: Live Celebrity News##description:Live Celebrity News##category:News" xmltv_id="HOLLY WIRE">HOLLY WIRE</channel>
+#EXTINF:0,Tastemade
+https://tastemadessai.akamaized.net/amagi_hls_data_tastemade-tastemade/CDN/718x404_2002829/index.m3u8
+
+#EXTINF:0,TastyTrade
+https://trinity-lh.akamaihd.net/i/ttmain_d@82127/index_3128_av-p.m3u8
+
+#EXTINF:-1 tvg-logo="https://graph.facebook.com/TastemadeEs/picture?width=200&height=200" group-title="Int. Otros" tvg-name="Tastemade",Tastemade EN
+pipe:///var/dobleM-IPTV.sh https://tastemade.samsung.wurl.com/manifest/playlist.m3u8
+
+
 
