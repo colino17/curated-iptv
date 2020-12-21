@@ -15,26 +15,8 @@ https://a.jsrdn.com/broadcast/aee08372e5/+0000/c.m3u8
 #EXTINF:-1,GLORY
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxglorykickboxing/CDN/playlist.m3u8?p=redbox&deviceid=&is_lat=&subp=RedboxdesktopWebWindows
 
-#EXTINF:0,Tastemade
-https://tastemadessai.akamaized.net/amagi_hls_data_tastemade-tastemade/CDN/718x404_2002829/index.m3u8
-
-#EXTINF:0,TastyTrade
-https://trinity-lh.akamaihd.net/i/ttmain_d@82127/index_3128_av-p.m3u8
-
-#EXTINF:-1 tvg-logo="https://graph.facebook.com/TastemadeEs/picture?width=200&height=200" group-title="Int. Otros" tvg-name="Tastemade",Tastemade EN
-pipe:///var/dobleM-IPTV.sh https://tastemade.samsung.wurl.com/manifest/playlist.m3u8
-
-#EXTINF:-1 tvg-id="BBC One" tvg-name="BBC One" tvg-logo="https://i.imgur.com/arwMXZg.png" group-title="UK",BBC One
-https://edge-1192-ch-gv.filmon.com/live/3166.high.stream/playlist.m3u8
-
-#EXTINF:-1 tvg-id="BBC News" tvg-name="BBC News UK" tvg-logo="https://i.imgur.com/eNPIQ9f.png" group-title="UK",BBC News
-https://edge-1192-ch-gv.filmon.com/live/27.high.stream/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/pXOyNEy.png" group-title="TVS USA",TVS Comedy Network
 https://nrpus.bozztv.com/36bay2/gusa-tvscomedy/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/pXOyNEy.png" group-title="TVS USA",TVS Game Show Network
-https://nrpus.bozztv.com/36bay2/gusa-tvsgameshow/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/K1kJf1s.png" group-title="ROKU USA",Game Show Central
 https://gsn-gameshowchannnel-2.roku.wurl.com/manifest/playlist.m3u8
@@ -42,20 +24,6 @@ https://gsn-gameshowchannnel-2.roku.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/K1kJf1s.png" group-title="ROKU USA",Retro Crush
 https://digitalmediarights-retrocrush-1.roku.wurl.com/manifest/playlist.m3u8
 
-#EXTINF:-1 tvg-name="Bellator MMA" tvg-logo="https://images.pluto.tv/channels/5ebc8688f3697d00072f7cf8/colorLogoPNG.png" group-title="PLUTO USA",Bellator MMA
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ebc8688f3697d00072f7cf8/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=730&deviceId=5ebc8688f3697d00072f7cf8&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
-
-#EXTINF:-1 tvg-name="Food TV" tvg-logo="https://images.pluto.tv/channels/5877ac8cb791f4eb4a140d81/colorLogoPNG.png" group-title="PLUTO USA",Food TV
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5877ac8cb791f4eb4a140d81/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=601&deviceId=5877ac8cb791f4eb4a140d81&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
-
-#EXTINF:-1 tvg-name="MLS" tvg-logo="https://images.pluto.tv/channels/5cb626cfcaf83414128f439c/colorLogoPNG.png" group-title="PLUTO USA",MLS
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5cb626cfcaf83414128f439c/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=712&deviceId=5cb626cfcaf83414128f439c&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
-
 #EXTINF:-1 tvg-ID="PLEX.TV.Ring.of.Honor" tvg-name"Ring of Honor" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/stadium_ringofhonor_1_logo.png" group-title="PLEX USA",Ring of Honor
 https://92ad12505815495a9dcb303e451c2970.mediatailor.us-east-1.amazonaws.com/v1/manifest/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Plex_RingOfHonor/36160685-bf19-49f0-980c-100c786f8322/3.m3u8
-
-#EXTINF:-1 tvg-ID="PLEX.TV.Tastemade" tvg-name"Tastemade" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/tastemade-v2.png" group-title="PLEX USA",Tastemade
-https://tastemade-freetv16min-plex.amagi.tv/amRdirect/us_privacy=1---&did=df8e1a36-847d-5096-86a7-3803ed330ede&dnt=0&X-Plex-Token=MorUy57ijWhGe4ixZb_T&channelId=5ef51c802ddee5003f1c0225&appBundle=com.plexapp.desktop&appStoreUrl=https%3A%2F%2Fapp.plex.tv&appName=Plex/hls/amagi_hls_data_tastemade-tastemadefreetv16-plex/CDN/1920x1080_5161200/index.m3u8
-
-
 
