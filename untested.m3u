@@ -1,5 +1,8 @@
 #EXTM3U
 
+#EXTINF:0, tvg-logo="https://cdn.cnn.com/cnnnext/dam/assets/170711161429-happening-now-16x9-artwork-exlarge-tease.jpg" group-title="",CNN Live Event
+https://cnngo1.akamaized.net/hls/live/598782/PROD-cnnlive1/master.m3u8
+
 #EXTINF:-1,GLOBAL NEWS NATIONAL 
 https://live.corusdigitaldev.com/groupd/live/49a91e7f-1023-430f-8d66-561055f3d0f7/live.isml/.m3u8
 
