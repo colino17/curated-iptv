@@ -23,3 +23,10 @@ https://cloudflare.tv/hls/live.m3u8
 
 #EXTINF:-1,UNIDENTIFIED
 https://studio1091-plex.amagi.tv/amRdirect/us_privacy=1---&did=3f68a808-1437-5e57-9eaf-7a12279d9462&dnt=0&X-Plex-Token=nkPyxTGm41qFS7TFC9Yh&channelId=5eea605374085f0040ddc764/hls/amagi_hls_data_plexAAAAA-unindentifiedtv-plex/CDN/1920x1080_5055600/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/K1kJf1s.png" group-title="ROKU USA",Game Show Central
+https://gsn-gameshowchannnel-2.roku.wurl.com/manifest/playlist.m3u8
+
+#EXTINF:-1 tvg-ID="PLEX.TV.Ring.of.Honor" tvg-name"Ring of Honor" tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/stadium_ringofhonor_1_logo.png" group-title="PLEX USA",Ring of Honor
+https://92ad12505815495a9dcb303e451c2970.mediatailor.us-east-1.amazonaws.com/v1/manifest/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Plex_RingOfHonor/36160685-bf19-49f0-980c-100c786f8322/3.m3u8
+
