@@ -1,46 +1,27 @@
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/TSN1.svg/500px-TSN1.svg.png" group-title="DEPORTES", TSN 1   
-https://blackghost.live/402/tvx.php?opcion=xtv32&c=15582 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/TSN2.svg/640px-TSN2.svg.png" group-title="DEPORTES", TSN 2 
-https://blackghost.live/402/tvx.php?opcion=xtv32&c=16162 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/TSN3.svg/800px-TSN3.svg.png" group-title="DEPORTES", TSN 3  
-https://blackghost.live/402/tvx.php?opcion=xtv32&c=16163 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/TSN4.svg/800px-TSN4.svg.png" group-title="DEPORTES", TSN 4 
-https://blackghost.live/402/tvx.php?opcion=xtv32&c=16164 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/TSN5.svg/800px-TSN5.svg.png" group-title="DEPORTES", TSN 5 
-https://blackghost.live/402/tvx.php?opcion=xtv32&c=16165 
-#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Sport",SPORTSNET 360
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Sport",0
 http://37723998.to:2052/dale1/1234/21719?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Sport",SPORTSNET EAST
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Sport",1
 http://37723998.to:2052/dale1/1234/21720?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Sport",SPORTSNET ONE
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Sport",2
 http://37723998.to:2052/dale1/1234/21721?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Sport",SPORTSNET ONTARIO
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Sport",3
 http://37723998.to:2052/dale1/1234/21722?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Sport",SPORTSNET PACIFIC
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Sport",4
 http://37723998.to:2052/dale1/1234/21725?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Sport",SPORTSNET_EAST
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Sport",5
 http://iptv-g.host:8880/K3/gx6pMYlwWj/2605763?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Sport",SPORTSNET_ONE
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Sport",6
 http://iptv-g.host:8880/K3/gx6pMYlwWj/2605761?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Sport",SPORTSNET_PACIFIC
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Sport",7
 http://iptv-g.host:8880/K3/gx6pMYlwWj/2605759?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Sport",Sports Net Ontario HD
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Sport",8
 http://iptv-g.host:8880/K3/gx6pMYlwWj/2605668?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Sport",Sports Net Pacific HD CA
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Sport",9
 http://iptv-g.host:8880/K3/gx6pMYlwWj/2605669?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Sport",Sportsnet East HD
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Sport",10
 http://ajstreamz.xyz:8080/Constance/constance/151340?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Sport",Sportsnet Ontario HD
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Sport",11
 http://ajstreamz.xyz:8080/Constance/constance/151343?checkedby:iptvcat.com
-#EXTINF:0,CA: SPORTSNET ONTARIO
+#EXTINF:0,CA: 12
 http://iptv-volkan.net:8000/live/electrosat-dev-tech/3268745214kjhgf/2819.ts
-#EXTINF:0,CA: SPORTSNET WORLD
-http://iptv-volkan.net:8000/live/electrosat-dev-tech/3268745214kjhgf/2818.ts
-#EXTINF:0,CA: SPORTSNET 360 HD
-http://iptv-volkan.net:8000/live/electrosat-dev-tech/3268745214kjhgf/2817.ts
-#EXTINF:0,CA: SPORTSNET ONE HD
-http://iptv-volkan.net:8000/live/electrosat-dev-tech/3268745214kjhgf/3467.ts
-#EXTINF:0,CA: SPORTSNET PACIFIC
-http://iptv-volkan.net:8000/live/electrosat-dev-tech/3268745214kjhgf/3469.ts
-#EXTINF:0,CA: SPORTSNET WEST HD
-http://iptv-volkan.net:8000/live/electrosat-dev-tech/3268745214kjhgf/3468.ts
+
