@@ -16,12 +16,17 @@ https://live.corusdigitaldev.com/groupd/live/8970c668-40cd-4ca9-8c4d-25fd04f619b
 #EXTINF:-1 tvg-id="TinyHouseNation.us" tvg-name="Tiny House Nation" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/o8ooqA1.png" group-title="",Tiny House Nation
 https://aenetworks-tinyhousenation-1.samsung.wurl.com/manifest/playlist.m3u8
 
-#EXTINF:-1 tvg-id="TheMonarchChannel.us" tvg-name="The Monarch Channel" tvg-country="US;UK" tvg-language="English" tvg-logo="" group-title="Documentary",The Monarch Channel
-https://a.jsrdn.com/broadcast/0c9a09c94c/+0000/c.m3u8
-
-EXTINF:-1 tvg-id="Sabrina.us" tvg-name="Sabrina" tvg-country="US" tvg-language="English" tvg-logo="https://images.pluto.tv/channels/5dbc327d0451770009ed7577/colorLogoPNG.png" group-title="",Pluto TV Sabrina
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5dbc327d0451770009ed7577/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
-
-#EXTINF:-1 tvg-id="SabrinaTeenageWitch.us" tvg-name="Sabrina Teenage Witch" tvg-country="US" tvg-language="English" tvg-logo="https://images.pluto.tv/channels/5d94a5451754e6a4298d1059/colorLogoPNG.png" group-title="",Pluto TV Sabrina Teenage Witch
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5d94a5451754e6a4298d1059/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
-
+#EXTINF:-1 group-title="Canada Sports" tvg-logo="https://images.ctfassets.net/evnrpfa1vdk4/kGnUynEOI0uaCmw0E2Gyy/55ba24e667bab29dc671aa19bdb311a5/SN_360_logo.svg?w=100",CA: SportsNet 360
+http://we.caughtyousnooping.club:80/mYaESHd3Zf/3BbeDHHvtu/2285
+#EXTINF:-1 group-title="Canada Sports" tvg-logo="https://www.nwtel.ca/sites/default/files/channel-logos/sportsnet-east.png",CA: SportsNet East
+http://we.caughtyousnooping.club:80/mYaESHd3Zf/3BbeDHHvtu/2283
+#EXTINF:-1 group-title="Canada Sports" tvg-logo="https://i.ya-webdesign.com/images/sports-net-one-logo-png-9.png",CA: SportsNet One
+http://we.caughtyousnooping.club:80/mYaESHd3Zf/3BbeDHHvtu/2292
+#EXTINF:-1 group-title="Canada Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/5e/SportsnetOntario2011.png/500px-SportsnetOntario2011.png",CA: Sportsnet Ontario
+http://we.caughtyousnooping.club:80/mYaESHd3Zf/3BbeDHHvtu/2293
+#EXTINF:-1 group-title="Canada Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/5e/SportsnetOntario2011.png/500px-SportsnetOntario2011.png",CA: SportsNet Pacific
+http://we.caughtyousnooping.club:80/mYaESHd3Zf/3BbeDHHvtu/2286
+#EXTINF:-1 group-title="Canada Sports" tvg-logo="https://www.nwtel.ca/sites/default/files/channel-logos/sportsnet-west.png",CA: SportsNet West
+http://we.caughtyousnooping.club:80/mYaESHd3Zf/3BbeDHHvtu/2284
+#EXTINF:-1 group-title="Canada Sports" tvg-logo="https://transattelecom.ca/qc/residentiel/fr/wp-content/uploads/2019/07/51233-Sportsnet_world.png",CA: Sportsnet World
+http://we.caughtyousnooping.club:80/mYaESHd3Zf/3BbeDHHvtu/2294
