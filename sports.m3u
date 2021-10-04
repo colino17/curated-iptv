@@ -3,12 +3,6 @@
 #EXTINF:-1,STADIUM
 https://stadium.samsung.wurl.com/manifest/playlist.m3u8
 
-#EXTINF:-1,SPORTSGRID
-https://sportsgrid-samsungus.amagi.tv/playlist.m3u8
-
-#EXTINF:-1,SURF NOW TV
-https://1091-surfnowtv-1.samsung.wurl.com/manifest/playlist.m3u8
-
 #EXTINF:-1,POKER CHANNEL
 https://world-poker-tour.samsung.wurl.com/manifest/playlist.m3u8
 
@@ -22,7 +16,7 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5fac431fc1ffbc0007
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/59b722526996084038c01e1b/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=734&deviceId=59b722526996084038c01e1b&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
 
 #EXTINF:-1,HONOR TV
-https://dai.google.com/linear/hls/event/RNiQYO3aTjOqTe8od1zlqA/master.m3u8
+https://stadium-ringofhonor-1.sinclair.wurl.com/manifest/playlist.m3u8
 
 #EXTINF:-1,TELE LUCHA
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5c01df1759ee03633e7b272c/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=971&deviceId=5c01df1759ee03633e7b272c&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
