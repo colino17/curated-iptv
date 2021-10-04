@@ -1,37 +1,16 @@
 #EXTM3U
 
-#EXTINF:-1,FUBO TV
-https://dai2-xumo.fubo.tv/amagi_hls_data_xumo1212A-fubo/CDN/master.m3u8
-
 #EXTINF:-1,STADIUM
-https://dai2.xumo.com/amagi_hls_data_xumo1234A-stadiumsports/CDN/master.m3u8
+https://stadium.samsung.wurl.com/manifest/playlist.m3u8
 
-#EXTINF:-1,OLYMPIC ONE
-https://iocchannel-i.akamaihd.net/hls/live/514135/olylinear0629221316/DomesticOlympicsLinear_VIDEO_0_7064000.m3u8
+#EXTINF:-1,SPORTSGRID
+https://sportsgrid-samsungus.amagi.tv/playlist.m3u8
 
-#EXTINF:-1,OLYMPIC TWO
-https://ocshls-2-olympicchannel.akamaized.net/ocshls/OC1_1.m3u8
-
-#EXTINF:-1,TENNIS CHANNEL
-https://playoutengine.sinclairstoryline.com/playout/9f87522c-5a0e-4ff4-b82c-d5564216132f/g.m3u8
+#EXTINF:-1,SURF NOW TV
+https://1091-surfnowtv-1.samsung.wurl.com/manifest/playlist.m3u8
 
 #EXTINF:-1,POKER CHANNEL
-https://0f2030e8d8b24ee5bf5144417e07d65a.mediatailor.us-west-2.amazonaws.com/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/WPT-Stirr/119.m3u8
-
-#EXTINF:-1,REDBULL TV
-http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
-
-#EXTINF:-1,EDGESPORT
-https://dai2.xumo.com/amagi_hls_data_xumo1212A-edgesportxumo/CDN/master.m3u8
-
-#EXTINF:-1,SURF NOW
-https://0e52d42a12b74a218576cd628069fa50.mediatailor.us-east-1.amazonaws.com/v1/manifest/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Plex_SurfNowTV/1e05afbf-0234-4d61-9406-20bf6719fce5/3.m3u8
-
-#EXTINF:-1,CLASSIC SPORTS
-https://nrpus.bozztv.com/36bay2/gusa-tvs/index.m3u8
-
-#EXTINF:-1,FIGHTING SPIRIT
-https://a.jsrdn.com/broadcast/22696/+0000/low/c.m3u8
+https://world-poker-tour.samsung.wurl.com/manifest/playlist.m3u8
 
 #EXTINF:-1,GLORY
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5417a212ff9fba68282fbf5e/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=736&deviceId=5417a212ff9fba68282fbf5e&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
@@ -47,10 +26,3 @@ https://dai.google.com/linear/hls/event/RNiQYO3aTjOqTe8od1zlqA/master.m3u8
 
 #EXTINF:-1,TELE LUCHA
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5c01df1759ee03633e7b272c/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=971&deviceId=5c01df1759ee03633e7b272c&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
-
-#EXTINF:-1,NJPW WORLD
-https://aka-amd-njpwworld-hls-enlive.akamaized.net/hls/video/njpw_en/njpw_en_channel01_3/chunklist_DVR.m3u8?checkedby
-
-#EXTINF:-1,ALL ELITE TV
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f4d1697f10a0e000798ed8d/master.m3u8?advertisingId=&appName=web&appVersion=5.14.0-0f5ca04c21649b8c8aad4e56266a23b96d73b83a&app_name=web&clientDeviceType=0&clientID=6fbead95-26b1-415d-998f-1bdef62d10be&clientModelNumber=na&deviceDNT=false&deviceId=6fbead95-26b1-415d-998f-1bdef62d10be&deviceLat=19.4358&deviceLon=-99.1441&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=88.0.4324.150&marketingRegion=VE&serverSideAds=false&sessionID=acc90b4c-72d4-11eb-98f7-0242ac110002&sid=acc90b4c-72d4-11eb-98f7-0242ac110002&userId=
-
