@@ -1,13 +1,25 @@
 #EXTM3U
 
-#EXTINF:-1,STADIUM
+#EXTINF:-1,STADIUM 1
 https://stadium.samsung.wurl.com/manifest/playlist.m3u8
 
-#EXTINF:-1,POKER CHANNEL
+#EXTINF:-1,STADIUM 2
+https://dai2.xumo.com/amagi_hls_data_xumo1234A-stadiumsports/CDN/master.m3u8
+
+#EXTINF:-1,POKER CHANNEL 1
 https://world-poker-tour.samsung.wurl.com/manifest/playlist.m3u8
 
-#EXTINF:-1,GLORY
+#EXTINF:-1,POKER CHANNEL 2
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxworldpokertour/CDN/playlist.m3u8
+
+#EXTINF:-1,GLORY 1
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5417a212ff9fba68282fbf5e/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=736&deviceId=5417a212ff9fba68282fbf5e&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
+
+#EXTINF:-1,GLORY 2
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxglorykickboxing/CDN/playlist.m3u8?p=redbox&deviceid=&is_lat=&subp=RedboxdesktopWebWindows
+
+#EXTINF:-1,FIGHT NETWORK
+https://d12a2vxqkkh1bo.cloudfront.net/hls/main.m3u8
 
 #EXTINF:-1,PRO WRESTLING TELEVISON
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5fac431fc1ffbc0007e6b6a7/master.m3u8?advertisingId=&appName=web&appVersion=5.14.0-0f5ca04c21649b8c8aad4e56266a23b96d73b83a&app_name=web&clientDeviceType=0&clientID=6fbead95-26b1-415d-998f-1bdef62d10be&clientModelNumber=na&deviceDNT=false&deviceId=6fbead95-26b1-415d-998f-1bdef62d10be&deviceLat=34.0485&deviceLon=-118.2529&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=88.0.4324.150&marketingRegion=US&serverSideAds=false&sessionID=a00541f4-72d4-11eb-a635-0242ac110002&sid=a00541f4-72d4-11eb-a635-0242ac110002&userId=
@@ -15,8 +27,11 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5fac431fc1ffbc0007
 #EXTINF:-1,IMPACT PLUS
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/59b722526996084038c01e1b/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=734&deviceId=59b722526996084038c01e1b&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
 
-#EXTINF:-1,HONOR TV
+#EXTINF:-1,HONOR TV 1
 https://stadium-ringofhonor-1.sinclair.wurl.com/manifest/playlist.m3u8
+
+#EXTINF:-1,HONOR TV 2
+https://92ad12505815495a9dcb303e451c2970.mediatailor.us-east-1.amazonaws.com/v1/manifest/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Plex_RingOfHonor/36160685-bf19-49f0-980c-100c786f8322/3.m3u8
 
 #EXTINF:-1,TELE LUCHA
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5c01df1759ee03633e7b272c/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=971&deviceId=5c01df1759ee03633e7b272c&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
