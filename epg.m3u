@@ -1,1 +1,82 @@
+#EXTM3U
 
+#EXTINF:-1 tvg-id="CBHT(CBCHalifax)(English).ca" tvg-country="CA",CBC NS
+https://dummy1.dummy
+
+#EXTINF:-1 tvg-id="CBLTCBCToronto(English).ca" tvg-country="CA",CBC ON
+https://dummy2.dummy
+
+#EXTINF:-1 tvg-id="CBXTCBCEdmonton(English).ca" tvg-country="CA",CBC AB
+https://dummy3.dummy
+
+#EXTINF:-1 tvg-id="CBC(Vancouver)(CBUT)(English).ca" tvg-country="CA",CBC BC
+https://dummy4.dummy
+
+#EXTINF:-1 tvg-id="BUZZR.us" tvg-country="US",BUZZR
+https://dummy5.dummy
+
+#EXTINF:-1 tvg-id="SoYummy.us" tvg-country="US",SO YUMMY
+https://dummy6.dummy
+
+#EXTINF:-1 tvg-id="TastemadeInternational.uk" tvg-country="UK",TASTEMADEUK
+https://dummy7.dummy
+
+#EXTINF:-1 tvg-id="TastemadeStr.us" tvg-country="US",TASTEMADEUS
+https://dummy8.dummy
+
+#EXTINF:-1 tvg-id="Travelxp(src02).uk" tvg-country="UK",TRAVEL XP
+https://dummy9.dummy
+
+#EXTINF:-1 tvg-id="TravelxpEurope.uk" tvg-country="UK",TRAVEL XP EU
+https://dummy10.dummy
+
+#EXTINF:-1 tvg-id="TravelXP(English).ca" tvg-country="CA",TRAVEL XP CA
+https://dummy11.dummy
+
+#EXTINF:-1 tvg-id="ABCNewsLive.us" tvg-country="US",ABC LIVE
+https://dummy12.dummy
+
+#EXTINF:-1 tvg-id="ABCNewsNow.us" tvg-country="US",ABC NOW
+https://dummy13.dummy
+
+#EXTINF:-1 tvg-id="CNN(src02).uk" tvg-country="UK",CNN UK
+https://dummy14.dummy
+
+#EXTINF:-1 tvg-id="CNN.us" tvg-country="US",CNN
+https://dummy15.dummy
+
+#EXTINF:-1 tvg-id="CBCNewsNetwork(English).ca" tvg-country="CA",CBC NEWS
+https://dummy16.dummy
+
+#EXTINF:-1 tvg-id="MSNBC.us" tvg-country="US",NBC NEWS
+https://dummy17.dummy
+
+#EXTINF:-1 tvg-id="GlobalMaritimes(English).ca" tvg-country="CA",GLOBAL
+https://dummy18.dummy
+
+#EXTINF:-1 tvg-id="GlobalNewsBC1(English).ca" tvg-country="CA",GLOBAL NEWS
+https://dummy19.dummy
+
+#EXTINF:-1 tvg-id="CTVHalifax(English).ca" tvg-country="CA",CTV
+https://dummy20.dummy
+
+#EXTINF:-1 tvg-id="HallmarkChannel.us" tvg-country="US",HALLMARK 1
+https://dummy21.dummy
+
+#EXTINF:-1 tvg-id="HallmarkMoviesandMysteries.us" tvg-country="US",HALLMARK 2
+https://dummy22.dummy
+
+#EXTINF:-1 tvg-id="Stadium.us" tvg-country="US",STADIUM
+https://dummy23.dummy
+
+#EXTINF:-1 tvg-id="WorldPokerTour.us" tvg-country="US",WPT
+https://dummy24.dummy
+
+#EXTINF:-1 tvg-id="GloryKickboxing.uk" tvg-country="UK",GLORY
+https://dummy25.dummy
+
+#EXTINF:-1 tvg-id="TheFightNetwork(English).ca" tvg-country="CA",FIGHT CA
+https://dummy26.dummy
+
+#EXTINF:-1 tvg-id="TheFightNetwork.us" tvg-country="US",FIGHT US
+https://dummy27.dummy
