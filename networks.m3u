@@ -1,16 +1,13 @@
 #EXTM3U
 
-#EXTINF:-1,CBC Edmonton
-https://cbclivedai4-i.akamaihd.net/hls/live/567231/event2/CBXT/master5.m3u8
-
-#EXTINF:-1,CBC Halifax
+#EXTINF:-1,CBC NS
 https://cbclivedai3-i.akamaihd.net/hls/live/566977/event2/CBHT/master5.m3u8
 
-#EXTINF:-1,CBC Toronto
+#EXTINF:-1,CBC ON
 https://cbclivedai1-i.akamaihd.net/hls/live/566940/event2/CBLT/master5.m3u8
 
-#EXTINF:-1,CBC Vancouver
-https://cbclivedai2-i.akamaihd.net/hls/live/566968/event2/CBUT/master5.m3u8
+#EXTINF:-1,CBC AB
+https://cbclivedai4-i.akamaihd.net/hls/live/567231/event2/CBXT/master5.m3u8
 
-#EXTINF:-1,CBC Winnipeg
-https://cbclivedai6-i.akamaihd.net/hls/live/567237/event2/CBWT/master5.m3u8
+#EXTINF:-1,CBC BC
+https://cbclivedai2-i.akamaihd.net/hls/live/566968/event2/CBUT/master5.m3u8
