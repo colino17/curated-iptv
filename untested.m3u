@@ -1,116 +1,167 @@
-#EXTINF:-1 tvg-id="GlobalEdmonton.ca" tvg-name="Global Edmonton" tvg-country="CA" tvg-language="English" tvg-logo="https://i.imgur.com/7R10c5i.png" group-title="Local",Global Edmonton (720p)
-https://da7sdtkzly6qj.cloudfront.net/out/v1/b317f6c10f2e493993bd2b5314df1c7c/index.m3u8
+#EXTINF:-1,ABC NEWS
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-abcnews/CDN/master.m3u8
 
-#EXTINF:-1 tvg-id="GlobalNews.ca" tvg-name="Global News" tvg-country="CA" tvg-language="English" tvg-logo="https://i.imgur.com/mhhVQE6.png" group-title="News",Global News (720p)
-https://live.corusdigitaldev.com/groupd/live/49a91e7f-1023-430f-8d66-561055f3d0f7/live.isml/master.m3u8
+#EXTINF:-1,ABC NEWS
+https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8
 
-#EXTINF:-1 tvg-id="GlobalToronto.ca" tvg-name="Global Toronto" tvg-country="CA" tvg-language="English" tvg-logo="https://i.imgur.com/wlqYdqN.png" group-title="Local",Global Toronto (720p)
-https://live.corusdigitaldev.com/groupd/live/8970c668-40cd-4ca9-8c4d-25fd04f619b5/live.isml/master.m3u8
+#EXTINF:-1,CNN UK
+https://cnn-cnninternational-1-gb.samsung.wurl.com/manifest/playlist.m3u8
 
-#EXTINF:-1 tvg-id="TinyHouseNation.us" tvg-name="Tiny House Nation" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/o8ooqA1.png" group-title="",Tiny House Nation
+#EXTINF:-1,COMEDY CENTRAL UK
+https://uksono1-samsunguk.amagi.tv/playlist.m3u8
+
+#EXTINF:-1,FIGHT NETWORK
+https://d12a2vxqkkh1bo.cloudfront.net/hls/main.m3u8
+
+#EXTINF:-1,HAUNT TV
+https://haunttv-roku.amagi.tv/playlist.m3u8
+
+#EXTINF:-1,TINY HOUSE NATION
 https://aenetworks-tinyhousenation-1.samsung.wurl.com/manifest/playlist.m3u8
 
 #EXTINF:-1,HAUNT TV
 https://haunttv-roku.amagi.tv/playlist.m3u8
 
-#EXTINF:-1,BON APPETIT
+#EXTINF:-1,BON APPETIT 1
 https://bonappetit-samsung.amagi.tv/playlist.m3u8
 
-#EXTINF:-1,BON APPETIT
+#EXTINF:-1,BON APPETIT 2
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxbonappetit/CDN/playlist.m3u8
 
-#EXTINF:-1,BUZZR
+#EXTINF:-1,BUZZR1
 https://buzzr-samsungus.amagi.tv/playlist.m3u8
 
-#EXTINF:-1,BUZZR
+#EXTINF:-1,BUZZR2
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/samsungus-buzzr-samsungtv-us/playlist.m3u8
 
-#EXTINF:-1,DEAL OR NO DEAL
+#EXTINF:-1,DEAL OR NO DEAL 1
 https://endemol-dealornodeal-1.samsung.wurl.com/manifest/playlist.m3u8
 
-#EXTINF:-1 tvg-id="DealornoDeal.ca" tvg-country="CA" tvg-language="English" tvg-logo="https://i.imgur.com/soOgFFc.jpg" group-title="",Deal or no Deal (720p) [Offline]
+#EXTINF:-1,DEAL OR NO DEAL 2
 https://endemol-dealornodeal-1-ca.samsung.wurl.com/manifest/playlist.m3u8
 
-#EXTINF:-1 tvg-id="DealorNoDeal.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/SXWX2Wf.png" group-title="Series",Deal or No Deal (1080p) [Offline]
+#EXTINF:-1,DEAL OR NO DEAL 3
 https://endemol-dealornodeal-1.plex.wurl.com/manifest/playlist.m3u8
 
-#EXTINF:-1 tvg-id="DealorNoDeal.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/SXWX2Wf.png" group-title="Series",Deal or No Deal (1080p) [Offline]
+#EXTINF:-1,DEAL OR NO DEAL 4
 https://endemol-dealornodeal-1.roku.wurl.com/manifest/playlist.m3u8
 
-#EXTINF:-1,HALLMARK
+#EXTINF:-1,HALLMARK 1
 https://moviesphere-roku.amagi.tv/hls/amagi_hls_data_yupptvfrn-hallmark-frndlytv/CDN/768x432_2340800/index.m3u8
 
-#EXTINF:-1,HALLMARK
+#EXTINF:-1,HALLMARK 2
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-rokuhallmark/CDN/playlist.m3u8
 
-#EXTINF:-1,ABC NEWS
-https://dai2.xumo.com/amagi_hls_data_xumo1212A-abcnews/CDN/master.m3u8
-
-#EXTINF:-1 tvg-id="ABCNews.us" tvg-country="US" tvg-language="English" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/61YDuS-81ML.png" group-title="News",ABC News (720p)
-https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8
-
-#EXTINF:-1,CBC NEWS
+#EXTINF:-1,CBC NEWS 1
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxcbcnews/CDN/playlist.m3u8
 
-#EXTINF:-1,CBC NEWS
+#EXTINF:-1,CBC NEWS 2
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-cbcnews/CDN/master.m3u8
 
-#EXTINF:-1,FAMILY FEUD
+#EXTINF:-1,FAMILY FEUD 1
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-rokufamilyfeud/CDN/playlist.m3u8
 
-#EXTINF:-1,FAMILY FEUD
+#EXTINF:-1,FAMILY FEUD 2
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxfamilyfeud/CDN/playlist.m3u8
 
-#EXTINF:-1,FOOD52
+#EXTINF:-1,FOOD52 1
 https://cinedigm.vo.llnwd.net/conssui/amagi_hls_data_xumo1212A-redboxfood52A/CDN/master.m3u
 
-#EXTINF:-1,FOOD52
+#EXTINF:-1,FOOD52 2
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxfood52A/CDN/playlist.m3u8
 
-#EXTINF:-1,FOOD52
+#EXTINF:-1,FOOD52 3
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-viziofood52/CDN/playlist.m3u8
 
-#EXTINF:-1,HUNGRY
-https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxhungry/CDN/playlist.m3u8
-
-#EXTINF:-1 tvg-id="JustforLaughsGags.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/OiMMkP3.jpg" group-title="Comedy",Just for Laughs Gags (720p)
+#EXTINF:-1,GAGS 1
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-rokujustforlaughsgags/CDN/master.m3u8
 
-#EXTINF:-1 tvg-id="JustforLaughsGags.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/OiMMkP3.jpg" group-title="Comedy",Just for Laughs Gags (720p)
+#EXTINF:-1,GAGS 2
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-viziojustforlaughsgags/CDN/playlist.m3u8
 
-#EXTINF:-1 tvg-id="NBCNewsNow.us" tvg-country="US" tvg-language="English" tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/NBCNewsNow.png" group-title="News",NBC News Now (1080p)
+#EXTINF:-1,GSN 1
+http://n1.klowdtv.net/live2/gsn_720p/chunks.m3u8
+
+#EXTINF:-1,GSN 2
+https://gsn-gameshowchannnel-1.plex.wurl.com/manifest/playlist.m3u8
+
+#EXTINF:-1,GSN 3
+https://gsn-gameshowchannnel-2.roku.wurl.com/manifest/playlist.m3u8
+
+#EXTINF:-1,NBC 1
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-rokunbcnewsnow/CDN/playlist.m3u8
 
-#EXTINF:-1 tvg-id="NBCNewsNow.us" tvg-country="US" tvg-language="English" tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/NBCNewsNow.png" group-title="News",NBC News Now (1080p)
+#EXTINF:-1,NBC 2
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-xumo-nbcnewsnow/CDN/master.m3u8
 
-#EXTINF:-1 tvg-id="NBCNewsNow.us" tvg-country="US" tvg-language="English" tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/NBCNewsNow.png" group-title="News",NBC News Now (1080p)
+#EXTINF:-1,NBC 3
 http://nbcnews2.akamaized.net/hls/live/723426-b/NBCNewsPlaymaker24x7Linear99a3a827-ua/master.m3u8
 
-#EXTINF:-1 tvg-id="NBCNewsNow.us" tvg-country="US" tvg-language="English" tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/NBCNewsNow.png" group-title="News",NBC News Now (1080p)
+#EXTINF:-1,NBC 4
 https://nbcnewshls.akamaized.net/hls/live/2011820/nnn_live1/master.m3u8
 
-#EXTINF:-1 tvg-id="SoYummy.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/Mq7PBDN.png" group-title="Cooking",So Yummy! (1080p)
+#EXTINF:-1,SO YUMMY 1
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxsoyummy/CDN/playlist.m3u8
 
-#EXTINF:-1 tvg-id="SoYummy.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/Mq7PBDN.png" group-title="Cooking",So Yummy! (1080p)
+#EXTINF:-1,SO YUMMY 2
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-soyummy-xumo/CDN/master.m3u8
 
-#EXTINF:-1 tvg-id="Stadium.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/n38w3FD.png" group-title="Sports",Stadium (720p)
+#EXTINF:-1,STADIUM 1
 https://dai2.xumo.com/amagi_hls_data_xumo1234A-stadiumsports/CDN/master.m3u8
 
-#EXTINF:-1 tvg-id="Tastemade.us" tvg-country="INT" tvg-language="English" tvg-logo="https://i.imgur.com/8s6aRwv.png" group-title="Cooking",Tastemade (1080p)
+#EXTINF:-1,STADIUM 2
+https://stadium-ringofhonor-1.plex.wurl.com/manifest/playlist.m3u8
+
+#EXTINF:-1,ROH
+https://stadium-ringofhonor-1.sinclair.wurl.com/manifest/playlist.m3u8
+
+#EXTINF:-1,TASTEMADE 1
 https://tastemade-xumo.amagi.tv/hls/amagi_hls_data_tastemade-tastemadefreetv16xumo/CDN/master.m3u8
 
-#EXTINF:-1 tvg-id="Tastemade.ca" tvg-country="CA" tvg-language="CA" tvg-logo="https://i.imgur.com/yuRa9lM.png" group-title="Cooking",Tastemade (720p)
+#EXTINF:-1,TASTEMADE 2
 https://ti-samsung-ca.samsung.wurl.com/manifest/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Tastemade.us" tvg-country="INT" tvg-language="English" tvg-logo="https://i.imgur.com/8s6aRwv.png" group-title="Cooking",Tastemade (1080p)
+#EXTINF:-1,TASTEMADE 3
 https://tastemadessai.akamaized.net/amagi_hls_data_tastemade-tastemade/CDN/playlist.m3u8
 
-#EXTINF:-1 tvg-id="TastemadeAustralia.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/8s6aRwv.png" group-title="Cooking",Tastemade Australia (1080p)
+#EXTINF:-1,TASTEMADE 4
 https://tastemadeintaus-smindia.amagi.tv/playlist.m3u8
+
+#EXTINF:-1,CBSN 1
+https://cbsn-us-cedexis.cbsnstream.cbsnews.com/out/v1/55a8648e8f134e82a470f83d562deeca/master.m3u8
+
+#EXTINF:-1,CBSN 2
+https://cbsnewshd-lh.akamaihd.net/i/CBSNHD_7@199302/master.m3u8
+
+#EXTINF:-1,CBSN 3
+https://cbsnhls-i.akamaihd.net/hls/live/264710/CBSN_mdialog/prodstream/master.m3u8
+
+#EXTINF:-1,CNN 1
+https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
+
+#EXTINF:-1,CNN 2
+https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_2_1964000.m3u8
+
+#EXTINF:-1,CNN 3
+https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_3_1464000.m3u8
+
+#EXTINF:-1,CNN 4
+https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_4_1064000.m3u8
+
+#EXTINF:-1,CNN 5
+http://stream.tvtap.live:8081/live/us-cnn.stream/playlist.m3u8
+
+#EXTINF:-1,JOURNY 1
+http://d3lzjtrf5mvf3p.cloudfront.net/playlist.m3u8
+
+#EXTINF:-1,JOURNY 2
+https://vcnovation.teleosmedia.com/linear/ovation/journy/playlist.m3u8
+
+#EXTINF:-1,JOURNY 3
+https://vcnplex.teleosmedia.com/linear/ovation/journy/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TravelChannel.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/9C2e563.png" group-title="Travel",Travel Channel [Offline]
+https://cdn1.mobiletv.bg/T5/travel_channel/travel_channel_794613_850k.m3u8
 
 #EXTINF:-1 tvg-id="TheDesignNetwork.ca" tvg-country="CA" tvg-language="CA" tvg-logo="https://i.imgur.com/wCq3E0M.png" group-title="",The Design Network (720p)
 https://thedesignnetwork-tdn-6-ca.samsung.wurl.com/manifest/playlist.m3u8
@@ -118,101 +169,14 @@ https://thedesignnetwork-tdn-6-ca.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-id="WorldPokerTour.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/vfIsClb.jpg" group-title="Entertainment",World Poker Tour (720p)
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxworldpokertour/CDN/playlist.m3u8
 
-#EXTINF:-1 tvg-id="DryBarComedy.ca" tvg-country="CA" tvg-language="English" tvg-logo="https://i.imgur.com/a3mGVRE.jpg" group-title="Comedy",DryBar Comedy (720p) [Offline]
-https://drybar-drybarcomedy-1-ca.samsung.wurl.com/manifest/playlist.m3u8
-
-#EXTINF:-1 tvg-id="DryBarComedy.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/l61qxIE.jpg" group-title="Comedy",DryBar Comedy (720p)
-https://a.jsrdn.com/broadcast/e29bdbbbf3/+0000/c.m3u8
-
-#EXTINF:-1 tvg-id="DryBarComedy.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/l61qxIE.jpg" group-title="Comedy",DryBar Comedy (720p) [Offline]
-https://59d39900ebfb8.streamlock.net/molaughtertv/molaughtertv/playlist.m3u8
-
-#EXTINF:-1 tvg-id="CTV.ca" tvg-country="CA" tvg-language="English" tvg-logo="https://i.imgur.com/nfcjHAW.png" group-title="",CTV (720p)
-https://pe-fa-lp02a.9c9media.com/live/News1Digi/p/hls/00000201/38ef78f479b07aa0/index/0c6a10a2/live/stream/h264/v1/3500000/manifest.m3u8
-
-#EXTINF:-1 tvg-id="FightNetwork.ca" tvg-country="CA" tvg-language="English" tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/605d1bf32e5d221b1e5a7e55" group-title="Sports",Fight Network (1080p)
-https://d12a2vxqkkh1bo.cloudfront.net/hls/main.m3u8
-
-#EXTINF:-1 tvg-id="CNNInternationalUK.us" tvg-country="UK" tvg-language="English" tvg-logo="https://i.imgur.com/2BXCg0x.jpg" group-title="News",CNN International UK (720p)
-https://cnn-cnninternational-1-gb.samsung.wurl.com/manifest/playlist.m3u8
-
-#EXTINF:-1 tvg-id="ComedyChannel.uk" tvg-country="UK" tvg-language="English" tvg-logo="https://i.imgur.com/WyHp7Wa.jpg" group-title="Comedy",Comedy Channel (1080p)
-https://uksono1-samsunguk.amagi.tv/playlist.m3u8
-
 #EXTINF:-1 tvg-id="PokerNightInAmerica.us" tvg-country="UK" tvg-language="English" tvg-logo="https://od.lk/s/MF8yMzA3OTUzMzJf/PokerNight_720x720.png" group-title="Sports",Poker Night In America (720p) [Offline]
 https://rushstreet-sportstribal.amagi.tv/playlist.m3u8
-
-#EXTINF:-1 tvg-id="CBSN.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/kDqyJcP.jpg" group-title="News",CBSN (720p)
-https://cbsn-us-cedexis.cbsnstream.cbsnews.com/out/v1/55a8648e8f134e82a470f83d562deeca/master.m3u8
-
-#EXTINF:-1 tvg-id="CBSN.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/kDqyJcP.jpg" group-title="News",CBSN (720p)
-https://cbsnewshd-lh.akamaihd.net/i/CBSNHD_7@199302/master.m3u8
-
-#EXTINF:-1 tvg-id="CBSN.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/kDqyJcP.jpg" group-title="News",CBSN (720p)
-https://cbsnhls-i.akamaihd.net/hls/live/264710/CBSN_mdialog/prodstream/master.m3u8
-
-#EXTINF:-1 tvg-id="CNNUSA.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/Ivyl5SQ.gif" group-title="News",CNN USA (720p)
-https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
-
-#EXTINF:-1 tvg-id="CNNUSA.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/Ivyl5SQ.gif" group-title="News",CNN USA (480p)
-https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_2_1964000.m3u8
-
-#EXTINF:-1 tvg-id="CNNUSA.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/Ivyl5SQ.gif" group-title="News",CNN USA (480p)
-https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_3_1464000.m3u8
-
-#EXTINF:-1 tvg-id="CNNUSA.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/Ivyl5SQ.gif" group-title="News",CNN USA (480p)
-https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_4_1064000.m3u8
-
-#EXTINF:-1 tvg-id="CNNUSA.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/Ivyl5SQ.gif" group-title="News",CNN USA (360p) [Not 24/7]
-http://stream.tvtap.live:8081/live/us-cnn.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-id="ComedyDynamics.us" tvg-country="US" tvg-language="English" tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/ComedyDynamics_640x640.png" group-title="Comedy",Comedy Dynamics (1080p)
 https://comedydynamics-wurl.cinedigm.com/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Journy.us" tvg-country="US" tvg-language="English" tvg-logo="https://web.opendrive.com/api/v1/download/file.json/MF8yMjg5MzMxNjNf?inline=1" group-title="Travel",Journy (1080p)
-http://d3lzjtrf5mvf3p.cloudfront.net/playlist.m3u8
-
-#EXTINF:-1 tvg-id="Journy.us" tvg-country="US" tvg-language="English" tvg-logo="https://web.opendrive.com/api/v1/download/file.json/MF8yMjg5MzMxNjNf?inline=1" group-title="Travel",Journy (1080p)
-https://vcnovation.teleosmedia.com/linear/ovation/journy/playlist.m3u8
-
-#EXTINF:-1 tvg-id="Journy.us" tvg-country="US" tvg-language="English" tvg-logo="https://web.opendrive.com/api/v1/download/file.json/MF8yMjg5MzMxNjNf?inline=1" group-title="Travel",Journy (1080p)
-https://vcnplex.teleosmedia.com/linear/ovation/journy/playlist.m3u8
-
-#EXTINF:-1 tvg-id="MMAJunkie.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/nSUiODh.jpg" group-title="Sports",MMA Junkie (720p)
-https://a.jsrdn.com/broadcast/80f6ba72c8/+0000/c.m3u8
-
-#EXTINF:-1 tvg-id="TravelChannel.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/9C2e563.png" group-title="Travel",Travel Channel [Offline]
-https://cdn1.mobiletv.bg/T5/travel_channel/travel_channel_794613_850k.m3u8
-
-#EXTINF:-1 tvg-id="fuboSportsNetwork.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/cArIeKS.png" group-title="Sports",fubo Sports Network (720p)
-https://dai2-xumo.fubo.tv/amagi_hls_data_xumo1212A-fubo/CDN/master.m3u8
-
-#EXTINF:-1 tvg-id="GameShowNetworkEast.us" tvg-country="US" tvg-language="English" tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/GameShowCentral_203x203.png" group-title="Entertainment",Game Show Network East (720p)
-http://n1.klowdtv.net/live2/gsn_720p/chunks.m3u8
-
-#EXTINF:-1 tvg-id="GameShowNetworkEast.us" tvg-country="US" tvg-language="English" tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/GameShowCentral_203x203.png" group-title="Entertainment",Game Show Network East (540p) [Offline]
-https://gsn-gameshowchannnel-1.plex.wurl.com/manifest/playlist.m3u8
-
-#EXTINF:-1 tvg-id="GameShowNetworkWest.us" tvg-country="US" tvg-language="English" tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/GameShowCentral_203x203.png" group-title="Entertainment",Game Show Network West (1080p) [Offline]
-https://gsn-gameshowchannnel-2.roku.wurl.com/manifest/playlist.m3u8
-
-#EXTINF:-1 tvg-id="Stadium.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/n38w3FD.png" group-title="Sports",Stadium (720p) [Offline]
-https://stadium-ringofhonor-1.plex.wurl.com/manifest/playlist.m3u8
-
 #EXTINF:-1 tvg-id="WipeoutXtra.us" tvg-country="US" tvg-language="English" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/WipeoutXtra_190x190.png?raw=true" group-title="Series",Wipeout Xtra (720p) [Offline]
 https://endemol-wipeoutxtra-1.samsung.wurl.com/manifest/playlist.m3u8
 
-#EXTINF:-1 tvg-id="RingofHonorWrestling.us" tvg-country="US" tvg-language="English" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/RingOfHonor_400x400.png?raw=true" group-title="Sports",Ring of Honor Wrestling (720p)
-https://stadium-ringofhonor-1.sinclair.wurl.com/manifest/playlist.m3u8
-
 #EXTINF:-1 tvg-id="STIRRWhoseLineIsItAnyway.us" tvg-country="US" tvg-language="English" tvg-logo="https://komonews.com/resources/media2/3x1/full/119/center/90/ed57e0b9-7f78-4203-a1d9-b0f542ca856a-small3x1_stirr_1219_epg_whoselineisitanyway_1920x1080.png?cb=eccbc87e4b5ce2fe28308fd9f2a7baf3" group-title="",STIRR Whose Line Is It Anyway (720p) [Offline]
 https://dai.google.com/linear/hls/event/SYob3ZZfTwyVW7LILC9ckw/master.m3u8
-
-#EXTINF:-1 tvg-id="AXSTV.us" tvg-country="US" tvg-language="English" tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/28506/s28506_h3_aa.png" group-title="Entertainment",AXS TV (720p) [Offline]
-https://bozztv.com/teleyupp/teleup-axshd/playlist.m3u8
-
-#EXTINF:-1 tvg-id="CityTVToronto.ca" tvg-country="CA" tvg-language="English" tvg-logo="https://d229kpbsb5jevy.cloudfront.net/teleup/content/common/logos/channel/logos/byqsfg.png" group-title="Local",CityTV Toronto (720p) [Offline]
-https://bozztv.com/teleyupp1/teleup-iSykLSKMFr/playlist.m3u8
-
-
-
