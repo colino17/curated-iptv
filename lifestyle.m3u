@@ -1,15 +1,31 @@
 #EXTM3U
 
-#EXTINF:-1,SAVEUR
-http://a.jsrdn.com/broadcast/060753d37e/+0000/high/c.m3u8
+#EXTINF:-1,BON APPETIT 1
+https://bonappetit-samsung.amagi.tv/playlist.m3u8
+
+#EXTINF:-1,BON APPETIT 2
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxbonappetit/CDN/playlist.m3u8
+
+#EXTINF:-1,BON APPETIT 3
+https://condenast-bonappetit-vizio.amagi.tv/playlist.m3u8
 
 #EXTINF:-1,FOOD52
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxfood52A/CDN/playlist.m3u8
 
-#EXTINF:-1,BON APPETIT
-https://condenast-bonappetit-vizio.amagi.tv/playlist.m3u8
+#EXTINF:-1,SAVEUR
+http://a.jsrdn.com/broadcast/060753d37e/+0000/high/c.m3u8
+
+#EXTINF:-1,SO YUMMY
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-soyummy-xumo/CDN/master.m3u8
+
+#EXTINF:-1,TASTEMADE
+https://ti-samsung-ca.samsung.wurl.com/manifest/playlist.m3u8
 
 #EXTINF:-1,TRAVEL XP
 https://travelxp-travelxp-1-gb.samsung.wurl.com/manifest/playlist.m3u8
 
+#EXTINF:-1,JOURNY 1
+http://d3lzjtrf5mvf3p.cloudfront.net/playlist.m3u8
 
+#EXTINF:-1,JOURNY 2
+https://vcnovation.teleosmedia.com/linear/ovation/journy/playlist.m3u8
