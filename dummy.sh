@@ -58,4 +58,5 @@ DUMMYFILENAME=dummy.xml
 
 		echo '</tv>' >> $BASEPATH/$DUMMYFILENAME
 
-echo "Do
+echo "Done!"
+sleep 2
