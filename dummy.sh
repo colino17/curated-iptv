@@ -4,7 +4,7 @@
 
 ## VARIABLES
 ### Your channels go here. add more channels as you want
-numberofchannels=2
+numberofchannels=10
 declare -a a0=("tvg-id-ABCnews" "ABC NEWS" "ABC News Live" "ABC News Live is a news channel for breaking news, live events, newscasts, and longer-form reports and documentaries operated by ABC News since 2018.")
 declare -a a1=("tvg-id-CBSN" "CBSN" "CBS News Live" "Watch CBS News and get the latest, breaking news headlines of the day for national news and world news today.")
 declare -a a2=("tvg-id-Food52" "Food52" "Food52 Live and Delicious" "Food52 is a gathering place for everyone who believes the kitchen is at the heart of the home, and food is the center of a life well-lived.")
