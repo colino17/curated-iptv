@@ -54,6 +54,15 @@ https://dummy17.dummy
 #EXTINF:-1 tvg-id="GlobalMaritimes(English).ca" tvg-country="CA",GLOBAL
 https://dummy18.dummy
 
+#EXTINF:-1 tvg-id="CIIIOT(GlobalOttawa)(English).ca" tvg-country="CA",GLOBAL OTTAWA
+https://dummy18.1.dummy
+
+#EXTINF:-1 tvg-id="GlobalToronto(English).ca" tvg-country="CA",GLOBAL TORONTO
+https://dummy18.2.dummy
+
+#EXTINF:-1 tvg-id="GlobalDurham(English).ca" tvg-country="CA",GLOBAL DURHAM
+https://dummy18.3.dummy
+
 #EXTINF:-1 tvg-id="GlobalNewsBC1(English).ca" tvg-country="CA",GLOBAL NEWS
 https://dummy19.dummy
 
