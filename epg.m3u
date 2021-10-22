@@ -6,7 +6,7 @@ https://dummy1.dummy
 #EXTINF:-1 tvg-id="CBLTCBCToronto(English).ca" tvg-country="CA",CBC ON
 https://dummy2.dummy
 
-#EXTINF:-1 tvg-id="CBXTCBCEdmonton(English).ca" tvg-country="CA",CBC AB
+#EXTINF:-1 tvg-id="CBCCalgary(English).ca" tvg-country="CA",CBC AB
 https://dummy3.dummy
 
 #EXTINF:-1 tvg-id="CBC(Vancouver)(CBUT)(English).ca" tvg-country="CA",CBC BC
