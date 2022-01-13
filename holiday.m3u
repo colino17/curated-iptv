@@ -1,7 +1,0 @@
-#EXTM3U
-
-#EXTINF:-1,MISTLETOE
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d9ccd538661290009ecbdb7/master.m3u8?advertisingId=&appName=web&appVersion=5.11.0-1d883e1216be36c166cbf982f832a992718a0632&architecture=&buildVersion=&clientTime=&deviceDNT=false&deviceId=6164d3a9-4ae8-4c40-ba5b-41d9c52128a4&deviceLat=40.7157&deviceLon=-74.0000&deviceMake=Opera&deviceModel=Opera&deviceType=web&deviceVersion=72.0.3815.378&includeExtendedEvents=false&marketingRegion=US&sid=9e22d2bf-6681-495b-8c39-100ab5a4a95e&userId=&serverSideAds=true
-
-#EXTINF:-1,HOLIDAY FIREPLACE
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5bf48085851dd5632e2f7b4d/master.m3u8?advertisingId=&appName=web&appVersion=5.11.0-1d883e1216be36c166cbf982f832a992718a0632&architecture=&buildVersion=&clientTime=&deviceDNT=false&deviceId=6164d3a9-4ae8-4c40-ba5b-41d9c52128a4&deviceLat=40.7157&deviceLon=-74.0000&deviceMake=Opera&deviceModel=Opera&deviceType=web&deviceVersion=72.0.3815.378&includeExtendedEvents=false&marketingRegion=US&sid=dce6e1d5-31f8-41e7-b649-43b664787b87&userId=&serverSideAds=true
