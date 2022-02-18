@@ -1,0 +1,58 @@
+#EXTM3U
+
+#EXTINF:-1 CUID="105" tvg-logo="https://raw.githubusercontent.com/colino17/ultra-xteve-docker/master/logos/city.png" tvg-id="I19.10125.zap2it.com",CITY
+http://encodercdn1.frontline.ca/bespin/output/City_Toronto/playlist.m3u8
+
+#EXTINF:-1 CUID="113" tvg-logo="https://raw.githubusercontent.com/colino17/ultra-xteve-docker/master/logos/nbc.png" tvg-id="NBC",NBC
+http://encodercdn1.frontline.ca/encoder183/output/NBC_Boston/playlist.m3u8
+
+#EXTINF:-1 CUID="130" tvg-logo="https://raw.githubusercontent.com/colino17/ultra-xteve-docker/master/logos/ctvdrama.png" tvg-id="I203.15176.zap2it.com",CTV DRAMA
+http://encodercdn1.frontline.ca/encoder183/output/CTV_Drama/playlist.m3u8
+
+#EXTINF:-1 CUID="134" tvg-logo="https://raw.githubusercontent.com/colino17/ultra-xteve-docker/master/logos/showcase.png" tvg-id="I416.53711.zap2it.com",SHOWCASE
+http://encodercdn1.frontline.ca/encoder181/output/Showcase/playlist.m3u8
+
+#EXTINF:-1 CUID="331" tvg-logo="https://raw.githubusercontent.com/colino17/ultra-xteve-docker/master/logos/h2.png" tvg-id="I287.17593.zap2it.com",H2
+http://encodercdn1.frontline.ca/encoder181/output/History/playlist.m3u8
+
+#EXTINF:-1 CUID="402" tvg-logo="https://raw.githubusercontent.com/colino17/ultra-xteve-docker/master/logos/ytv.png" tvg-id="I21.12045.zap2it.com",YTV
+http://encodercdn1.frontline.ca/encoder182/output/YTV/playlist.m3u8
+
+#EXTINF:-1 CUID="501" tvg-logo="https://raw.githubusercontent.com/colino17/ultra-xteve-docker/master/logos/gameshowcentral.png",GSC
+https://gsn-gameshowchannnel-2.roku.wurl.com/manifest/playlist.m3u8
+
+#EXTINF:-1 CUID="800" tvg-logo="https://raw.githubusercontent.com/colino17/ultra-xteve-docker/master/logos/weather.png" tvg-id="I14.10170.zap2it.com",WEATHER
+http://encodercdn1.frontline.ca/kamino/output/The_Weather_Network/playlist.m3u8
+
+#EXTINF:-1 CUID="801" tvg-logo="https://raw.githubusercontent.com/colino17/ultra-xteve-docker/master/logos/cbcnews.png" tvg-id="I233.10094.zap2it.com",CBC NEWS
+https://livecbcdai-i.akamaihd.net/hls/live/567245/event2/CBCNN/master6.m3u8
+
+#EXTINF:-1 CUID="811" tvg-logo="https://raw.githubusercontent.com/colino17/ultra-xteve-docker/master/logos/abcnews.png",ABC NEWS
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-abcnews/CDN/master.m3u8
+
+#EXTINF:-1 CUID="901" tvg-logo="https://raw.githubusercontent.com/colino17/ultra-xteve-docker/master/logos/tsn1.png" tvg-id="I100.11182.zap2it.com",TSN1
+http://encodercdn1.frontline.ca/encoder183/output/TSN1/playlist.m3u8
+
+#EXTINF:-1 CUID="902" tvg-logo="https://raw.githubusercontent.com/colino17/ultra-xteve-docker/master/logos/tsn2.png" tvg-id="I102.18990.zap2it.com",TSN2
+http://encodercdn1.frontline.ca/encoder182/output/TSN2/playlist.m3u8
+
+#EXTINF:-1 CUID="903" tvg-logo="https://raw.githubusercontent.com/colino17/ultra-xteve-docker/master/logos/tsn3.png" tvg-id="I103.90118.zap2it.com",TSN3
+http://encodercdn1.frontline.ca/encoder183/output/TSN3/playlist.m3u8
+
+#EXTINF:-1 CUID="904" tvg-logo="https://raw.githubusercontent.com/colino17/ultra-xteve-docker/master/logos/tsn4.png" tvg-id="I104.90122.zap2it.com",TSN4
+http://encodercdn1.frontline.ca/encoder183/output/TSN4/playlist.m3u8
+
+#EXTINF:-1 CUID="905" tvg-logo="https://raw.githubusercontent.com/colino17/ultra-xteve-docker/master/logos/tsn5.png" tvg-id="I105.90124.zap2it.com",TSN5
+http://encodercdn1.frontline.ca/kamino/output/TSN5/chunks.m3u8
+
+#EXTINF:-1 CUID="906" tvg-logo="https://raw.githubusercontent.com/colino17/ultra-xteve-docker/master/logos/sne.png" tvg-id="I110.18798.zap2it.com",SNE
+http://encodercdn1.frontline.ca/yavin/output/Sportsnet_East/playlist.m3u8
+
+#EXTINF:-1 CUID="907" tvg-logo="https://raw.githubusercontent.com/colino17/ultra-xteve-docker/master/logos/sno.png" tvg-id="I112.18799.zap2it.com",SNO
+http://encodercdn1.frontline.ca/kamino/output/Sportsnet_Ontario/playlist.m3u8
+
+#EXTINF:-1 CUID="908" tvg-logo="https://raw.githubusercontent.com/colino17/ultra-xteve-docker/master/logos/snw.png" tvg-id="I113.18800.zap2it.com",SNW
+http://encodercdn1.frontline.ca/bespin/output/Sportsnet_West/playlist.m3u8
+
+#EXTINF:-1 CUID="909" tvg-logo="https://raw.githubusercontent.com/colino17/ultra-xteve-docker/master/logos/snp.png" tvg-id="I114.18801.zap2it.com",SNP
+http://encodercdn1.frontline.ca/kamino/output/Sportsnet_Pacific/playlist.m3u8
