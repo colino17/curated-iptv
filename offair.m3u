@@ -1,69 +1,69 @@
 #EXTM3U
 
 #EXTINF:-1 CUID="100" tvg-id="I72890.json.schedulesdirect.org" tvg-logo="https://raw.githubusercontent.com/colino17/ultra-xteve-docker/master/logos/ctv.png" tvh-chnum="100", CTV
-pipe:///usr/bin/ffmpeg -i /playlists/nosignal.mp4 -c copy -f mpegts pipe:1
+pipe:///usr/bin/ffmpeg -loglevel fatal -i /playlists/nosignal.mp4 -vcodec copy -acodec copy -metadata service_provider=STRING -metadata service_name=STRING -f mpegts -tune zerolatency pipe:1
 
 #EXTINF:-1 CUID="101" tvg-id="I74017.json.schedulesdirect.org" tvg-logo="https://raw.githubusercontent.com/colino17/ultra-xteve-docker/master/logos/global.png" tvh-chnum="101", GLOBAL
 pipe:///usr/bin/ffmpeg -loglevel fatal -i /playlists/nosignal.mp4 -vcodec copy -acodec copy -metadata service_provider=STRING -metadata service_name=STRING -f mpegts -tune zerolatency pipe:1
 
 #EXTINF:-1 CUID="102" tvg-id="I72767.json.schedulesdirect.org" tvg-logo="https://raw.githubusercontent.com/colino17/ultra-xteve-docker/master/logos/cbc.png" tvh-chnum="102", CBC
-file:///playlists/nosignal.mp4
+pipe:///usr/bin/ffmpeg -loglevel fatal -i /playlists/nosignal.mp4 -vcodec copy -acodec copy -metadata service_provider=STRING -metadata service_name=STRING -f mpegts -tune zerolatency pipe:1
 
 #EXTINF:-1 CUID="103" tvg-logo="https://raw.githubusercontent.com/colino17/ultra-xteve-docker/master/logos/cbchalifax.png" tvg-id="I72767.json.schedulesdirect.org" tvh-chnum="103",CBC NS
-file:///playlists/nosignal.mp4
+pipe:///usr/bin/ffmpeg -loglevel fatal -i /playlists/nosignal.mp4 -vcodec copy -acodec copy -metadata service_provider=STRING -metadata service_name=STRING -f mpegts -tune zerolatency pipe:1
 
 #EXTINF:-1 CUID="104" tvg-logo="https://raw.githubusercontent.com/colino17/ultra-xteve-docker/master/logos/cbcvancouver.png" tvg-id="I29.10100.zap2it.com" tvh-chnum="104",CBC BC
-file:///playlists/nosignal.mp4
+pipe:///usr/bin/ffmpeg -loglevel fatal -i /playlists/nosignal.mp4 -vcodec copy -acodec copy -metadata service_provider=STRING -metadata service_name=STRING -f mpegts -tune zerolatency pipe:1
 
 #EXTINF:-1 CUID="161" tvg-logo="https://raw.githubusercontent.com/colino17/ultra-xteve-docker/master/logos/haunt.png" tvh-chnum="161",HAUNT
-file:///playlists/nosignal.mp4
+pipe:///usr/bin/ffmpeg -loglevel fatal -i /playlists/nosignal.mp4 -vcodec copy -acodec copy -metadata service_provider=STRING -metadata service_name=STRING -f mpegts -tune zerolatency pipe:1
 
 #EXTINF:-1 CUID="201" tvg-logo="https://raw.githubusercontent.com/colino17/ultra-xteve-docker/master/logos/comedydynamics.png" tvh-chnum="201",COMEDY DYNAMICS
-file:///playlists/nosignal.mp4
+pipe:///usr/bin/ffmpeg -loglevel fatal -i /playlists/nosignal.mp4 -vcodec copy -acodec copy -metadata service_provider=STRING -metadata service_name=STRING -f mpegts -tune zerolatency pipe:1
 
 #EXTINF:-1 CUID="502" tvg-logo="https://raw.githubusercontent.com/colino17/ultra-xteve-docker/master/logos/buzzr.png" tvg-id="I73163.json.schedulesdirect.org" tvh-chnum="502",BUZZR
-file:///playlists/nosignal.mp4
+pipe:///usr/bin/ffmpeg -loglevel fatal -i /playlists/nosignal.mp4 -vcodec copy -acodec copy -metadata service_provider=STRING -metadata service_name=STRING -f mpegts -tune zerolatency pipe:1
 #EXTINF:-1 CUID="502" tvg-logo="https://raw.githubusercontent.com/colino17/ultra-xteve-docker/master/logos/buzzr.png" tvg-id="I73163.json.schedulesdirect.org" tvh-chnum="502",BUZZR
-file:///playlists/nosignal.mp4
+pipe:///usr/bin/ffmpeg -loglevel fatal -i /playlists/nosignal.mp4 -vcodec copy -acodec copy -metadata service_provider=STRING -metadata service_name=STRING -f mpegts -tune zerolatency pipe:1
 
 #EXTINF:-1 CUID="800" tvg-logo="https://raw.githubusercontent.com/colino17/ultra-xteve-docker/master/logos/cbcnews.png" tvg-id="I75971.json.schedulesdirect.org" tvh-chnum="800",CBC NEWS
-file:///playlists/nosignal.mp4
+pipe:///usr/bin/ffmpeg -loglevel fatal -i /playlists/nosignal.mp4 -vcodec copy -acodec copy -metadata service_provider=STRING -metadata service_name=STRING -f mpegts -tune zerolatency pipe:1
 
 #EXTINF:-1 CUID="801" tvg-logo="https://raw.githubusercontent.com/colino17/ultra-xteve-docker/master/logos/globalnews.png" tvg-id="GLOBALNEWS" tvh-chnum="801",GLOBAL NEWS
-file:///playlists/nosignal.mp4
+pipe:///usr/bin/ffmpeg -loglevel fatal -i /playlists/nosignal.mp4 -vcodec copy -acodec copy -metadata service_provider=STRING -metadata service_name=STRING -f mpegts -tune zerolatency pipe:1
 #EXTINF:-1 CUID="801" tvg-logo="https://raw.githubusercontent.com/colino17/ultra-xteve-docker/master/logos/globalnews.png" tvg-id="GLOBALNEWS" tvh-chnum="801",GLOBAL NEWS
-file:///playlists/nosignal.mp4
+pipe:///usr/bin/ffmpeg -loglevel fatal -i /playlists/nosignal.mp4 -vcodec copy -acodec copy -metadata service_provider=STRING -metadata service_name=STRING -f mpegts -tune zerolatency pipe:1
 #EXTINF:-1 CUID="801" tvg-logo="https://raw.githubusercontent.com/colino17/ultra-xteve-docker/master/logos/globalnews.png" tvg-id="GLOBALNEWS" tvh-chnum="801",GLOBAL NEWS
-file:///playlists/nosignal.mp4
+pipe:///usr/bin/ffmpeg -loglevel fatal -i /playlists/nosignal.mp4 -vcodec copy -acodec copy -metadata service_provider=STRING -metadata service_name=STRING -f mpegts -tune zerolatency pipe:1
 
 #EXTINF:-1 CUID="810" tvg-logo="https://raw.githubusercontent.com/colino17/ultra-xteve-docker/master/logos/cnn.png" tvg-id="CNN" tvh-chnum="810",CNN
-file:///playlists/nosignal.mp4
+pipe:///usr/bin/ffmpeg -loglevel fatal -i /playlists/nosignal.mp4 -vcodec copy -acodec copy -metadata service_provider=STRING -metadata service_name=STRING -f mpegts -tune zerolatency pipe:1
 #EXTINF:-1 CUID="810" tvg-logo="https://raw.githubusercontent.com/colino17/ultra-xteve-docker/master/logos/cnn.png" tvg-id="CNN" tvh-chnum="810",CNN
-file:///playlists/nosignal.mp4
+pipe:///usr/bin/ffmpeg -loglevel fatal -i /playlists/nosignal.mp4 -vcodec copy -acodec copy -metadata service_provider=STRING -metadata service_name=STRING -f mpegts -tune zerolatency pipe:1
 #EXTINF:-1 CUID="810" tvg-logo="https://raw.githubusercontent.com/colino17/ultra-xteve-docker/master/logos/cnn.png" tvg-id="CNN" tvh-chnum="810",CNN
-file:///playlists/nosignal.mp4
+pipe:///usr/bin/ffmpeg -loglevel fatal -i /playlists/nosignal.mp4 -vcodec copy -acodec copy -metadata service_provider=STRING -metadata service_name=STRING -f mpegts -tune zerolatency pipe:1
 #EXTINF:-1 CUID="810" tvg-logo="https://raw.githubusercontent.com/colino17/ultra-xteve-docker/master/logos/cnn.png" tvg-id="CNN" tvh-chnum="810",CNN
-file:///playlists/nosignal.mp4
+pipe:///usr/bin/ffmpeg -loglevel fatal -i /playlists/nosignal.mp4 -vcodec copy -acodec copy -metadata service_provider=STRING -metadata service_name=STRING -f mpegts -tune zerolatency pipe:1
 
 #EXTINF:-1 CUID="811" tvg-logo="https://raw.githubusercontent.com/colino17/ultra-xteve-docker/master/logos/msnbc.png" tvg-id="I16300.json.schedulesdirect.org" tvh-chnum="811",MSNBC
-file:///playlists/nosignal.mp4
+pipe:///usr/bin/ffmpeg -loglevel fatal -i /playlists/nosignal.mp4 -vcodec copy -acodec copy -metadata service_provider=STRING -metadata service_name=STRING -f mpegts -tune zerolatency pipe:1
 
 #EXTINF:-1 CUID="812" tvg-logo="https://raw.githubusercontent.com/colino17/ultra-xteve-docker/master/logos/cbsn.png" tvg-id="I104846.json.schedulesdirect.org" tvh-chnum="812",CBSN
-file:///playlists/nosignal.mp4
+pipe:///usr/bin/ffmpeg -loglevel fatal -i /playlists/nosignal.mp4 -vcodec copy -acodec copy -metadata service_provider=STRING -metadata service_name=STRING -f mpegts -tune zerolatency pipe:1
 
 #EXTINF:-1 CUID="900" tvg-logo="https://raw.githubusercontent.com/colino17/ultra-xteve-docker/master/logos/stadium.png" tvg-id="stadium" tvh-chnum="900",STADIUM
-file:///playlists/nosignal.mp4
+pipe:///usr/bin/ffmpeg -loglevel fatal -i /playlists/nosignal.mp4 -vcodec copy -acodec copy -metadata service_provider=STRING -metadata service_name=STRING -f mpegts -tune zerolatency pipe:1
 #EXTINF:-1 CUID="900" tvg-logo="https://raw.githubusercontent.com/colino17/ultra-xteve-docker/master/logos/stadium.png" tvg-id="stadium" tvh-chnum="900",STADIUM
-file:///playlists/nosignal.mp4
+pipe:///usr/bin/ffmpeg -loglevel fatal -i /playlists/nosignal.mp4 -vcodec copy -acodec copy -metadata service_provider=STRING -metadata service_name=STRING -f mpegts -tune zerolatency pipe:1
 
 #EXTINF:-1 CUID="920" tvg-logo="https://raw.githubusercontent.com/colino17/ultra-xteve-docker/master/logos/poker.png" tvg-id="I114670.json.schedulesdirect.org" tvh-chnum="920",POKER CHANNEL
-file:///playlists/nosignal.mp4
+pipe:///usr/bin/ffmpeg -loglevel fatal -i /playlists/nosignal.mp4 -vcodec copy -acodec copy -metadata service_provider=STRING -metadata service_name=STRING -f mpegts -tune zerolatency pipe:1
 
 #EXTINF:-1 CUID="950" tvg-logo="https://raw.githubusercontent.com/colino17/ultra-xteve-docker/master/logos/glory.png" tvg-id="GLORY Kickboxing" tvh-chnum="950",GLORY
-file:///playlists/nosignal.mp4
+pipe:///usr/bin/ffmpeg -loglevel fatal -i /playlists/nosignal.mp4 -vcodec copy -acodec copy -metadata service_provider=STRING -metadata service_name=STRING -f mpegts -tune zerolatency pipe:1
 
 #EXTINF:-1 CUID="961" tvg-logo="https://raw.githubusercontent.com/colino17/ultra-xteve-docker/master/logos/impact.png" tvg-id="I117294.json.schedulesdirect.org" tvh-chnum="961",IMPACT
-file:///playlists/nosignal.mp4
+pipe:///usr/bin/ffmpeg -loglevel fatal -i /playlists/nosignal.mp4 -vcodec copy -acodec copy -metadata service_provider=STRING -metadata service_name=STRING -f mpegts -tune zerolatency pipe:1
 
 #EXTINF:-1 CUID="962" tvg-logo="https://raw.githubusercontent.com/colino17/ultra-xteve-docker/master/logos/honortv.png" tvg-id="Ring of Honor" tvh-chnum="962",HONOR
-file:///playlists/nosignal.mp4
+pipe:///usr/bin/ffmpeg -loglevel fatal -i /playlists/nosignal.mp4 -vcodec copy -acodec copy -metadata service_provider=STRING -metadata service_name=STRING -f mpegts -tune zerolatency pipe:1
