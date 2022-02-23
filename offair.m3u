@@ -4,7 +4,7 @@
 pipe:///usr/bin/ffmpeg -i /playlists/nosignal.mp4 -c copy -f mpegts pipe:1
 
 #EXTINF:-1 CUID="101" tvg-id="I74017.json.schedulesdirect.org" tvg-logo="https://raw.githubusercontent.com/colino17/ultra-xteve-docker/master/logos/global.png" tvh-chnum="101", GLOBAL
-file:///playlists/nosignal.mp4
+pipe:///usr/bin/ffmpeg -loglevel fatal -i /playlists/nosignal.mp4 -vcodec copy -acodec copy -metadata service_provider=STRING -metadata service_name=STRING -f mpegts -tune zerolatency pipe:1
 
 #EXTINF:-1 CUID="102" tvg-id="I72767.json.schedulesdirect.org" tvg-logo="https://raw.githubusercontent.com/colino17/ultra-xteve-docker/master/logos/cbc.png" tvh-chnum="102", CBC
 file:///playlists/nosignal.mp4
