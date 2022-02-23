@@ -1,7 +1,7 @@
 #EXTM3U
 
 #EXTINF:-1 CUID="100" tvg-id="I72890.json.schedulesdirect.org" tvg-logo="https://raw.githubusercontent.com/colino17/ultra-xteve-docker/master/logos/ctv.png" tvh-chnum="100", CTV
-file:///playlists/nosignal.mp4
+/playlists/nosignal.mp4
 
 #EXTINF:-1 CUID="101" tvg-id="I74017.json.schedulesdirect.org" tvg-logo="https://raw.githubusercontent.com/colino17/ultra-xteve-docker/master/logos/global.png" tvh-chnum="101", GLOBAL
 file:///playlists/nosignal.mp4
