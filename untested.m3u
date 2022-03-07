@@ -1,1 +1,81 @@
+#EXTINF:-1 tvg-id="" status="online",Impact Wrestling (1080p)
+https://d2tuwvs0ja335j.cloudfront.net/hls/1080p/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Buzzr.us" status="online",Buzzr (1080p)
+https://buzzr-roku-us.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Buzzr.us" status="online",Buzzr (1080p)
+https://dai.google.com/linear/hls/event/wFZ1ufQ8ToaSdPgGtbBbpw/master.m3u8
+
+#EXTINF:-1 tvg-id="Buzzr.us" status="online",Buzzr (1080p)
+https://buzzrota-web.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="ComedyDynamics.us" status="online",Comedy Dynamics (1080p)
+https://comedydynamics-tcl.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="ComedyDynamics.us" status="online",Comedy Dynamics (1080p)
+https://comedydynamics-rakuten.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="ComedyDynamics.us" status="online",Comedy Dynamics (1080p)
+https://cinedigm.vo.llnwd.net/conssui/amagi_hls_data_xumo-host-comedydynamics/CDN/master.m3u8
+
+#EXTINF:-1 tvg-id="STIRRComedyDynamics.us" status="online",STIRR Comedy Dynamics (1080p)
+https://dai.google.com/linear/hls/event/NJK_yxrcTBqULaHt-wi0Wg/master.m3u8
+
+#EXTINF:-1 tvg-id="STIRRRingofHonor.us" status="online",STIRR Ring of Honor (720p)
+https://dai.google.com/linear/hls/event/RNiQYO3aTjOqTe8od1zlqA/master.m3u8
+
+#EXTINF:-1 tvg-id="" status="online",CBSN (720p)
+https://dai.google.com/linear/hls/event/Sid4xiTQTkCT1SLu6rjUSQ/master.m3u8
+
+#EXTINF:-1 tvg-id="" status="online",CBS News Live (360p)
+https://cbsnewshd-lh.akamaihd.net/i/CBSNHD_7@199302/master.m3u8
+
+#EXTINF:-1 tvg-id="CBCCalgary.ca" status="blocked",CBC Calgary [Geo-blocked]
+https://cbclivedai4-i.akamaihd.net/hls/live/567230/event2/CBRT/master5.m3u8
+
+#EXTINF:-1 tvg-id="CBCCharlottetown.ca" status="blocked",CBC Charlottetown [Geo-blocked]
+https://cbclivedai6-i.akamaihd.net/hls/live/567239/event2/CBCT/master5.m3u8
+
+#EXTINF:-1 tvg-id="CBCEdmonton.ca" status="blocked",CBC Edmonton [Geo-blocked]
+https://cbclivedai4-i.akamaihd.net/hls/live/567231/event2/CBXT/master5.m3u8
+
+#EXTINF:-1 tvg-id="CBCFredericton.ca" status="blocked",CBC Fredericton [Geo-blocked]
+https://cbclivedai7-i.akamaihd.net/hls/live/567244/event2/CBAT/master5.m3u8
+
+#EXTINF:-1 tvg-id="CBCHalifax.ca" status="blocked",CBC Halifax [Geo-blocked]
+https://cbclivedai3-i.akamaihd.net/hls/live/566977/event2/CBHT/master5.m3u8
+
+#EXTINF:-1 tvg-id="CBCMontreal.ca" status="blocked",CBC Montreal [Geo-blocked]
+https://cbclivedai3-i.akamaihd.net/hls/live/566976/event2/CBMT/master5.m3u8
+
+#EXTINF:-1 tvg-id="CBCNewsNetwork.ca" status="blocked",CBC News Network [Geo-blocked]
+https://livecbcdai-i.akamaihd.net/hls/live/567245/event2/CBCNN/master5.m3u8
+
+#EXTINF:-1 tvg-id="CBCOttawa.ca" status="blocked",CBC Ottawa [Geo-blocked]
+https://cbclivedai5-i.akamaihd.net/hls/live/567235/event2/CBOT/master5.m3u8
+
+#EXTINF:-1 tvg-id="CBCRegina.ca" status="blocked",CBC Regina [Geo-blocked]
+https://cbclivedai2-i.akamaihd.net/hls/live/566969/event2/CBKT/master5.m3u8
+
+#EXTINF:-1 tvg-id="CBCStJohns.ca" status="blocked",CBC St Johns [Geo-blocked]
+https://cbclivedai5-i.akamaihd.net/hls/live/567236/event2/CBNT/master5.m3u8
+
+#EXTINF:-1 tvg-id="CBCToronto.ca" status="blocked",CBC Toronto [Geo-blocked]
+https://cbclivedai1-i.akamaihd.net/hls/live/566940/event2/CBLT/master5.m3u8
+
+#EXTINF:-1 tvg-id="CBCVancouver.ca" status="blocked",CBC Vancouver [Geo-blocked]
+https://cbclivedai2-i.akamaihd.net/hls/live/566968/event2/CBUT/master5.m3u8
+
+#EXTINF:-1 tvg-id="CBCWindsor.ca" status="blocked",CBC Windsor [Geo-blocked]
+https://cbclivedai1-i.akamaihd.net/hls/live/566941/event2/CBET/master5.m3u8
+
+#EXTINF:-1 tvg-id="CBCWinnipeg.ca" status="blocked",CBC Winnipeg [Geo-blocked]
+https://cbclivedai6-i.akamaihd.net/hls/live/567237/event2/CBWT/master5.m3u8
+
+#EXTINF:-1 tvg-id="CBCYellowknife.ca" status="blocked",CBC Yellowknife [Geo-blocked]
+https://cbclivedai7-i.akamaihd.net/hls/live/567240/event2/CFYK/master5.m3u8
+
+#EXTINF:-1 tvg-id="CBCNews.us" status="online",CBC News (720p)
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxcbcnews/CDN/playlist.m3u8
 
