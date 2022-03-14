@@ -1,4 +1,317 @@
 #EXTM3U
 
-#EXTINF:-1, OFF AIR
+#### CHANNEL 100 - CTV ####
+#EXTINF:-1 CUID="100" tvg-id="I72890.json.schedulesdirect.org" tvg-logo="https://raw.githubusercontent.com/colino17/ultimate-iptvgrabber-docker/master/logos/ctv.png" tvh-chnum="100",CTV
+pipe:///usr/bin/ffmpeg -stream_loop -1 -loglevel fatal -i http://192.168.0.17:22000/extras/nosignal.mp4 -c copy -metadata service_provider=CTV -metadata service_name=CTV -f hls -tune zerolatency pipe:1
+
+#### CHANNEL 101 - GLOBAL ####
+#EXTINF:-1 CUID="101" tvg-id="I74017.json.schedulesdirect.org" tvg-logo="https://raw.githubusercontent.com/colino17/ultimate-iptvgrabber-docker/master/logos/global.png" tvh-chnum="101",GLOBAL
+pipe:///usr/bin/ffmpeg -stream_loop -1 -loglevel fatal -i http://192.168.0.17:22000/extras/nosignal.mp4 -c copy -metadata service_provider=GLOBAL -metadata service_name=GLOBAL -f hls -tune zerolatency pipe:1
+
+#### CHANNEL 102 - CBC ####
+#EXTINF:-1 CUID="102" tvg-id="I72767.json.schedulesdirect.org" tvg-logo="https://raw.githubusercontent.com/colino17/ultimate-iptvgrabber-docker/master/logos/cbc.png" tvh-chnum="102",CBC
 pipe:///usr/bin/ffmpeg -stream_loop -1 -loglevel fatal -i http://192.168.0.17:22000/extras/nosignal.mp4 -c copy -metadata service_provider=CBC -metadata service_name=CBC -f hls -tune zerolatency pipe:1
+
+#### CHANNEL 103 - CBC ATLANTIC ####
+#EXTINF:-1 CUID="103" tvg-logo="https://raw.githubusercontent.com/colino17/ultimate-iptvgrabber-docker/master/logos/cbcatlantic.png" tvg-id="I72767.json.schedulesdirect.org" tvh-chnum="103",CBCATLANTIC
+pipe:///usr/bin/ffmpeg -stream_loop -1 -loglevel fatal -i http://192.168.0.17:22000/extras/nosignal.mp4 -c copy -metadata service_provider=CBCATLANTIC -metadata service_name=CBCATLANTIC -f hls -tune zerolatency pipe:1
+
+#### CHANNEL 104 - CBC EASTERN ####
+#EXTINF:-1 CUID="104" tvg-logo="https://raw.githubusercontent.com/colino17/ultimate-iptvgrabber-docker/master/logos/cbceastern.png" tvg-id="I72767.json.schedulesdirect.org" tvh-chnum="104",CBCEASTERN
+pipe:///usr/bin/ffmpeg -stream_loop -1 -loglevel fatal -i http://192.168.0.17:22000/extras/nosignal.mp4 -c copy -metadata service_provider=CBCEASTERN -metadata service_name=CBCEASTERN -f hls -tune zerolatency pipe:1
+
+# CHANNEL 105 - CBC CENTRAL
+#EXTINF:-1 CUID="105" tvg-logo="https://raw.githubusercontent.com/colino17/ultimate-iptvgrabber-docker/master/logos/cbccentral.png" tvg-id="I72767.json.schedulesdirect.org" tvh-chnum="105",CBCCENTRAL
+pipe:///usr/bin/ffmpeg -stream_loop -1 -loglevel fatal -i http://192.168.0.17:22000/extras/nosignal.mp4 -c copy -metadata service_provider=CBCCENTRAL -metadata service_name=CBCCENTRAL -f hls -tune zerolatency pipe:1
+
+# CHANNEL 106 - CBC WESTERN
+#EXTINF:-1 CUID="106" tvg-logo="https://raw.githubusercontent.com/colino17/ultimate-iptvgrabber-docker/master/logos/cbcwestern.png" tvg-id="I72767.json.schedulesdirect.org" tvh-chnum="106",CBCWESTERN
+pipe:///usr/bin/ffmpeg -stream_loop -1 -loglevel fatal -i http://192.168.0.17:22000/extras/nosignal.mp4 -c copy -metadata service_provider=CBCWESTERN -metadata service_name=CBCWESTERN -f hls -tune zerolatency pipe:1
+
+# CHANNEL 107 - CBC PACIFIC
+#EXTINF:-1 CUID="107" tvg-logo="https://raw.githubusercontent.com/colino17/ultimate-iptvgrabber-docker/master/logos/cbcpacific.png" tvg-id="I29.10100.zap2it.com" tvh-chnum="107",CBCPACIFIC
+pipe:///usr/bin/ffmpeg -stream_loop -1 -loglevel fatal -i http://192.168.0.17:22000/extras/nosignal.mp4 -c copy -metadata service_provider=CBCPACIFIC -metadata service_name=CBCPACIFIC -f hls -tune zerolatency pipe:1
+
+#### CHANNEL 110 - ABC ####
+#EXTINF:-1 CUID="110" tvg-id="I54231.json.schedulesdirect.org" tvg-logo="https://raw.githubusercontent.com/colino17/ultimate-iptvgrabber-docker/master/logos/abc.png" m3u-name="ABC" tvh-chnum="110",ABC
+pipe:///usr/bin/ffmpeg -stream_loop -1 -loglevel fatal -i http://192.168.0.17:22000/extras/nosignal.mp4 -c copy -metadata service_provider=ABC -metadata service_name=ABC -f hls -tune zerolatency pipe:1
+
+#### CHANNEL 111 - CBS ####
+#EXTINF:-1 CUID="111" tvg-id="I44991.json.schedulesdirect.org" tvg-logo="https://raw.githubusercontent.com/colino17/ultimate-iptvgrabber-docker/master/logos/cbs.png" m3u-name="CBS" tvh-chnum="111",CBS
+pipe:///usr/bin/ffmpeg -stream_loop -1 -loglevel fatal -i http://192.168.0.17:22000/extras/nosignal.mp4 -c copy -metadata service_provider=CBS -metadata service_name=CBS -f hls -tune zerolatency pipe:1
+
+#### CHANNEL 112 - FOX ####
+#EXTINF:-1 CUID="112" tvg-id="I54251.json.schedulesdirect.org" tvg-logo="https://raw.githubusercontent.com/colino17/ultimate-iptvgrabber-docker/master/logos/fox.png" m3u-name="FOX" tvh-chnum="112",FOX
+pipe:///usr/bin/ffmpeg -stream_loop -1 -loglevel fatal -i http://192.168.0.17:22000/extras/nosignal.mp4 -c copy -metadata service_provider=FOX -metadata service_name=FOX -f hls -tune zerolatency pipe:1
+
+#### CHANNEL 114 - CW ####
+#EXTINF:-1 CUID="114" tvg-id="I52329.json.schedulesdirect.org" tvg-logo="https://raw.githubusercontent.com/colino17/ultimate-iptvgrabber-docker/master/logos/cw.png" m3u-name="CW" tvh-chnum="114",CW
+pipe:///usr/bin/ffmpeg -stream_loop -1 -loglevel fatal -i http://192.168.0.17:22000/extras/nosignal.mp4 -c copy -metadata service_provider=CW -metadata service_name=CW -f hls -tune zerolatency pipe:1
+
+#### CHANNEL 115 - ION ####
+#EXTINF:-1 CUID="115" tvg-id="WPXN" tvg-logo="https://raw.githubusercontent.com/colino17/ultimate-iptvgrabber-docker/master/logos/ion.png" m3u-name="ION" tvh-chnum="115",ION
+pipe:///usr/bin/ffmpeg -stream_loop -1 -loglevel fatal -i http://192.168.0.17:22000/extras/nosignal.mp4 -c copy -metadata service_provider=ION -metadata service_name=ION -f hls -tune zerolatency pipe:1
+
+#### CHANNEL 116 - PBS ####
+#EXTINF:-1 CUID="116" tvg-id="WNET" tvg-logo="https://raw.githubusercontent.com/colino17/ultimate-iptvgrabber-docker/master/logos/pbs.png" m3u-name="PBS" tvh-chnum="116",PBS
+pipe:///usr/bin/ffmpeg -stream_loop -1 -loglevel fatal -i http://192.168.0.17:22000/extras/nosignal.mp4 -c copy -metadata service_provider=PBS -metadata service_name=PBS -f hls -tune zerolatency pipe:1
+
+#### CHANNEL 120 - TBS ####
+#EXTINF:-1 CUID="120" tvg-id="I11867.json.schedulesdirect.org" tvg-logo="https://raw.githubusercontent.com/colino17/ultimate-iptvgrabber-docker/master/logos/tbs.png" m3u-name="TBS" tvh-chnum="120",TBS
+pipe:///usr/bin/ffmpeg -stream_loop -1 -loglevel fatal -i http://192.168.0.17:22000/extras/nosignal.mp4 -c copy -metadata service_provider=TBS -metadata service_name=TBS -f hls -tune zerolatency pipe:1
+
+#### CHANNEL 121 - POP ####
+#EXTINF:-1 CUID="121" tvg-id="I16715.json.schedulesdirect.or" tvg-logo="https://raw.githubusercontent.com/colino17/ultimate-iptvgrabber-docker/master/logos/pop.png" m3u-name="POP" tvh-chnum="121",POP
+pipe:///usr/bin/ffmpeg -stream_loop -1 -loglevel fatal -i http://192.168.0.17:22000/extras/nosignal.mp4 -c copy -metadata service_provider=POP -metadata service_name=POP -f hls -tune zerolatency pipe:1
+
+#### CHANNEL 122 - TRUTV ####
+#EXTINF:-1 CUID="122" tvg-id="TRUTV" tvg-logo="https://raw.githubusercontent.com/colino17/ultimate-iptvgrabber-docker/master/logos/trutv.png" m3u-name="TRUTV" tvh-chnum="122",TRUTV
+pipe:///usr/bin/ffmpeg -stream_loop -1 -loglevel fatal -i http://192.168.0.17:22000/extras/nosignal.mp4 -c copy -metadata service_provider=TRUTV -metadata service_name=TRUTV -f hls -tune zerolatency pipe:1
+
+#### CHANNEL 123 - WETV ####
+#EXTINF:-1 CUID="123" tvg-id="WETV" tvg-logo="https://raw.githubusercontent.com/colino17/ultimate-iptvgrabber-docker/master/logos/wetv.png" m3u-name="WETV" tvh-chnum="123",WETV
+pipe:///usr/bin/ffmpeg -stream_loop -1 -loglevel fatal -i http://192.168.0.17:22000/extras/nosignal.mp4 -c copy -metadata service_provider=WETV -metadata service_name=WETV -f hls -tune zerolatency pipe:1
+
+#### CHANNEL 130 - SUNDANCE ####
+#EXTINF:-1 CUID="130" tvg-id="SUNDANCE" tvg-logo="https://raw.githubusercontent.com/colino17/ultimate-iptvgrabber-docker/master/logos/sundance.png" m3u-name="SUNDANCE" tvh-chnum="130",SUNDANCE
+pipe:///usr/bin/ffmpeg -stream_loop -1 -loglevel fatal -i http://192.168.0.17:22000/extras/nosignal.mp4 -c copy -metadata service_provider=SUNDANCE -metadata service_name=SUNDANCE -f hls -tune zerolatency pipe:1
+
+#### CHANNEL 131 - BBCAMERICA ####
+#EXTINF:-1 CUID="131" tvg-id="I64492.json.schedulesdirect.org" tvg-logo="https://raw.githubusercontent.com/colino17/ultimate-iptvgrabber-docker/master/logos/bbcamerica.png" m3u-name="BBC AMERICA" tvh-chnum="131",BBCAMERICA
+pipe:///usr/bin/ffmpeg -stream_loop -1 -loglevel fatal -i http://192.168.0.17:22000/extras/nosignal.mp4 -c copy -metadata service_provider=BBCAMERICA -metadata service_name=BBCAMERICA -f hls -tune zerolatency pipe:1
+
+#### CHANNEL 132 - BRAVO ####
+#EXTINF:-1 CUID="132" tvg-id="I58625.json.schedulesdirect.org" tvg-logo="https://raw.githubusercontent.com/colino17/ultimate-iptvgrabber-docker/master/logos/bravo.png" m3u-name="BRAVO" tvh-chnum="132",BRAVO
+pipe:///usr/bin/ffmpeg -stream_loop -1 -loglevel fatal -i http://192.168.0.17:22000/extras/nosignal.mp4 -c copy -metadata service_provider=BRAVO -metadata service_name=BRAVO -f hls -tune zerolatency pipe:1
+
+#### CHANNEL 133 - AMC ####
+#EXTINF:-1 CUID="133" tvg-id="I59337.json.schedulesdirect.org" tvg-logo="https://raw.githubusercontent.com/colino17/ultimate-iptvgrabber-docker/master/logos/amc.png" m3u-name="AMC" tvh-chnum="133",AMC
+pipe:///usr/bin/ffmpeg -stream_loop -1 -loglevel fatal -i http://192.168.0.17:22000/extras/nosignal.mp4 -c copy -metadata service_provider=AMC -metadata service_name=AMC -f hls -tune zerolatency pipe:1
+
+#### CHANNEL 140 - CINEMAX ####
+#EXTINF:-1 CUID="140" tvg-id="I10120.json.schedulesdirect.org" tvg-logo="https://raw.githubusercontent.com/colino17/ultimate-iptvgrabber-docker/master/logos/cinemax.png" m3u-name="CINEMAX" tvh-chnum="140",CINEMAX
+pipe:///usr/bin/ffmpeg -stream_loop -1 -loglevel fatal -i http://192.168.0.17:22000/extras/nosignal.mp4 -c copy -metadata service_provider=CINEMAX -metadata service_name=CINEMAX -f hls -tune zerolatency pipe:1
+
+#### CHANNEL 141 - FX ####
+#EXTINF:-1 CUID="141" tvg-id="I14321.json.schedulesdirect.org" tvg-logo="https://raw.githubusercontent.com/colino17/ultimate-iptvgrabber-docker/master/logos/fx.png" m3u-name="FX" tvh-chnum="141",FX
+pipe:///usr/bin/ffmpeg -stream_loop -1 -loglevel fatal -i http://192.168.0.17:22000/extras/nosignal.mp4 -c copy -metadata service_provider=FX -metadata service_name=FX -f hls -tune zerolatency pipe:1
+
+#### CHANNEL 142 - FXX ####
+#EXTINF:-1 CUID="142" tvg-id="I17927.json.schedulesdirect.org" tvg-logo="https://raw.githubusercontent.com/colino17/ultimate-iptvgrabber-docker/master/logos/fxx.png" m3u-name="FXX" tvh-chnum="142",FXX
+pipe:///usr/bin/ffmpeg -stream_loop -1 -loglevel fatal -i http://192.168.0.17:22000/extras/nosignal.mp4 -c copy -metadata service_provider=FXX -metadata service_name=FXX -f hls -tune zerolatency pipe:1
+
+#### CHANNEL 143 - FXM ####
+#EXTINF:-1 CUID="143" tvg-id="FXM" tvg-logo="https://raw.githubusercontent.com/colino17/ultimate-iptvgrabber-docker/master/logos/fxm.png" m3u-name="FXM" tvh-chnum="143",FXM
+pipe:///usr/bin/ffmpeg -stream_loop -1 -loglevel fatal -i http://192.168.0.17:22000/extras/nosignal.mp4 -c copy -metadata service_provider=FXM -metadata service_name=FXM -f hls -tune zerolatency pipe:1
+
+#### CHANNEL 144 - STARZ ####
+#EXTINF:-1 CUID="144" tvg-id="I12719.json.schedulesdirect.org" tvg-logo="https://raw.githubusercontent.com/colino17/ultimate-iptvgrabber-docker/master/logos/starz.png" m3u-name="STARZ" tvh-chnum="144",STARZ
+pipe:///usr/bin/ffmpeg -stream_loop -1 -loglevel fatal -i http://192.168.0.17:22000/extras/nosignal.mp4 -c copy -metadata service_provider=STARZ -metadata service_name=STARZ -f hls -tune zerolatency pipe:1
+
+#### CHANNEL 150 - HALLMARK ####
+#EXTINF:-1 CUID="150" tvg-id="I11221.json.schedulesdirect.org" tvg-logo="https://raw.githubusercontent.com/colino17/ultimate-iptvgrabber-docker/master/logos/hallmark.png" m3u-name="HALLMARK" tvh-chnum="150",HALLMARK
+pipe:///usr/bin/ffmpeg -stream_loop -1 -loglevel fatal -i http://192.168.0.17:22000/extras/nosignal.mp4 -c copy -metadata service_provider=HALLMARK -metadata service_name=HALLMARK -f hls -tune zerolatency pipe:1
+
+#### CHANNEL 151 - HMM ####
+#EXTINF:-1 CUID="151" tvg-id="I61522.json.schedulesdirect.org" tvg-logo="https://raw.githubusercontent.com/colino17/ultimate-iptvgrabber-docker/master/logos/hallmark.png" m3u-name="HMM" tvh-chnum="151",HMM
+pipe:///usr/bin/ffmpeg -stream_loop -1 -loglevel fatal -i http://192.168.0.17:22000/extras/nosignal.mp4 -c copy -metadata service_provider=HMM -metadata service_name=HMM -f hls -tune zerolatency pipe:1
+
+#### CHANNEL 153 - LMN ####
+#EXTINF:-1 CUID="153" tvg-id="LMN" tvg-logo="https://raw.githubusercontent.com/colino17/ultimate-iptvgrabber-docker/master/logos/lmn.png" m3u-name="LMN" tvh-chnum="153",LMN
+pipe:///usr/bin/ffmpeg -stream_loop -1 -loglevel fatal -i http://192.168.0.17:22000/extras/nosignal.mp4 -c copy -metadata service_provider=LMN -metadata service_name=LMN -f hls -tune zerolatency pipe:1
+
+#### CHANNEL 160 - SYFY ####
+#EXTINF:-1 CUID="160" tvg-id="I11097.json.schedulesdirect.org" tvg-logo="https://raw.githubusercontent.com/colino17/ultimate-iptvgrabber-docker/master/logos/syfy.png" m3u-name="SYFY" tvh-chnum="160",SYFY
+pipe:///usr/bin/ffmpeg -stream_loop -1 -loglevel fatal -i http://192.168.0.17:22000/extras/nosignal.mp4 -c copy -metadata service_provider=SYFY -metadata service_name=SYFY -f hls -tune zerolatency pipe:1
+
+#### CHANNEL 161 - HAUNT ####
+#EXTINF:-1 CUID="161"  tvg-id="HAUNT" tvg-logo="https://raw.githubusercontent.com/colino17/ultimate-iptvgrabber-docker/master/logos/haunt.png" tvh-chnum="161",HAUNT
+pipe:///usr/bin/ffmpeg -stream_loop -1 -loglevel fatal -i http://192.168.0.17:22000/extras/nosignal.mp4 -c copy -metadata service_provider=HAUNT -metadata service_name=HAUNT -f hls -tune zerolatency pipe:1
+
+#### CHANNEL 171 - TVLAND ####
+#EXTINF:-1 CUID="171" tvg-id="I16123.json.schedulesdirect.org" tvg-logo="https://raw.githubusercontent.com/colino17/ultimate-iptvgrabber-docker/master/logos/tvland.png" m3u-name="TVLAND" tvh-chnum="171",TVLAND
+pipe:///usr/bin/ffmpeg -stream_loop -1 -loglevel fatal -i http://192.168.0.17:22000/extras/nosignal.mp4 -c copy -metadata service_provider=TVLAND -metadata service_name=TVLAND -f hls -tune zerolatency pipe:1
+
+#### CHANNEL 172 - FREEFORM ####
+#EXTINF:-1 CUID="172" tvg-id="I10093.json.schedulesdirect.org" tvg-logo="https://raw.githubusercontent.com/colino17/ultimate-iptvgrabber-docker/master/logos/freeform.png" m3u-name="FREEFORM" tvh-chnum="172",FREEFORM
+pipe:///usr/bin/ffmpeg -stream_loop -1 -loglevel fatal -i http://192.168.0.17:22000/extras/nosignal.mp4 -c copy -metadata service_provider=FREEFORM -metadata service_name=FREEFORM -f hls -tune zerolatency pipe:1
+
+#### CHANNEL 200 - COMEDYCENTRAL ####
+#EXTINF:-1 CUID="200" tvg-id="I10149.json.schedulesdirect.org" tvg-logo="https://raw.githubusercontent.com/colino17/ultimate-iptvgrabber-docker/master/logos/comedycentral.png" m3u-name="COMEDY CENTRAL" tvh-chnum="200",COMEDYCENTRAL
+pipe:///usr/bin/ffmpeg -stream_loop -1 -loglevel fatal -i http://192.168.0.17:22000/extras/nosignal.mp4 -c copy -metadata service_provider=COMEDYCENTRAL -metadata service_name=COMEDYCENTRAL -f hls -tune zerolatency pipe:1
+
+#### CHANNEL 201 - COMEDYDYNAMICS ####
+#EXTINF:-1 CUID="201" tvg-logo="https://raw.githubusercontent.com/colino17/ultimate-iptvgrabber-docker/master/logos/comedydynamics.png" tvh-chnum="201",COMEDYDYNAMICS
+pipe:///usr/bin/ffmpeg -stream_loop -1 -loglevel fatal -i http://192.168.0.17:22000/extras/nosignal.mp4 -c copy -metadata service_provider=COMEDYDYNAMICS -metadata service_name=COMEDYDYNAMICS -f hls -tune zerolatency pipe:1
+
+#### CHANNEL 300 - FOODNETWORK ####
+#EXTINF:-1 CUID="300" tvg-id="I50747.json.schedulesdirect.org" tvg-logo="https://raw.githubusercontent.com/colino17/ultimate-iptvgrabber-docker/master/logos/foodnetwork.png" m3u-name="FOODNETWORK" tvh-chnum="300",FOODNETWORK
+pipe:///usr/bin/ffmpeg -stream_loop -1 -loglevel fatal -i http://192.168.0.17:22000/extras/nosignal.mp4 -c copy -metadata service_provider=FOODNETWORK -metadata service_name=FOODNETWORK -f hls -tune zerolatency pipe:1
+
+#### CHANNEL 310 - HGTV ####
+#EXTINF:-1 CUID="310" tvg-id="I49788.json.schedulesdirect.org" tvg-logo="https://raw.githubusercontent.com/colino17/ultimate-iptvgrabber-docker/master/logos/hgtv.png" m3u-name="HGTV" tvh-chnum="310",HGTV
+pipe:///usr/bin/ffmpeg -stream_loop -1 -loglevel fatal -i http://192.168.0.17:22000/extras/nosignal.mp4 -c copy -metadata service_provider=HGTV -metadata service_name=HGTV -f hls -tune zerolatency pipe:1
+
+#### CHANNEL 311 - DIY ####
+#EXTINF:-1 CUID="311" tvg-id="I67375.json.schedulesdirect.org" tvg-logo="https://raw.githubusercontent.com/colino17/ultimate-iptvgrabber-docker/master/logos/diy.png" m3u-name="DIY" tvh-chnum="311",DIY
+pipe:///usr/bin/ffmpeg -stream_loop -1 -loglevel fatal -i http://192.168.0.17:22000/extras/nosignal.mp4 -c copy -metadata service_provider=DIY -metadata service_name=DIY -f hls -tune zerolatency pipe:1
+
+#### CHANNEL 320 - TRAVEL ####
+#EXTINF:-1 CUID="320" tvg-id="I59303.json.schedulesdirect.org" tvg-logo="https://raw.githubusercontent.com/colino17/ultimate-iptvgrabber-docker/master/logos/travel.png" m3u-name="TRAVEL" tvh-chnum="320",TRAVEL
+pipe:///usr/bin/ffmpeg -stream_loop -1 -loglevel fatal -i http://192.168.0.17:22000/extras/nosignal.mp4 -c copy -metadata service_provider=TRAVEL -metadata service_name=TRAVEL -f hls -tune zerolatency pipe:1
+
+#### CHANNEL 332 - SCI ####
+#EXTINF:-1 CUID="332" tvg-id="I57390.json.schedulesdirect.org" tvg-logo="https://raw.githubusercontent.com/colino17/ultimate-iptvgrabber-docker/master/logos/science.png" m3u-name="SCI" tvh-chnum="332",SCI
+pipe:///usr/bin/ffmpeg -stream_loop -1 -loglevel fatal -i http://192.168.0.17:22000/extras/nosignal.mp4 -c copy -metadata service_provider=SCI -metadata service_name=SCI -f hls -tune zerolatency pipe:1
+
+#### CHANNEL 333 - TLC ####
+#EXTINF:-1 CUID="333" tvg-id="I57391.json.schedulesdirect.org" tvg-logo="https://raw.githubusercontent.com/colino17/ultimate-iptvgrabber-docker/master/logos/tlc.png" m3u-name="TLC" tvh-chnum="333",TLC
+pipe:///usr/bin/ffmpeg -stream_loop -1 -loglevel fatal -i http://192.168.0.17:22000/extras/nosignal.mp4 -c copy -metadata service_provider=TLC -metadata service_name=TLC -f hls -tune zerolatency pipe:1
+
+#### CHANNEL 334 - DA ####
+#EXTINF:-1 CUID="334" tvg-id="I60468.json.schedulesdirect.org" tvg-logo="https://raw.githubusercontent.com/colino17/ultimate-iptvgrabber-docker/master/logos/da.png" m3u-name="DESTINATION AMERICA" tvh-chnum="334",DESTINATIONAMERICA
+pipe:///usr/bin/ffmpeg -stream_loop -1 -loglevel fatal -i http://192.168.0.17:22000/extras/nosignal.mp4 -c copy -metadata service_provider=DESTINATIONAMERICA -metadata service_name=DESTINATIONAMERICA -f hls -tune zerolatency pipe:1
+
+#### CHANNEL 340 - MOTORTREND ####
+#EXTINF:-1 CUID="340" tvg-id="I31046.json.schedulesdirect.org" tvg-logo="https://raw.githubusercontent.com/colino17/ultimate-iptvgrabber-docker/master/logos/motortrend.png" m3u-name="MOTORTREND" tvh-chnum="340",MOTORTREND
+pipe:///usr/bin/ffmpeg -stream_loop -1 -loglevel fatal -i http://192.168.0.17:22000/extras/nosignal.mp4 -c copy -metadata service_provider=MOTORTREND -metadata service_name=MOTORTREND -f hls -tune zerolatency pipe:1
+
+#### CHANNEL 350 - ANIMALPLANET ####
+#EXTINF:-1 CUID="350" tvg-id="ANIMALPLANET" tvg-logo="https://raw.githubusercontent.com/colino17/ultimate-iptvgrabber-docker/master/logos/animalplanet.png" m3u-name="ANIMALPLANET" tvh-chnum="350",ANIMALPLANET
+pipe:///usr/bin/ffmpeg -stream_loop -1 -loglevel fatal -i http://192.168.0.17:22000/extras/nosignal.mp4 -c copy -metadata service_provider=ANIMALPLANET -metadata service_name=ANIMALPLANET -f hls -tune zerolatency pipe:1
+
+#### CHANNEL 351 - NATGEOWILD ####
+#EXTINF:-1 CUID="351" tvg-id="I67331.json.schedulesdirect.org" tvg-logo="https://raw.githubusercontent.com/colino17/ultimate-iptvgrabber-docker/master/logos/natgeowild.png" m3u-name="NATGEO WILD" tvh-chnum="351",NATGEOWILD
+pipe:///usr/bin/ffmpeg -stream_loop -1 -loglevel fatal -i http://192.168.0.17:22000/extras/nosignal.mp4 -c copy -metadata service_provider=NATGEOWILD -metadata service_name=NATGEOWILD -f hls -tune zerolatency pipe:1
+
+#### CHANNEL 390 - E ####
+#EXTINF:-1 CUID="390" tvg-id="E" tvg-logo="https://raw.githubusercontent.com/colino17/ultimate-iptvgrabber-docker/master/logos/e.png" m3u-name="E!" tvh-chnum="390",E
+pipe:///usr/bin/ffmpeg -stream_loop -1 -loglevel fatal -i http://192.168.0.17:22000/extras/nosignal.mp4 -c copy -metadata service_provider=E -metadata service_name=E -f hls -tune zerolatency pipe:1
+
+#### CHANNEL 400 - CARTOONNETWORK ####
+#EXTINF:-1 CUID="400" tvg-id="I12131.json.schedulesdirect.org" tvg-logo="https://raw.githubusercontent.com/colino17/ultimate-iptvgrabber-docker/master/logos/cartoonnetwork.png" m3u-name="CARTOONNETWORK" tvh-chnum="400",CARTOONNETWORK
+pipe:///usr/bin/ffmpeg -stream_loop -1 -loglevel fatal -i http://192.168.0.17:22000/extras/nosignal.mp4 -c copy -metadata service_provider=CARTOONNETWORK -metadata service_name=CARTOONNETWORK -f hls -tune zerolatency pipe:1
+
+#### CHANNEL 401 - NICKELODEON ####
+#EXTINF:-1 CUID="401" tvg-id="I11006.json.schedulesdirect.org" tvg-logo="https://raw.githubusercontent.com/colino17/ultimate-iptvgrabber-docker/master/logos/nickelodeon.png" m3u-name="NICKELODEON" tvh-chnum="401",NICKELODEON
+pipe:///usr/bin/ffmpeg -stream_loop -1 -loglevel fatal -i http://192.168.0.17:22000/extras/nosignal.mp4 -c copy -metadata service_provider=NICKELODEON -metadata service_name=NICKELODEON -f hls -tune zerolatency pipe:1
+
+#### CHANNEL 411 - BOOMERANG ####
+#EXTINF:-1 CUID="411" tvg-id="I21883.json.schedulesdirect.org" tvg-logo="https://raw.githubusercontent.com/colino17/ultimate-iptvgrabber-docker/master/logos/boomerang.png" m3u-name="BOOMERANG" tvh-chnum="411",BOOMERANG
+pipe:///usr/bin/ffmpeg -stream_loop -1 -loglevel fatal -i http://192.168.0.17:22000/extras/nosignal.mp4 -c copy -metadata service_provider=BOOMERANG -metadata service_name=BOOMERANG -f hls -tune zerolatency pipe:1
+
+#### CHANNEL 412 - SNICK EAST ####                
+#EXTINF:-0 channel-id="4" tvg-name="SNICK EAST" tvg-id="SNICK EAST" tvg-logo="https://raw.githubusercontent.com/colino17/ultimate-iptvgrabber-docker/master/logos/snickeast.png" tvh-chnum="412", SNICKEAST
+pipe:///usr/bin/ffmpeg -stream_loop -1 -loglevel fatal -i http://192.168.0.17:22000/extras/nosignal.mp4 -c copy -metadata service_provider=SNICKEAST -metadata service_name=SNICKEAST -f hls -tune zerolatency pipe:1
+
+#### CHANNEL 413 - SNICK WEST ####
+#EXTINF:-0 channel-id="5" tvg-name="SNICK WEST" tvg-id="SNICK WEST" tvg-logo="https://raw.githubusercontent.com/colino17/ultimate-iptvgrabber-docker/master/logos/snickwest.png" tvh-chnum="413", SNICKWEST
+pipe:///usr/bin/ffmpeg -stream_loop -1 -loglevel fatal -i http://192.168.0.17:22000/extras/nosignal.mp4 -c copy -metadata service_provider=SNICKWEST -metadata service_name=SNICKWEST -f hls -tune zerolatency pipe:1
+
+#### CHANNEL 414 - TOONAMI EAST ####
+#EXTINF:-0 channel-id="1" tvg-name="TOONAMI EAST" tvg-id="TOONAMI EAST" tvg-logo="https://raw.githubusercontent.com/colino17/ultimate-iptvgrabber-docker/master/logos/toonamieast.png" tvh-chnum="414", TOONAMIEAST
+pipe:///usr/bin/ffmpeg -stream_loop -1 -loglevel fatal -i http://192.168.0.17:22000/extras/nosignal.mp4 -c copy -metadata service_provider=TOONAMIEAST -metadata service_name=TOONAMIEAST -f hls -tune zerolatency pipe:1
+
+#### CHANNEL 415 - TOONAMI WEST ####                
+#EXTINF:-0 channel-id="2" tvg-name="TOONAMI WEST" tvg-id="TOONAMI WEST" tvg-logo="https://raw.githubusercontent.com/colino17/ultimate-iptvgrabber-docker/master/logos/toonamiwest.png" tvh-chnum="415", TOONAMIWEST
+pipe:///usr/bin/ffmpeg -stream_loop -1 -loglevel fatal -i http://192.168.0.17:22000/extras/nosignal.mp4 -c copy -metadata service_provider=TOONAMIWEST -metadata service_name=TOONAMIWEST -f hls -tune zerolatency pipe:1
+
+#### CHANNEL 440 - DISNEY ####
+#EXTINF:-1 CUID="440" tvg-id="DISNEY" tvg-logo="https://raw.githubusercontent.com/colino17/ultimate-iptvgrabber-docker/master/logos/disney.png" m3u-name="DISNEY" tvh-chnum="440",DISNEY
+pipe:///usr/bin/ffmpeg -stream_loop -1 -loglevel fatal -i http://192.168.0.17:22000/extras/nosignal.mp4 -c copy -metadata service_provider=DISNEY -metadata service_name=DISNEY -f hls -tune zerolatency pipe:1
+
+#### CHANNEL 441 - DISNEYXD ####
+#EXTINF:-1 CUID="441" tvg-id="DISNEYXD" tvg-logo="https://raw.githubusercontent.com/colino17/ultimate-iptvgrabber-docker/master/logos/disneyxd.png" m3u-name="DISNEYXD" tvh-chnum="441",DISNEYXD
+pipe:///usr/bin/ffmpeg -stream_loop -1 -loglevel fatal -i http://192.168.0.17:22000/extras/nosignal.mp4 -c copy -metadata service_provider=DISNEYXD -metadata service_name=DISNEYXD -f hls -tune zerolatency pipe:1
+
+#### CHANNEL 442 - DISNEYJR ####
+#EXTINF:-1 CUID="442" tvg-id="DISNEYJR" tvg-logo="https://raw.githubusercontent.com/colino17/ultimate-iptvgrabber-docker/master/logos/disneyjr.png" m3u-name="DISNEYJR" tvh-chnum="442",DISNEYJR
+pipe:///usr/bin/ffmpeg -stream_loop -1 -loglevel fatal -i http://192.168.0.17:22000/extras/nosignal.mp4 -c copy -metadata service_provider=DISNEYJR -metadata service_name=DISNEYJR -f hls -tune zerolatency pipe:1
+
+#### CHANNEL 500 - GSN ####
+#EXTINF:-1 CUID="500" tvg-id="I14909.json.schedulesdirect.org" tvg-logo="https://raw.githubusercontent.com/colino17/ultimate-iptvgrabber-docker/master/logos/gsn.png" m3u-name="GSN" tvh-chnum="500",GSN
+pipe:///usr/bin/ffmpeg -stream_loop -1 -loglevel fatal -i http://192.168.0.17:22000/extras/nosignal.mp4 -c copy -metadata service_provider=GSN -metadata service_name=GSN -f hls -tune zerolatency pipe:1
+
+#### CHANNEL 502 - BUZZR ####
+#EXTINF:-1 CUID="502" tvg-logo="https://raw.githubusercontent.com/colino17/ultimate-iptvgrabber-docker/master/logos/buzzr.png" tvg-id="I73163.json.schedulesdirect.org" tvh-chnum="502",BUZZR
+pipe:///usr/bin/ffmpeg -stream_loop -1 -loglevel fatal -i http://192.168.0.17:22000/extras/nosignal.mp4 -c copy -metadata service_provider=BUZZR -metadata service_name=BUZZR -f hls -tune zerolatency pipe:1
+
+#### CHANNEL 600 - CMT ####
+#EXTINF:-1 CUID="600" tvg-id="I10138.json.schedulesdirect.org" tvg-logo="https://raw.githubusercontent.com/colino17/ultimate-iptvgrabber-docker/master/logos/cmt.png" m3u-name="CMT" tvh-chnum="600",CMT
+pipe:///usr/bin/ffmpeg -stream_loop -1 -loglevel fatal -i http://192.168.0.17:22000/extras/nosignal.mp4 -c copy -metadata service_provider=CMT -metadata service_name=CMT -f hls -tune zerolatency pipe:1
+
+#### CHANNEL 601 - MTV ####
+#EXTINF:-1 CUID="601" tvg-id="MTV" tvg-logo="https://raw.githubusercontent.com/colino17/ultimate-iptvgrabber-docker/master/logos/mtv.png" m3u-name="MTV" tvh-chnum="601",MTV
+pipe:///usr/bin/ffmpeg -stream_loop -1 -loglevel fatal -i http://192.168.0.17:22000/extras/nosignal.mp4 -c copy -metadata service_provider=MTV -metadata service_name=MTV -f hls -tune zerolatency pipe:1
+
+#### CHANNEL 650 - MTV97 ####
+#EXTINF:-0 channel-id="6" tvg-name="MTV97"  tvg-id="MTV97" tvg-logo="https://raw.githubusercontent.com/colino17/ultimate-iptvgrabber-docker/master/logos/mtv97.png" tvh-chnum="650", MTV97
+pipe:///usr/bin/ffmpeg -stream_loop -1 -loglevel fatal -i http://192.168.0.17:22000/extras/nosignal.mp4 -c copy -metadata service_provider=MTV97 -metadata service_name=MTV97 -f hls -tune zerolatency pipe:1
+
+#### CHANNEL 800 - CBCNEWS ####
+#EXTINF:-1 CUID="800" tvg-logo="https://raw.githubusercontent.com/colino17/ultimate-iptvgrabber-docker/master/logos/cbcnews.png" tvg-id="I75971.json.schedulesdirect.org" tvh-chnum="800",CBCNEWS
+pipe:///usr/bin/ffmpeg -stream_loop -1 -loglevel fatal -i http://192.168.0.17:22000/extras/nosignal.mp4 -c copy -metadata service_provider=CBCNEWS -metadata service_name=CBCNEWS -f hls -tune zerolatency pipe:1
+
+#### CHANNEL 801 - GLOBALNEWS ####
+#EXTINF:-1 CUID="801" tvg-logo="https://raw.githubusercontent.com/colino17/ultimate-iptvgrabber-docker/master/logos/globalnews.png" tvg-id="GLOBALNEWS" tvh-chnum="801",GLOBALNEWS
+pipe:///usr/bin/ffmpeg -stream_loop -1 -loglevel fatal -i http://192.168.0.17:22000/extras/nosignal.mp4 -c copy -metadata service_provider=GLOBALNEWS -metadata service_name=GLOBALNEWS -f hls -tune zerolatency pipe:1
+
+#### CHANNEL 810 - CNN ####
+#EXTINF:-1 CUID="810" tvg-id="I58646.json.schedulesdirect.org" tvg-logo="https://raw.githubusercontent.com/colino17/ultimate-iptvgrabber-docker/master/logos/cnn.png" m3u-name="CNN" tvh-chnum="810",CNN
+pipe:///usr/bin/ffmpeg -stream_loop -1 -loglevel fatal -i http://192.168.0.17:22000/extras/nosignal.mp4 -c copy -metadata service_provider=CNN -metadata service_name=CNN -f hls -tune zerolatency pipe:1
+
+#### CHANNEL 811 - MSNBC ####
+#EXTINF:-1 CUID="811" tvg-logo="https://raw.githubusercontent.com/colino17/ultimate-iptvgrabber-docker/master/logos/msnbc.png" tvg-id="I16300.json.schedulesdirect.org" tvh-chnum="811",MSNBC
+pipe:///usr/bin/ffmpeg -stream_loop -1 -loglevel fatal -i http://192.168.0.17:22000/extras/nosignal.mp4 -c copy -metadata service_provider=MSNBC -metadata service_name=MSNBC -f hls -tune zerolatency pipe:1
+
+#### CHANNEL 812 - CBSN ####
+#EXTINF:-1 CUID="812" tvg-logo="https://raw.githubusercontent.com/colino17/ultimate-iptvgrabber-docker/master/logos/cbsn.png" tvg-id="I104846.json.schedulesdirect.org" tvh-chnum="812",CBSN
+pipe:///usr/bin/ffmpeg -stream_loop -1 -loglevel fatal -i http://192.168.0.17:22000/extras/nosignal.mp4 -c copy -metadata service_provider=CBSN -metadata service_name=CBSN -f hls -tune zerolatency pipe:1
+
+#### CHANNEL 900 - STADIUM ####
+#EXTINF:-1 CUID="900" tvg-logo="https://raw.githubusercontent.com/colino17/ultimate-iptvgrabber-docker/master/logos/stadium.png" tvg-id="stadium" tvh-chnum="900",STADIUM
+pipe:///usr/bin/ffmpeg -stream_loop -1 -loglevel fatal -i http://192.168.0.17:22000/extras/nosignal.mp4 -c copy -metadata service_provider=STADIUM -metadata service_name=STADIUM -f hls -tune zerolatency pipe:1
+
+#### CHANNEL 910 - CBSSPORTS ####
+#EXTINF:-1 CUID="910" tvg-id="I16365.json.schedulesdirect.org" tvg-logo="https://raw.githubusercontent.com/colino17/ultimate-iptvgrabber-docker/master/logos/cbssports.png" m3u-name="CBS SPORTS" tvh-chnum="910",CBSSPORTS
+pipe:///usr/bin/ffmpeg -stream_loop -1 -loglevel fatal -i http://192.168.0.17:22000/extras/nosignal.mp4 -c copy -metadata service_provider=CBSSPORTS -metadata service_name=CBSSPORTS -f hls -tune zerolatency pipe:1
+
+#### CHANNEL 912 - ESPN2 ####
+#EXTINF:-1 CUID="912" tvg-id="I12444.json.schedulesdirect.org" tvg-logo="https://raw.githubusercontent.com/colino17/ultimate-iptvgrabber-docker/master/logos/espn2.png" m3u-name="ESPN2" tvh-chnum="912",ESPN2
+pipe:///usr/bin/ffmpeg -stream_loop -1 -loglevel fatal -i http://192.168.0.17:22000/extras/nosignal.mp4 -c copy -metadata service_provider=ESPN2 -metadata service_name=ESPN2 -f hls -tune zerolatency pipe:1
+
+#### CHANNEL 914 - FS2 ####
+#EXTINF:-1 CUID="914" tvg-id="I33178.json.schedulesdirect.org" tvg-logo="https://raw.githubusercontent.com/colino17/ultimate-iptvgrabber-docker/master/logos/fs2.png" m3u-name="FS2" tvh-chnum="914",FS2
+pipe:///usr/bin/ffmpeg -stream_loop -1 -loglevel fatal -i http://192.168.0.17:22000/extras/nosignal.mp4 -c copy -metadata service_provider=FS2 -metadata service_name=FS2 -f hls -tune zerolatency pipe:1
+
+#### CHANNEL 920 - POKER ####
+#EXTINF:-1 CUID="920" tvg-logo="https://raw.githubusercontent.com/colino17/ultimate-iptvgrabber-docker/master/logos/poker.png" tvg-id="I114670.json.schedulesdirect.org" tvh-chnum="920",POKER
+pipe:///usr/bin/ffmpeg -stream_loop -1 -loglevel fatal -i http://192.168.0.17:22000/extras/nosignal.mp4 -c copy -metadata service_provider=POKER -metadata service_name=POKER -f hls -tune zerolatency pipe:1
+
+#### CHANNEL 930 - MLB ####
+#EXTINF:-1 CUID="930" tvg-id="MLB" tvg-logo="https://raw.githubusercontent.com/colino17/ultimate-iptvgrabber-docker/master/logos/mlb.png" m3u-name="MLB" tvh-chnum="930", MLB
+pipe:///usr/bin/ffmpeg -stream_loop -1 -loglevel fatal -i http://192.168.0.17:22000/extras/nosignal.mp4 -c copy -metadata service_provider=MLB -metadata service_name=MLB -f hls -tune zerolatency pipe:1
+
+#### CHANNEL 940 - NFL ####
+#EXTINF:-1 CUID="940" tvg-id="NFL" tvg-logo="https://raw.githubusercontent.com/colino17/ultimate-iptvgrabber-docker/master/logos/nfl.png" m3u-name="NFL" tvh-chnum="940", NFL
+pipe:///usr/bin/ffmpeg -stream_loop -1 -loglevel fatal -i http://192.168.0.17:22000/extras/nosignal.mp4 -c copy -metadata service_provider=NFL -metadata service_name=NFL -f hls -tune zerolatency pipe:1
+
+#### CHANNEL 950 - GLORY ####
+#EXTINF:-1 CUID="950" tvg-logo="https://raw.githubusercontent.com/colino17/ultimate-iptvgrabber-docker/master/logos/glory.png" tvg-id="GLORY Kickboxing" tvh-chnum="950",GLORY
+pipe:///usr/bin/ffmpeg -stream_loop -1 -loglevel fatal -i http://192.168.0.17:22000/extras/nosignal.mp4 -c copy -metadata service_provider=GLORY -metadata service_name=GLORY -f hls -tune zerolatency pipe:1
+
+#### CHANNEL 960 - WWE ####
+#EXTINF:-1 CUID="960" tvg-id="I90143.json.schedulesdirect.org" tvg-logo="https://raw.githubusercontent.com/colino17/ultimate-iptvgrabber-docker/master/logos/wwe.png" m3u-name="WWE" tvh-chnum="960",WWE
+pipe:///usr/bin/ffmpeg -stream_loop -1 -loglevel fatal -i http://192.168.0.17:22000/extras/nosignal.mp4 -c copy -metadata service_provider=WWE -metadata service_name=WWE -f hls -tune zerolatency pipe:1
+
+#### CHANNEL 961 - IMPACT ####
+#EXTINF:-1 CUID="961" tvg-logo="https://raw.githubusercontent.com/colino17/ultimate-iptvgrabber-docker/master/logos/impact.png" tvg-id="I117294.json.schedulesdirect.org" tvh-chnum="961",IMPACT
+pipe:///usr/bin/ffmpeg -stream_loop -1 -loglevel fatal -i http://192.168.0.17:22000/extras/nosignal.mp4 -c copy -metadata service_provider=IMPACT -metadata service_name=IMPACT -f hls -tune zerolatency pipe:1
+
+#### CHANNEL 962 - HONOR ####
+#EXTINF:-1 CUID="962" tvg-logo="https://raw.githubusercontent.com/colino17/ultimate-iptvgrabber-docker/master/logos/honortv.png" tvg-id="Ring of Honor" tvh-chnum="962",HONOR
+pipe:///usr/bin/ffmpeg -stream_loop -1 -loglevel fatal -i http://192.168.0.17:22000/extras/nosignal.mp4 -c copy -metadata service_provider=HONOR -metadata service_name=HONOR -f hls -tune zerolatency pipe:1
+
+#### CHANNEL 990 - OLYMPICS ####
+#EXTINF:-1 CUID="990" tvg-id="I104089.json.schedulesdirect.org" tvg-logo="https://raw.githubusercontent.com/colino17/ultimate-iptvgrabber-docker/master/logos/olympics.png" m3u-name="OLYMPICS" tvh-chnum="990",OLYMPICS
+pipe:///usr/bin/ffmpeg -stream_loop -1 -loglevel fatal -i http://192.168.0.17:22000/extras/nosignal.mp4 -c copy -metadata service_provider=OLYMPICS -metadata service_name=OLYMPICS -f hls -tune zerolatency pipe:1
