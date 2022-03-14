@@ -1,4 +1,4 @@
 #EXTM3U
 
 #EXTINF:-1, OFF AIR
-pipe:///usr/bin/ffmpeg -stream_loop -1 -loglevel fatal -i http://192.168.0.17:22000/extras/nosignal.mp4 -vcodec copy -acodec copy -metadata service_provider=OFFAIR -metadata service_name=OFFAIR -f mpegts -tune zerolatency pipe:1
+pipe:///usr/bin/ffmpeg -stream_loop -1 -loglevel fatal -i http://192.168.0.17:22000/extras/nosignal.mp4 -c copy -metadata service_provider=CBC -metadata service_name=CBC -f hls -tune zerolatency pipe:1
