@@ -201,19 +201,19 @@ pipe:///usr/bin/ffmpeg -stream_loop -1 -loglevel fatal -i http://192.168.0.17:22
 pipe:///usr/bin/ffmpeg -stream_loop -1 -loglevel fatal -i http://192.168.0.17:22000/extras/nosignal.mp4 -c copy -metadata service_provider=BOOMERANG -metadata service_name=BOOMERANG -f hls -tune zerolatency pipe:1
 
 #### CHANNEL 412 - SNICK EAST ####                
-#EXTINF:-0 channel-id="4" tvg-name="SNICK EAST" tvg-id="SNICK EAST" tvg-logo="https://raw.githubusercontent.com/colino17/ultimate-iptvgrabber-docker/master/logos/snickeast.png" tvh-chnum="412", SNICKEAST
+#EXTINF:-0 channel-id="4" tvg-name="SNICK EAST" tvg-id="SNICK EAST" tvg-logo="https://raw.githubusercontent.com/colino17/ultimate-iptvgrabber-docker/master/logos/snickeast.png" tvh-chnum="412",SNICKEAST
 pipe:///usr/bin/ffmpeg -stream_loop -1 -loglevel fatal -i http://192.168.0.17:22000/extras/nosignal.mp4 -c copy -metadata service_provider=SNICKEAST -metadata service_name=SNICKEAST -f hls -tune zerolatency pipe:1
 
 #### CHANNEL 413 - SNICK WEST ####
-#EXTINF:-0 channel-id="5" tvg-name="SNICK WEST" tvg-id="SNICK WEST" tvg-logo="https://raw.githubusercontent.com/colino17/ultimate-iptvgrabber-docker/master/logos/snickwest.png" tvh-chnum="413", SNICKWEST
+#EXTINF:-0 channel-id="5" tvg-name="SNICK WEST" tvg-id="SNICK WEST" tvg-logo="https://raw.githubusercontent.com/colino17/ultimate-iptvgrabber-docker/master/logos/snickwest.png" tvh-chnum="413",SNICKWEST
 pipe:///usr/bin/ffmpeg -stream_loop -1 -loglevel fatal -i http://192.168.0.17:22000/extras/nosignal.mp4 -c copy -metadata service_provider=SNICKWEST -metadata service_name=SNICKWEST -f hls -tune zerolatency pipe:1
 
 #### CHANNEL 414 - TOONAMI EAST ####
-#EXTINF:-0 channel-id="1" tvg-name="TOONAMI EAST" tvg-id="TOONAMI EAST" tvg-logo="https://raw.githubusercontent.com/colino17/ultimate-iptvgrabber-docker/master/logos/toonamieast.png" tvh-chnum="414", TOONAMIEAST
+#EXTINF:-0 channel-id="1" tvg-name="TOONAMI EAST" tvg-id="TOONAMI EAST" tvg-logo="https://raw.githubusercontent.com/colino17/ultimate-iptvgrabber-docker/master/logos/toonamieast.png" tvh-chnum="414",TOONAMIEAST
 pipe:///usr/bin/ffmpeg -stream_loop -1 -loglevel fatal -i http://192.168.0.17:22000/extras/nosignal.mp4 -c copy -metadata service_provider=TOONAMIEAST -metadata service_name=TOONAMIEAST -f hls -tune zerolatency pipe:1
 
 #### CHANNEL 415 - TOONAMI WEST ####                
-#EXTINF:-0 channel-id="2" tvg-name="TOONAMI WEST" tvg-id="TOONAMI WEST" tvg-logo="https://raw.githubusercontent.com/colino17/ultimate-iptvgrabber-docker/master/logos/toonamiwest.png" tvh-chnum="415", TOONAMIWEST
+#EXTINF:-0 channel-id="2" tvg-name="TOONAMI WEST" tvg-id="TOONAMI WEST" tvg-logo="https://raw.githubusercontent.com/colino17/ultimate-iptvgrabber-docker/master/logos/toonamiwest.png" tvh-chnum="415",TOONAMIWEST
 pipe:///usr/bin/ffmpeg -stream_loop -1 -loglevel fatal -i http://192.168.0.17:22000/extras/nosignal.mp4 -c copy -metadata service_provider=TOONAMIWEST -metadata service_name=TOONAMIWEST -f hls -tune zerolatency pipe:1
 
 #### CHANNEL 440 - DISNEY ####
