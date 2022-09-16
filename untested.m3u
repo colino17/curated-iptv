@@ -1,11 +1,3 @@
-#EXTINF:-1 tvg-id="CrackleXUMO.us" status="online",Crackle (XUMO) (1080p)
-http://crackle-xumo.amagi.tv/playlist.m3u8
-
-#EXTINF:-1 tvg-id="WorldPokerTour.us" status="online",World Poker Tour (720p)
-https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxworldpokertour/CDN/playlist.m3u8
-#EXTINF:-1 tvg-id="WorldPokerTour.us" status="online",World Poker Tour (1080p) [Not 24/7]
-https://d3w4n3hhseniak.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/WPT-DistroTV/150.m3u8
-
 #EXTINF:-1 tvg-id="CONtv.us" status="online",CONtv (1080p)
 https://contv-stirr.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="CONtv.us" status="online",CONtv (1080p)
@@ -16,23 +8,5 @@ http://contv.sinclair.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-id="AXSTVNow.us" status="online",AXS TV Now (1080p)
 https://dikcfc9915kp8.cloudfront.net/hls/main.m3u8
 
-#EXTINF:-1 tvg-id="Charge.us" status="online",Charge! (720p)
-http://content.uplynk.com/channel/37eb732888614810b512fdd82604244e.m3u8
-
-#EXTINF:-1 tvg-id="FireplaceLounge.us" status="online",Fireplace Lounge (720p)
-https://a.jsrdn.com/broadcast/aee08372e5/+0000/c.m3u8
-#EXTINF:-1 tvg-id="FishTank.us" status="online",Fish Tank (720p)
-https://a.jsrdn.com/broadcast/8b43a16c1e/+0000/c.m3u8
-#EXTINF:-1 tvg-id="Fite.us" status="online",Fite (720p) [Not 24/7]
-https://cdn-cf.fite.tv/linear/fite247/playlist.m3u8
-
-#EXTINF:-1 tvg-id="HistoryEast.us" status="online",History East (720p) [Not 24/7]
-https://bk7l2w4nlx53-hls-live.5centscdn.com/HISTORY/961ac1c875f5884f31bdd177365ef1e3.sdp/playlist.m3u8
-
 #EXTINF:-1 tvg-id="" status="online",Vice East
 https://d2do1g43aq7264.cloudfront.net/playlist.m3u8
-
-#EXTINF:-1 tvg-id="FightNetwork.ca" status="online",Fight Network (1080p)
-https://d12a2vxqkkh1bo.cloudfront.net/hls/main.m3u8
-
-
