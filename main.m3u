@@ -12,143 +12,105 @@ http://10.17.90.80:5004/auto/v44.1
 #EXTINF:-1 CUID="102" tvg-id="I16261.json.schedulesdirect.org" tvg-logo="https://raw.githubusercontent.com/colino17/ultimate-iptvgrabber-docker/master/logos/cbc.png" tvh-chnum="102",CBC
 http://10.17.90.80:5004/auto/v4.1
 
-#### CHANNEL 103 - CBC ATLANTIC ####
-#EXTINF:-1 CUID="103" tvg-logo="https://raw.githubusercontent.com/colino17/ultimate-iptvgrabber-docker/master/logos/cbcatlantic.png" tvg-id="I16261.json.schedulesdirect.org" tvh-chnum="103",CBCATLANTIC
-pipe:///usr/bin/ffmpeg -i https://cbclivedai3-i.akamaihd.net/hls/live/566977/event2/CBHT/master5.m3u8 -c copy -f mpegts pipe:1
-#EXTINF:-1 CUID="103" tvg-logo="https://raw.githubusercontent.com/colino17/ultimate-iptvgrabber-docker/master/logos/cbcatlantic.png" tvg-id="I16261.json.schedulesdirect.org" tvh-chnum="103",CBCATLANTIC
-pipe:///usr/bin/ffmpeg -i https://cbclivedai7-i.akamaihd.net/hls/live/567244/event2/CBAT/master5.m3u8 -c copy -f mpegts pipe:1
-#EXTINF:-1 CUID="103" tvg-logo="https://raw.githubusercontent.com/colino17/ultimate-iptvgrabber-docker/master/logos/cbcatlantic.png" tvg-id="I16261.json.schedulesdirect.org" tvh-chnum="103",CBCATLANTIC
-pipe:///usr/bin/ffmpeg -i https://cbclivedai6-i.akamaihd.net/hls/live/567239/event2/CBCT/master5.m3u8 -c copy -f mpegts pipe:1
-#EXTINF:-1 CUID="103" tvg-logo="https://raw.githubusercontent.com/colino17/ultimate-iptvgrabber-docker/master/logos/cbcatlantic.png" tvg-id="I16261.json.schedulesdirect.org" tvh-chnum="103",CBCATLANTIC
-pipe:///usr/bin/ffmpeg -i https://cbclivedai5-i.akamaihd.net/hls/live/567236/event2/CBNT/master5.m3u8 -c copy -f mpegts pipe:1
-
-#### CHANNEL 104 - CBC EASTERN ####
-#EXTINF:-1 CUID="104" tvg-logo="https://raw.githubusercontent.com/colino17/ultimate-iptvgrabber-docker/master/logos/cbceastern.png" tvg-id="I10097.json.schedulesdirect.org" tvh-chnum="104",CBCEASTERN
-pipe:///usr/bin/ffmpeg -i https://cbclivedai1-i.akamaihd.net/hls/live/566940/event2/CBLT/master5.m3u8 -c copy -f mpegts pipe:1
-#EXTINF:-1 CUID="104" tvg-logo="https://raw.githubusercontent.com/colino17/ultimate-iptvgrabber-docker/master/logos/cbceastern.png" tvg-id="I10097.json.schedulesdirect.org" tvh-chnum="104",CBCEASTERN
-pipe:///usr/bin/ffmpeg -i https://cbclivedai3-i.akamaihd.net/hls/live/566976/event2/CBMT/master5.m3u8 -c copy -f mpegts pipe:1
-#EXTINF:-1 CUID="104" tvg-logo="https://raw.githubusercontent.com/colino17/ultimate-iptvgrabber-docker/master/logos/cbceastern.png" tvg-id="I10097.json.schedulesdirect.org" tvh-chnum="104",CBCEASTERN
-pipe:///usr/bin/ffmpeg -i https://cbclivedai5-i.akamaihd.net/hls/live/567235/event2/CBOT/master5.m3u8 -c copy -f mpegts pipe:1
-#EXTINF:-1 CUID="104" tvg-logo="https://raw.githubusercontent.com/colino17/ultimate-iptvgrabber-docker/master/logos/cbceastern.png" tvg-id="I10097.json.schedulesdirect.org" tvh-chnum="104",CBCEASTERN
-pipe:///usr/bin/ffmpeg -i https://cbclivedai1-i.akamaihd.net/hls/live/566941/event2/CBET/master5.m3u8 -c copy -f mpegts pipe:1
-
-# CHANNEL 105 - CBC CENTRAL
-#EXTINF:-1 CUID="105" tvg-logo="https://raw.githubusercontent.com/colino17/ultimate-iptvgrabber-docker/master/logos/cbccentral.png" tvg-id="I13834.json.schedulesdirect.org" tvh-chnum="105",CBCCENTRAL
-pipe:///usr/bin/ffmpeg -i https://cbclivedai6-i.akamaihd.net/hls/live/567237/event2/CBWT/master5.m3u8 -c copy -f mpegts pipe:1
-#EXTINF:-1 CUID="105" tvg-logo="https://raw.githubusercontent.com/colino17/ultimate-iptvgrabber-docker/master/logos/cbccentral.png" tvg-id="I13834.json.schedulesdirect.org" tvh-chnum="105",CBCCENTRAL
-pipe:///usr/bin/ffmpeg -i https://cbclivedai2-i.akamaihd.net/hls/live/566969/event2/CBKT/master5.m3u8 -c copy -f mpegts pipe:1
-
-# CHANNEL 106 - CBC WESTERN
-#EXTINF:-1 CUID="106" tvg-logo="https://raw.githubusercontent.com/colino17/ultimate-iptvgrabber-docker/master/logos/cbcwestern.png" tvg-id="I71729.json.schedulesdirect.org" tvh-chnum="106",CBCWESTERN
-pipe:///usr/bin/ffmpeg -i https://cbclivedai4-i.akamaihd.net/hls/live/567230/event2/CBRT/master5.m3u8 -c copy -f mpegts pipe:1
-#EXTINF:-1 CUID="106" tvg-logo="https://raw.githubusercontent.com/colino17/ultimate-iptvgrabber-docker/master/logos/cbcwestern.png" tvg-id="I71729.json.schedulesdirect.org" tvh-chnum="106",CBCWESTERN
-pipe:///usr/bin/ffmpeg -i https://cbclivedai4-i.akamaihd.net/hls/live/567231/event2/CBXT/master5.m3u8 -c copy -f mpegts pipe:1
-#EXTINF:-1 CUID="106" tvg-logo="https://raw.githubusercontent.com/colino17/ultimate-iptvgrabber-docker/master/logos/cbcwestern.png" tvg-id="I71729.json.schedulesdirect.org" tvh-chnum="106",CBCWESTERN
-pipe:///usr/bin/ffmpeg -i https://cbclivedai7-i.akamaihd.net/hls/live/567240/event2/CFYK/master5.m3u8 -c copy -f mpegts pipe:1
-
-# CHANNEL 107 - CBC PACIFIC
-#EXTINF:-1 CUID="107" tvg-logo="https://raw.githubusercontent.com/colino17/ultimate-iptvgrabber-docker/master/logos/cbcpacific.png" tvg-id="I51981.json.schedulesdirect.org" tvh-chnum="107",CBCPACIFIC
-pipe:///usr/bin/ffmpeg -i https://cbclivedai2-i.akamaihd.net/hls/live/566968/event2/CBUT/master5.m3u8 -c copy -f mpegts pipe:1
-
 #### CHANNEL 110 - ABC ####
 #EXTINF:-1 CUID="110" tvg-id="I11259.json.schedulesdirect.org" tvg-logo="https://raw.githubusercontent.com/colino17/ultimate-iptvgrabber-docker/master/logos/abc.png" m3u-name="ABC" tvh-chnum="110",ABC
-pipe:///usr/bin/ffmpeg -i http://192.168.0.17:22000/playlists/ABC.m3u8 -c copy -f hls pipe:1
+pipe:///usr/bin/ffmpeg -i http://10.17.10.17:22000/playlists/ABC.m3u8 -c copy -f hls pipe:1
 #EXTINF:-1 CUID="110" tvg-id="I11259.json.schedulesdirect.org" tvg-logo="https://raw.githubusercontent.com/colino17/ultimate-iptvgrabber-docker/master/logos/abc.png" m3u-name="ABC" tvh-chnum="110",ABC
-pipe:///usr/bin/ffmpeg -i http://192.168.0.17:22000/playlists/ABC2.m3u8 -c copy -f mpegts pipe:1
+pipe:///usr/bin/ffmpeg -i http://10.17.10.17:22000/playlists/ABC2.m3u8 -c copy -f mpegts pipe:1
 
 #### CHANNEL 111 - CBS ####
 #EXTINF:-1 CUID="111" tvg-id="I74916.json.schedulesdirect.org" tvg-logo="https://raw.githubusercontent.com/colino17/ultimate-iptvgrabber-docker/master/logos/cbs.png" m3u-name="CBS" tvh-chnum="111",CBS
-pipe:///usr/bin/ffmpeg -i http://192.168.0.17:22000/playlists/CBS.m3u8 -c copy -f hls pipe:1
+pipe:///usr/bin/ffmpeg -i http://10.17.10.17:22000/playlists/CBS.m3u8 -c copy -f hls pipe:1
 #EXTINF:-1 CUID="111" tvg-id="I74916.json.schedulesdirect.org" tvg-logo="https://raw.githubusercontent.com/colino17/ultimate-iptvgrabber-docker/master/logos/cbs.png" m3u-name="CBS" tvh-chnum="111",CBS
-pipe:///usr/bin/ffmpeg -i http://192.168.0.17:22000/playlists/CBS2.m3u8 -c copy -f hls pipe:1
+pipe:///usr/bin/ffmpeg -i http://10.17.10.17:22000/playlists/CBS2.m3u8 -c copy -f hls pipe:1
 
 #### CHANNEL 112 - FOX ####
 #EXTINF:-1 CUID="112" tvg-id="I11456.json.schedulesdirect.org" tvg-logo="https://raw.githubusercontent.com/colino17/ultimate-iptvgrabber-docker/master/logos/fox.png" m3u-name="FOX" tvh-chnum="112",FOX
-pipe:///usr/bin/ffmpeg -i http://192.168.0.17:22000/playlists/FOX.m3u8 -c copy -f mpegts pipe:1
+pipe:///usr/bin/ffmpeg -i http://10.17.10.17:22000/playlists/FOX.m3u8 -c copy -f mpegts pipe:1
 #EXTINF:-1 CUID="112" tvg-id="I11456.json.schedulesdirect.org" tvg-logo="https://raw.githubusercontent.com/colino17/ultimate-iptvgrabber-docker/master/logos/fox.png" m3u-name="FOX" tvh-chnum="112",FOX
-pipe:///usr/bin/ffmpeg -i http://192.168.0.17:22000/playlists/FOX2.m3u8 -c copy -f mpegts pipe:1
+pipe:///usr/bin/ffmpeg -i http://10.17.10.17:22000/playlists/FOX2.m3u8 -c copy -f mpegts pipe:1
 
 #### CHANNEL 114 - CW ####
 #EXTINF:-1 CUID="114" tvg-id="I11779.json.schedulesdirect.org" tvg-logo="https://raw.githubusercontent.com/colino17/ultimate-iptvgrabber-docker/master/logos/cw.png" m3u-name="CW" tvh-chnum="114",CW
-pipe:///usr/bin/ffmpeg -i http://192.168.0.17:22000/playlists/CW.m3u8 -c copy -f hls pipe:1
+pipe:///usr/bin/ffmpeg -i http://10.17.10.17:22000/playlists/CW.m3u8 -c copy -f hls pipe:1
 #EXTINF:-1 CUID="114" tvg-id="I11779.json.schedulesdirect.org" tvg-logo="https://raw.githubusercontent.com/colino17/ultimate-iptvgrabber-docker/master/logos/cw.png" m3u-name="CW" tvh-chnum="114",CW
-pipe:///usr/bin/ffmpeg -i http://192.168.0.17:22000/playlists/CW2.m3u8 -c copy -f hls pipe:1
+pipe:///usr/bin/ffmpeg -i http://10.17.10.17:22000/playlists/CW2.m3u8 -c copy -f hls pipe:1
 
 #### CHANNEL 115 - ION ####
 #EXTINF:-1 CUID="115" tvg-id="I11743.json.schedulesdirect.org" tvg-logo="https://raw.githubusercontent.com/colino17/ultimate-iptvgrabber-docker/master/logos/ion.png" m3u-name="ION" tvh-chnum="115",ION
-pipe:///usr/bin/ffmpeg -i http://192.168.0.17:22000/playlists/ION.m3u8 -c copy -f hls pipe:1
+pipe:///usr/bin/ffmpeg -i http://10.17.10.17:22000/playlists/ION.m3u8 -c copy -f hls pipe:1
 
 #### CHANNEL 116 - PBS ####
 #EXTINF:-1 CUID="116" tvg-id="I11715.json.schedulesdirect.org" tvg-logo="https://raw.githubusercontent.com/colino17/ultimate-iptvgrabber-docker/master/logos/pbs.png" m3u-name="PBS" tvh-chnum="116",PBS
-pipe:///usr/bin/ffmpeg -i http://192.168.0.17:22000/playlists/PBS.m3u8 -c copy -f hls pipe:1
+pipe:///usr/bin/ffmpeg -i http://10.17.10.17:22000/playlists/PBS.m3u8 -c copy -f hls pipe:1
 
 #### CHANNEL 120 - TBS ####
 #EXTINF:-1 CUID="120" tvg-id="I11867.json.schedulesdirect.org" tvg-logo="https://raw.githubusercontent.com/colino17/ultimate-iptvgrabber-docker/master/logos/tbs.png" m3u-name="TBS" tvh-chnum="120",TBS
-pipe:///usr/bin/ffmpeg -i http://192.168.0.17:22000/playlists/TBS.m3u8 -c copy -f hls pipe:1
+pipe:///usr/bin/ffmpeg -i http://10.17.10.17:22000/playlists/TBS.m3u8 -c copy -f hls pipe:1
 
 #### CHANNEL 121 - POP ####
 #EXTINF:-1 CUID="121" tvg-id="I16715.json.schedulesdirect.or" tvg-logo="https://raw.githubusercontent.com/colino17/ultimate-iptvgrabber-docker/master/logos/pop.png" m3u-name="POP" tvh-chnum="121",POP
-pipe:///usr/bin/ffmpeg -i http://192.168.0.17:22000/playlists/POP.m3u8 -c copy -f hls pipe:1
+pipe:///usr/bin/ffmpeg -i http://10.17.10.17:22000/playlists/POP.m3u8 -c copy -f hls pipe:1
 
 #### CHANNEL 122 - TRUTV ####
 #EXTINF:-1 CUID="122" tvg-id="I10153.json.schedulesdirect.org" tvg-logo="https://raw.githubusercontent.com/colino17/ultimate-iptvgrabber-docker/master/logos/trutv.png" m3u-name="TRUTV" tvh-chnum="122",TRUTV
-pipe:///usr/bin/ffmpeg -i http://192.168.0.17:22000/playlists/TRUTV.m3u8 -c copy -f hls pipe:1
+pipe:///usr/bin/ffmpeg -i http://10.17.10.17:22000/playlists/TRUTV.m3u8 -c copy -f hls pipe:1
 
 #### CHANNEL 123 - WETV ####
 #EXTINF:-1 CUID="123" tvg-id="I16409.json.schedulesdirect.org" tvg-logo="https://raw.githubusercontent.com/colino17/ultimate-iptvgrabber-docker/master/logos/wetv.png" m3u-name="WETV" tvh-chnum="123",WETV
-pipe:///usr/bin/ffmpeg -i http://192.168.0.17:22000/playlists/WETV.m3u8 -c copy -f hls pipe:1
+pipe:///usr/bin/ffmpeg -i http://10.17.10.17:22000/playlists/WETV.m3u8 -c copy -f hls pipe:1
 
 #### CHANNEL 130 - SUNDANCE ####
 #EXTINF:-1 CUID="130" tvg-id="I16108.json.schedulesdirect.org" tvg-logo="https://raw.githubusercontent.com/colino17/ultimate-iptvgrabber-docker/master/logos/sundance.png" m3u-name="SUNDANCE" tvh-chnum="130",SUNDANCE
-pipe:///usr/bin/ffmpeg -i http://192.168.0.17:22000/playlists/SUNDANCE.m3u8 -c copy -f hls pipe:1
+pipe:///usr/bin/ffmpeg -i http://10.17.10.17:22000/playlists/SUNDANCE.m3u8 -c copy -f hls pipe:1
 
 #### CHANNEL 131 - BBCAMERICA ####
 #EXTINF:-1 CUID="131" tvg-id="I64492.json.schedulesdirect.org" tvg-logo="https://raw.githubusercontent.com/colino17/ultimate-iptvgrabber-docker/master/logos/bbcamerica.png" m3u-name="BBC AMERICA" tvh-chnum="131",BBCAMERICA
-pipe:///usr/bin/ffmpeg -i http://192.168.0.17:22000/playlists/BBCAMERICA.m3u8 -c copy -f hls pipe:1
+pipe:///usr/bin/ffmpeg -i http://10.17.10.17:22000/playlists/BBCAMERICA.m3u8 -c copy -f hls pipe:1
 
 #### CHANNEL 132 - BRAVO ####
 #EXTINF:-1 CUID="132" tvg-id="I58625.json.schedulesdirect.org" tvg-logo="https://raw.githubusercontent.com/colino17/ultimate-iptvgrabber-docker/master/logos/bravo.png" m3u-name="BRAVO" tvh-chnum="132",BRAVO
-pipe:///usr/bin/ffmpeg -i http://192.168.0.17:22000/playlists/BRAVO.m3u8 -c copy -f hls pipe:1
+pipe:///usr/bin/ffmpeg -i http://10.17.10.17:22000/playlists/BRAVO.m3u8 -c copy -f hls pipe:1
 
 #### CHANNEL 133 - AMC ####
 #EXTINF:-1 CUID="133" tvg-id="I59337.json.schedulesdirect.org" tvg-logo="https://raw.githubusercontent.com/colino17/ultimate-iptvgrabber-docker/master/logos/amc.png" m3u-name="AMC" tvh-chnum="133",AMC
-pipe:///usr/bin/ffmpeg -i http://192.168.0.17:22000/playlists/AMC.m3u8 -c copy -f hls pipe:1
+pipe:///usr/bin/ffmpeg -i http://10.17.10.17:22000/playlists/AMC.m3u8 -c copy -f hls pipe:1
 
 #### CHANNEL 140 - CINEMAX ####
 #EXTINF:-1 CUID="140" tvg-id="I10120.json.schedulesdirect.org" tvg-logo="https://raw.githubusercontent.com/colino17/ultimate-iptvgrabber-docker/master/logos/cinemax.png" m3u-name="CINEMAX" tvh-chnum="140",CINEMAX
-pipe:///usr/bin/ffmpeg -i http://192.168.0.17:22000/playlists/CINEMAX.m3u8 -c copy -f hls pipe:1
+pipe:///usr/bin/ffmpeg -i http://10.17.10.17:22000/playlists/CINEMAX.m3u8 -c copy -f hls pipe:1
 
 #### CHANNEL 141 - FX ####
 #EXTINF:-1 CUID="141" tvg-id="I14321.json.schedulesdirect.org" tvg-logo="https://raw.githubusercontent.com/colino17/ultimate-iptvgrabber-docker/master/logos/fx.png" m3u-name="FX" tvh-chnum="141",FX
-pipe:///usr/bin/ffmpeg -i http://192.168.0.17:22000/playlists/FX.m3u8 -c copy -f hls pipe:1
+pipe:///usr/bin/ffmpeg -i http://10.17.10.17:22000/playlists/FX.m3u8 -c copy -f hls pipe:1
 
 #### CHANNEL 142 - FXX ####
 #EXTINF:-1 CUID="142" tvg-id="I17927.json.schedulesdirect.org" tvg-logo="https://raw.githubusercontent.com/colino17/ultimate-iptvgrabber-docker/master/logos/fxx.png" m3u-name="FXX" tvh-chnum="142",FXX
-pipe:///usr/bin/ffmpeg -i http://192.168.0.17:22000/playlists/FXX.m3u8 -c copy -f hls pipe:1
+pipe:///usr/bin/ffmpeg -i http://10.17.10.17:22000/playlists/FXX.m3u8 -c copy -f hls pipe:1
 
 #### CHANNEL 143 - FXM ####
 #EXTINF:-1 CUID="143" tvg-id="I14988.json.schedulesdirect.org" tvg-logo="https://raw.githubusercontent.com/colino17/ultimate-iptvgrabber-docker/master/logos/fxm.png" m3u-name="FXM" tvh-chnum="143",FXM
-pipe:///usr/bin/ffmpeg -i http://192.168.0.17:22000/playlists/FXM.m3u8 -c copy -f hls pipe:1
+pipe:///usr/bin/ffmpeg -i http://10.17.10.17:22000/playlists/FXM.m3u8 -c copy -f hls pipe:1
 
 #### CHANNEL 144 - STARZ ####
 #EXTINF:-1 CUID="144" tvg-id="I12719.json.schedulesdirect.org" tvg-logo="https://raw.githubusercontent.com/colino17/ultimate-iptvgrabber-docker/master/logos/starz.png" m3u-name="STARZ" tvh-chnum="144",STARZ
-pipe:///usr/bin/ffmpeg -i http://192.168.0.17:22000/playlists/STARZ.m3u8 -c copy -f hls pipe:1
+pipe:///usr/bin/ffmpeg -i http://10.17.10.17:22000/playlists/STARZ.m3u8 -c copy -f hls pipe:1
 
 #### CHANNEL 150 - HALLMARK ####
 #EXTINF:-1 CUID="150" tvg-id="I11221.json.schedulesdirect.org" tvg-logo="https://raw.githubusercontent.com/colino17/ultimate-iptvgrabber-docker/master/logos/hallmark.png" m3u-name="HALLMARK" tvh-chnum="150",HALLMARK
-pipe:///usr/bin/ffmpeg -i http://192.168.0.17:22000/playlists/HALLMARK.m3u8 -c copy -f hls pipe:1
+pipe:///usr/bin/ffmpeg -i http://10.17.10.17:22000/playlists/HALLMARK.m3u8 -c copy -f hls pipe:1
 
 #### CHANNEL 151 - HMM ####
 #EXTINF:-1 CUID="151" tvg-id="I61522.json.schedulesdirect.org" tvg-logo="https://raw.githubusercontent.com/colino17/ultimate-iptvgrabber-docker/master/logos/hallmark.png" m3u-name="HMM" tvh-chnum="151",HMM
-pipe:///usr/bin/ffmpeg -i http://192.168.0.17:22000/playlists/HMM.m3u8 -c copy -f hls pipe:1
+pipe:///usr/bin/ffmpeg -i http://10.17.10.17:22000/playlists/HMM.m3u8 -c copy -f hls pipe:1
 
 #### CHANNEL 153 - LMN ####
 #EXTINF:-1 CUID="153" tvg-id="I18480.json.schedulesdirect.org" tvg-logo="https://raw.githubusercontent.com/colino17/ultimate-iptvgrabber-docker/master/logos/lmn.png" m3u-name="LMN" tvh-chnum="153",LMN
-pipe:///usr/bin/ffmpeg -i http://192.168.0.17:22000/playlists/LMN.m3u8 -c copy -f hls pipe:1
+pipe:///usr/bin/ffmpeg -i http://10.17.10.17:22000/playlists/LMN.m3u8 -c copy -f hls pipe:1
 
 #### CHANNEL 160 - SYFY ####
 #EXTINF:-1 CUID="160" tvg-id="I11097.json.schedulesdirect.org" tvg-logo="https://raw.githubusercontent.com/colino17/ultimate-iptvgrabber-docker/master/logos/syfy.png" m3u-name="SYFY" tvh-chnum="160",SYFY
-pipe:///usr/bin/ffmpeg -i http://192.168.0.17:22000/playlists/SYFY.m3u8 -c copy -f hls pipe:1
+pipe:///usr/bin/ffmpeg -i http://10.17.10.17:22000/playlists/SYFY.m3u8 -c copy -f hls pipe:1
 
 #### CHANNEL 161 - HAUNT ####
 #EXTINF:-1 CUID="161"  tvg-id="HAUNT" tvg-logo="https://raw.githubusercontent.com/colino17/ultimate-iptvgrabber-docker/master/logos/haunt.png" tvh-chnum="161",HAUNT
@@ -156,15 +118,15 @@ pipe:///usr/bin/ffmpeg -i https://haunttv-roku.amagi.tv/playlist.m3u8 -c copy -f
 
 #### CHANNEL 171 - TVLAND ####
 #EXTINF:-1 CUID="171" tvg-id="I16123.json.schedulesdirect.org" tvg-logo="https://raw.githubusercontent.com/colino17/ultimate-iptvgrabber-docker/master/logos/tvland.png" m3u-name="TVLAND" tvh-chnum="171",TVLAND
-pipe:///usr/bin/ffmpeg -i http://192.168.0.17:22000/playlists/TVLAND.m3u8 -c copy -f hls pipe:1
+pipe:///usr/bin/ffmpeg -i http://10.17.10.17:22000/playlists/TVLAND.m3u8 -c copy -f hls pipe:1
 
 #### CHANNEL 172 - FREEFORM ####
 #EXTINF:-1 CUID="172" tvg-id="I10093.json.schedulesdirect.org" tvg-logo="https://raw.githubusercontent.com/colino17/ultimate-iptvgrabber-docker/master/logos/freeform.png" m3u-name="FREEFORM" tvh-chnum="172",FREEFORM
-pipe:///usr/bin/ffmpeg -i http://192.168.0.17:22000/playlists/FREEFORM.m3u8 -c copy -f hls pipe:1
+pipe:///usr/bin/ffmpeg -i http://10.17.10.17:22000/playlists/FREEFORM.m3u8 -c copy -f hls pipe:1
 
 #### CHANNEL 200 - COMEDYCENTRAL ####
 #EXTINF:-1 CUID="200" tvg-id="I10149.json.schedulesdirect.org" tvg-logo="https://raw.githubusercontent.com/colino17/ultimate-iptvgrabber-docker/master/logos/comedycentral.png" m3u-name="COMEDY CENTRAL" tvh-chnum="200",COMEDYCENTRAL
-pipe:///usr/bin/ffmpeg -i http://192.168.0.17:22000/playlists/COMEDYCENTRAL.m3u8 -c copy -f hls pipe:1
+pipe:///usr/bin/ffmpeg -i http://10.17.10.17:22000/playlists/COMEDYCENTRAL.m3u8 -c copy -f hls pipe:1
 
 #### CHANNEL 201 - COMEDYDYNAMICS ####
 #EXTINF:-1 CUID="201" tvg-id="COMEDYDYNAMICS" tvg-logo="https://raw.githubusercontent.com/colino17/ultimate-iptvgrabber-docker/master/logos/comedydynamics.png" tvh-chnum="201",COMEDYDYNAMICS
@@ -180,67 +142,59 @@ pipe:///usr/bin/ffmpeg -i https://dai.google.com/linear/hls/event/NJK_yxrcTBqULa
 
 #### CHANNEL 300 - FOODNETWORK ####
 #EXTINF:-1 CUID="300" tvg-id="I12574.json.schedulesdirect.org" tvg-logo="https://raw.githubusercontent.com/colino17/ultimate-iptvgrabber-docker/master/logos/foodnetwork.png" m3u-name="FOODNETWORK" tvh-chnum="300",FOODNETWORK
-pipe:///usr/bin/ffmpeg -i http://192.168.0.17:22000/playlists/FOODNETWORK.m3u8 -c copy -f hls pipe:1
+pipe:///usr/bin/ffmpeg -i http://10.17.10.17:22000/playlists/FOODNETWORK.m3u8 -c copy -f hls pipe:1
 
 #### CHANNEL 310 - HGTV ####
 #EXTINF:-1 CUID="310" tvg-id="I14902.json.schedulesdirect.org" tvg-logo="https://raw.githubusercontent.com/colino17/ultimate-iptvgrabber-docker/master/logos/hgtv.png" m3u-name="HGTV" tvh-chnum="310",HGTV
-pipe:///usr/bin/ffmpeg -i http://192.168.0.17:22000/playlists/HGTV.m3u8 -c copy -f hls pipe:1
+pipe:///usr/bin/ffmpeg -i http://10.17.10.17:22000/playlists/HGTV.m3u8 -c copy -f hls pipe:1
 
 #### CHANNEL 311 - DIY ####
 #EXTINF:-1 CUID="311" tvg-id="I18544.json.schedulesdirect.org" tvg-logo="https://raw.githubusercontent.com/colino17/ultimate-iptvgrabber-docker/master/logos/diy.png" m3u-name="DIY" tvh-chnum="311",DIY
-pipe:///usr/bin/ffmpeg -i http://192.168.0.17:22000/playlists/DIY.m3u8 -c copy -f hls pipe:1
+pipe:///usr/bin/ffmpeg -i http://10.17.10.17:22000/playlists/DIY.m3u8 -c copy -f hls pipe:1
 
 #### CHANNEL 320 - TRAVEL ####
 #EXTINF:-1 CUID="320" tvg-id="I11180.json.schedulesdirect.org" tvg-logo="https://raw.githubusercontent.com/colino17/ultimate-iptvgrabber-docker/master/logos/travel.png" m3u-name="TRAVEL" tvh-chnum="320",TRAVEL
-pipe:///usr/bin/ffmpeg -i http://192.168.0.17:22000/playlists/TRAVEL.m3u8 -c copy -f hls pipe:1
+pipe:///usr/bin/ffmpeg -i http://10.17.10.17:22000/playlists/TRAVEL.m3u8 -c copy -f hls pipe:1
 
 #### CHANNEL 332 - SCI ####
 #EXTINF:-1 CUID="332" tvg-id="I16616.json.schedulesdirect.org" tvg-logo="https://raw.githubusercontent.com/colino17/ultimate-iptvgrabber-docker/master/logos/science.png" m3u-name="SCI" tvh-chnum="332",SCI
-pipe:///usr/bin/ffmpeg -i http://192.168.0.17:22000/playlists/SCI.m3u8 -c copy -f hls pipe:1
+pipe:///usr/bin/ffmpeg -i http://10.17.10.17:22000/playlists/SCI.m3u8 -c copy -f hls pipe:1
 
 #### CHANNEL 333 - TLC ####
 #EXTINF:-1 CUID="333" tvg-id="I57391.json.schedulesdirect.org" tvg-logo="https://raw.githubusercontent.com/colino17/ultimate-iptvgrabber-docker/master/logos/tlc.png" m3u-name="TLC" tvh-chnum="333",TLC
-pipe:///usr/bin/ffmpeg -i http://192.168.0.17:22000/playlists/TLC.m3u8 -c copy -f hls pipe:1
+pipe:///usr/bin/ffmpeg -i http://10.17.10.17:22000/playlists/TLC.m3u8 -c copy -f hls pipe:1
 
 #### CHANNEL 334 - DA ####
 #EXTINF:-1 CUID="334" tvg-id="I60468.json.schedulesdirect.org" tvg-logo="https://raw.githubusercontent.com/colino17/ultimate-iptvgrabber-docker/master/logos/da.png" m3u-name="DESTINATION AMERICA" tvh-chnum="334",DESTINATIONAMERICA
-pipe:///usr/bin/ffmpeg -i http://192.168.0.17:22000/playlists/DESTINATIONAMERICA.m3u8 -c copy -f hls pipe:1
+pipe:///usr/bin/ffmpeg -i http://10.17.10.17:22000/playlists/DESTINATIONAMERICA.m3u8 -c copy -f hls pipe:1
 
 #### CHANNEL 340 - MOTORTREND ####
 #EXTINF:-1 CUID="340" tvg-id="I31046.json.schedulesdirect.org" tvg-logo="https://raw.githubusercontent.com/colino17/ultimate-iptvgrabber-docker/master/logos/motortrend.png" m3u-name="MOTORTREND" tvh-chnum="340",MOTORTREND
-pipe:///usr/bin/ffmpeg -i http://192.168.0.17:22000/playlists/MOTORTREND.m3u8 -c copy -f hls pipe:1
+pipe:///usr/bin/ffmpeg -i http://10.17.10.17:22000/playlists/MOTORTREND.m3u8 -c copy -f hls pipe:1
 
 #### CHANNEL 350 - ANIMALPLANET ####
 #EXTINF:-1 CUID="350" tvg-id="I16331.json.schedulesdirect.org" tvg-logo="https://raw.githubusercontent.com/colino17/ultimate-iptvgrabber-docker/master/logos/animalplanet.png" m3u-name="ANIMALPLANET" tvh-chnum="350",ANIMALPLANET
-pipe:///usr/bin/ffmpeg -i http://192.168.0.17:22000/playlists/ANIMALPLANET.m3u8 -c copy -f hls pipe:1
+pipe:///usr/bin/ffmpeg -i http://10.17.10.17:22000/playlists/ANIMALPLANET.m3u8 -c copy -f hls pipe:1
 
 #### CHANNEL 351 - NATGEOWILD ####
 #EXTINF:-1 CUID="351" tvg-id="I66804.json.schedulesdirect.org" tvg-logo="https://raw.githubusercontent.com/colino17/ultimate-iptvgrabber-docker/master/logos/natgeowild.png" m3u-name="NATGEO WILD" tvh-chnum="351",NATGEOWILD
-pipe:///usr/bin/ffmpeg -i http://192.168.0.17:22000/playlists/NATGEOWILD.m3u8 -c copy -f hls pipe:1
+pipe:///usr/bin/ffmpeg -i http://10.17.10.17:22000/playlists/NATGEOWILD.m3u8 -c copy -f hls pipe:1
 
 #### CHANNEL 390 - E ####
 #EXTINF:-1 CUID="390" tvg-id="I20675.json.schedulesdirect.org" tvg-logo="https://raw.githubusercontent.com/colino17/ultimate-iptvgrabber-docker/master/logos/e.png" m3u-name="E!" tvh-chnum="390",E
-pipe:///usr/bin/ffmpeg -i http://192.168.0.17:22000/playlists/E.m3u8 -c copy -f hls pipe:1
+pipe:///usr/bin/ffmpeg -i http://10.17.10.17:22000/playlists/E.m3u8 -c copy -f hls pipe:1
 
 #### CHANNEL 400 - CARTOONNETWORK ####
 #EXTINF:-1 CUID="400" tvg-id="I12131.json.schedulesdirect.org" tvg-logo="https://raw.githubusercontent.com/colino17/ultimate-iptvgrabber-docker/master/logos/cartoonnetwork.png" m3u-name="CARTOONNETWORK" tvh-chnum="400",CARTOONNETWORK
-pipe:///usr/bin/ffmpeg -i http://192.168.0.17:22000/playlists/CARTOONNETWORK.m3u8 -c copy -f hls pipe:1
+pipe:///usr/bin/ffmpeg -i http://10.17.10.17:22000/playlists/CARTOONNETWORK.m3u8 -c copy -f hls pipe:1
 
 #### CHANNEL 401 - NICKELODEON ####
 #EXTINF:-1 CUID="401" tvg-id="I11006.json.schedulesdirect.org" tvg-logo="https://raw.githubusercontent.com/colino17/ultimate-iptvgrabber-docker/master/logos/nickelodeon.png" m3u-name="NICKELODEON" tvh-chnum="401",NICKELODEON
-pipe:///usr/bin/ffmpeg -i http://192.168.0.17:22000/playlists/NICKELODEON.m3u8 -c copy -f hls pipe:1
+pipe:///usr/bin/ffmpeg -i http://10.17.10.17:22000/playlists/NICKELODEON.m3u8 -c copy -f hls pipe:1
 
 #### CHANNEL 411 - BOOMERANG ####
 #EXTINF:-1 CUID="411" tvg-id="I21883.json.schedulesdirect.org" tvg-logo="https://raw.githubusercontent.com/colino17/ultimate-iptvgrabber-docker/master/logos/boomerang.png" m3u-name="BOOMERANG" tvh-chnum="411",BOOMERANG
-pipe:///usr/bin/ffmpeg -i http://192.168.0.17:22000/playlists/BOOMERANG.m3u8 -c copy -f hls pipe:1
-
-#### CHANNEL 412 - SNICK EAST ####                
-#EXTINF:-0 channel-id="4" tvg-id="4" tvg-logo="https://raw.githubusercontent.com/colino17/ultimate-iptvgrabber-docker/master/logos/snickeast.png" tvh-chnum="412",SNICKEAST
-http://api.toonamiaftermath.com:3000/snick-est/playlist.m3u8?useHttps=true
-
-#### CHANNEL 413 - SNICK WEST ####
-#EXTINF:-0 channel-id="5" tvg-id="5" tvg-logo="https://raw.githubusercontent.com/colino17/ultimate-iptvgrabber-docker/master/logos/snickwest.png" tvh-chnum="413",SNICKWEST
-http://api.toonamiaftermath.com:3000/snick-est/playlist.m3u8?streamDelay=180&useHttps=true
+pipe:///usr/bin/ffmpeg -i http://10.17.10.17:22000/playlists/BOOMERANG.m3u8 -c copy -f hls pipe:1
 
 #### CHANNEL 414 - TOONAMI EAST ####
 #EXTINF:-0 channel-id="1" tvg-id="1" tvg-logo="https://raw.githubusercontent.com/colino17/ultimate-iptvgrabber-docker/master/logos/toonamieast.png" tvh-chnum="414",TOONAMIEAST
@@ -252,19 +206,19 @@ http://api.toonamiaftermath.com:3000/est/playlist.m3u8?streamDelay=180&useHttps=
 
 #### CHANNEL 440 - DISNEY ####
 #EXTINF:-1 CUID="440" tvg-id="I10171.json.schedulesdirect.org" tvg-logo="https://raw.githubusercontent.com/colino17/ultimate-iptvgrabber-docker/master/logos/disney.png" m3u-name="DISNEY" tvh-chnum="440",DISNEY
-pipe:///usr/bin/ffmpeg -i http://192.168.0.17:22000/playlists/DISNEY.m3u8 -c copy -f hls pipe:1
+pipe:///usr/bin/ffmpeg -i http://10.17.10.17:22000/playlists/DISNEY.m3u8 -c copy -f hls pipe:1
 
 #### CHANNEL 441 - DISNEYXD ####
 #EXTINF:-1 CUID="441" tvg-id="I18279.json.schedulesdirect.org" tvg-logo="https://raw.githubusercontent.com/colino17/ultimate-iptvgrabber-docker/master/logos/disneyxd.png" m3u-name="DISNEYXD" tvh-chnum="441",DISNEYXD
-pipe:///usr/bin/ffmpeg -i http://192.168.0.17:22000/playlists/DISNEYXD.m3u8 -c copy -f hls pipe:1
+pipe:///usr/bin/ffmpeg -i http://10.17.10.17:22000/playlists/DISNEYXD.m3u8 -c copy -f hls pipe:1
 
 #### CHANNEL 442 - DISNEYJR ####
 #EXTINF:-1 CUID="442" tvg-id="I74796.json.schedulesdirect.org" tvg-logo="https://raw.githubusercontent.com/colino17/ultimate-iptvgrabber-docker/master/logos/disneyjr.png" m3u-name="DISNEYJR" tvh-chnum="442",DISNEYJR
-pipe:///usr/bin/ffmpeg -i http://192.168.0.17:22000/playlists/DISNEYJR.m3u8 -c copy -f hls pipe:1
+pipe:///usr/bin/ffmpeg -i http://10.17.10.17:22000/playlists/DISNEYJR.m3u8 -c copy -f hls pipe:1
 
 #### CHANNEL 500 - GSN ####
 #EXTINF:-1 CUID="500" tvg-id="I14909.json.schedulesdirect.org" tvg-logo="https://raw.githubusercontent.com/colino17/ultimate-iptvgrabber-docker/master/logos/gsn.png" m3u-name="GSN" tvh-chnum="500",GSN
-pipe:///usr/bin/ffmpeg -i http://192.168.0.17:22000/playlists/GSN.m3u8 -c copy -f hls pipe:1
+pipe:///usr/bin/ffmpeg -i http://10.17.10.17:22000/playlists/GSN.m3u8 -c copy -f hls pipe:1
 
 #### CHANNEL 502 - BUZZR ####
 #EXTINF:-1 CUID="502" tvg-logo="https://raw.githubusercontent.com/colino17/ultimate-iptvgrabber-docker/master/logos/buzzr.png" tvg-id="I75009.json.schedulesdirect.org" tvh-chnum="502",BUZZR
@@ -278,21 +232,13 @@ pipe:///usr/bin/ffmpeg -i https://dai.google.com/linear/hls/event/wFZ1ufQ8ToaSdP
 
 #### CHANNEL 600 - CMT ####
 #EXTINF:-1 CUID="600" tvg-id="I10138.json.schedulesdirect.org" tvg-logo="https://raw.githubusercontent.com/colino17/ultimate-iptvgrabber-docker/master/logos/cmt.png" m3u-name="CMT" tvh-chnum="600",CMT
-pipe:///usr/bin/ffmpeg -i http://192.168.0.17:22000/playlists/CMT.m3u8 -c copy -f hls pipe:1
+pipe:///usr/bin/ffmpeg -i http://10.17.10.17:22000/playlists/CMT.m3u8 -c copy -f hls pipe:1
 
 #### CHANNEL 601 - MTV ####
 #EXTINF:-1 CUID="601" tvg-id="I10986.json.schedulesdirect.org" tvg-logo="https://raw.githubusercontent.com/colino17/ultimate-iptvgrabber-docker/master/logos/mtv.png" m3u-name="MTV" tvh-chnum="601",MTV
-pipe:///usr/bin/ffmpeg -i http://192.168.0.17:22000/playlists/MTV.m3u8 -c copy -f hls pipe:1
-
-#### CHANNEL 650 - MTV97 ####
-#EXTINF:-0 channel-id="6" tvg-name="MTV97"  tvg-id="MTV97" tvg-logo="https://raw.githubusercontent.com/colino17/ultimate-iptvgrabber-docker/master/logos/mtv97.png" tvh-chnum="650", MTV97
-http://api.toonamiaftermath.com:3000/mtv97/playlist.m3u8?useHttps=true
+pipe:///usr/bin/ffmpeg -i http://10.17.10.17:22000/playlists/MTV.m3u8 -c copy -f hls pipe:1
 
 #### CHANNEL 800 - CBCNEWS ####
-#EXTINF:-1 CUID="800" tvg-logo="https://raw.githubusercontent.com/colino17/ultimate-iptvgrabber-docker/master/logos/cbcnews.png" tvg-id="I75971.json.schedulesdirect.org" tvh-chnum="800",CBCNEWS
-https://livecbcdai-i.akamaihd.net/hls/live/567245/event2/CBCNN/master5.m3u8
-#EXTINF:-1 CUID="800" tvg-logo="https://raw.githubusercontent.com/colino17/ultimate-iptvgrabber-docker/master/logos/cbcnews.png" tvg-id="I75971.json.schedulesdirect.org" tvh-chnum="800",CBCNEWS
-pipe:///usr/bin/ffmpeg -i https://dai2.xumo.com/amagi_hls_data_xumo1212A-cbcnews/CDN/master.m3u8 -c copy -f mpegts pipe:1
 #EXTINF:-1 CUID="800" tvg-logo="https://raw.githubusercontent.com/colino17/ultimate-iptvgrabber-docker/master/logos/cbcnews.png" tvg-id="I75971.json.schedulesdirect.org" tvh-chnum="800",CBCNEWS
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxcbcnews/CDN/playlist.m3u8
 
@@ -306,21 +252,17 @@ pipe:///usr/bin/ffmpeg -i https://turnerlive.warnermediacdn.com/hls/live/586495/
 #EXTINF:-1 CUID="810" tvg-id="I58646.json.schedulesdirect.org" tvg-logo="https://raw.githubusercontent.com/colino17/ultimate-iptvgrabber-docker/master/logos/cnn.png" m3u-name="CNN" tvh-chnum="810",CNN
 pipe:///usr/bin/ffmpeg -i https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_4_1064000.m3u8 -c copy -f mpegts pipe:1
 #EXTINF:-1 CUID="810" tvg-id="I58646.json.schedulesdirect.org" tvg-logo="https://raw.githubusercontent.com/colino17/ultimate-iptvgrabber-docker/master/logos/cnn.png" m3u-name="CNN" tvh-chnum="810",CNN
-pipe:///usr/bin/ffmpeg -i http://192.168.0.17:22000/playlists/CNN.m3u8 -c copy -f hls pipe:1
+pipe:///usr/bin/ffmpeg -i http://10.17.10.17:22000/playlists/CNN.m3u8 -c copy -f hls pipe:1
 
 #### CHANNEL 811 - MSNBC ####
 #EXTINF:-1 CUID="811" tvg-logo="https://raw.githubusercontent.com/colino17/ultimate-iptvgrabber-docker/master/logos/msnbc.png" tvg-id="I16300.json.schedulesdirect.org" tvh-chnum="811",MSNBC
 pipe:///usr/bin/ffmpeg -i https://dai2.xumo.com/amagi_hls_data_xumo1212A-xumo-nbcnewsnow/CDN/master.m3u8 -c copy -f mpegts pipe:1
 #EXTINF:-1 CUID="811" tvg-logo="https://raw.githubusercontent.com/colino17/ultimate-iptvgrabber-docker/master/logos/msnbc.png" tvg-id="I16300.json.schedulesdirect.org" tvh-chnum="811",MSNBC
-pipe:///usr/bin/ffmpeg -i http://192.168.0.17:22000/playlists/MSNBC.m3u8 -c copy -f hls pipe:1
+pipe:///usr/bin/ffmpeg -i http://10.17.10.17:22000/playlists/MSNBC.m3u8 -c copy -f hls pipe:1
 
 #### CHANNEL 812 - CBSN ####
 #EXTINF:-1 CUID="812" tvg-logo="https://raw.githubusercontent.com/colino17/ultimate-iptvgrabber-docker/master/logos/cbsn.png" tvg-id="CBSN" tvh-chnum="812",CBSN
-pipe:///usr/bin/ffmpeg -i https://cbsnewshd-lh.akamaihd.net/i/CBSNHD_7@199302/master.m3u8 -c copy -f mpegts pipe:1
-#EXTINF:-1 CUID="812" tvg-logo="https://raw.githubusercontent.com/colino17/ultimate-iptvgrabber-docker/master/logos/cbsn.png" tvg-id="CBSN" tvh-chnum="812",CBSN
 pipe:///usr/bin/ffmpeg -i https://dai.google.com/linear/hls/event/Sid4xiTQTkCT1SLu6rjUSQ/master.m3u8 -c copy -f mpegts pipe:1
-#EXTINF:-1 CUID="812" tvg-logo="https://raw.githubusercontent.com/colino17/ultimate-iptvgrabber-docker/master/logos/cbsn.png" tvg-id="CBSN" tvh-chnum="812",CBSN
-https://cbsnewshd-lh.akamaihd.net/i/CBSNHD_7@199302/master.m3u8
 
 #### CHANNEL 900 - STADIUM ####
 #EXTINF:-1 CUID="900" tvg-logo="https://raw.githubusercontent.com/colino17/ultimate-iptvgrabber-docker/master/logos/stadium.png" tvg-id="STADIUM" tvh-chnum="900",STADIUM
@@ -330,27 +272,29 @@ pipe:///usr/bin/ffmpeg -i https://dai2.xumo.com/amagi_hls_data_xumo1234A-stadium
 
 #### CHANNEL 910 - CBSSPORTS ####
 #EXTINF:-1 CUID="910" tvg-id="I16365.json.schedulesdirect.org" tvg-logo="https://raw.githubusercontent.com/colino17/ultimate-iptvgrabber-docker/master/logos/cbssports.png" m3u-name="CBS SPORTS" tvh-chnum="910",CBSSPORTS
-pipe:///usr/bin/ffmpeg -i http://192.168.0.17:22000/playlists/CBSSPORTS.m3u8 -c copy -f hls pipe:1
+pipe:///usr/bin/ffmpeg -i http://10.17.10.17:22000/playlists/CBSSPORTS.m3u8 -c copy -f hls pipe:1
 
 #### CHANNEL 912 - ESPN2 ####
 #EXTINF:-1 CUID="912" tvg-id="I12444.json.schedulesdirect.org" tvg-logo="https://raw.githubusercontent.com/colino17/ultimate-iptvgrabber-docker/master/logos/espn2.png" m3u-name="ESPN2" tvh-chnum="912",ESPN2
-pipe:///usr/bin/ffmpeg -i http://192.168.0.17:22000/playlists/ESPN2.m3u8 -c copy -f hls pipe:1
+pipe:///usr/bin/ffmpeg -i http://10.17.10.17:22000/playlists/ESPN2.m3u8 -c copy -f hls pipe:1
 
 #### CHANNEL 914 - FS2 ####
 #EXTINF:-1 CUID="914" tvg-id="I33178.json.schedulesdirect.org" tvg-logo="https://raw.githubusercontent.com/colino17/ultimate-iptvgrabber-docker/master/logos/fs2.png" m3u-name="FS2" tvh-chnum="914",FS2
-pipe:///usr/bin/ffmpeg -i http://192.168.0.17:22000/playlists/FS2.m3u8 -c copy -f hls pipe:1
+pipe:///usr/bin/ffmpeg -i http://10.17.10.17:22000/playlists/FS2.m3u8 -c copy -f hls pipe:1
 
 #### CHANNEL 920 - POKER ####
+#EXTINF:-1 CUID="920" tvg-logo="https://raw.githubusercontent.com/colino17/ultimate-iptvgrabber-docker/master/logos/poker.png" tvg-id="I114670.json.schedulesdirect.org" tvh-chnum="920",POKER
+pipe:///usr/bin/ffmpeg -i https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxworldpokertour/CDN/playlist.m3u8 -c copy -f mpegts pipe:1
 #EXTINF:-1 CUID="920" tvg-logo="https://raw.githubusercontent.com/colino17/ultimate-iptvgrabber-docker/master/logos/poker.png" tvg-id="I114670.json.schedulesdirect.org" tvh-chnum="920",POKER
 pipe:///usr/bin/ffmpeg -i https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxworldpokertour/CDN/playlist.m3u8 -c copy -f mpegts pipe:1
 
 #### CHANNEL 930 - MLB ####
 #EXTINF:-1 CUID="930" tvg-id="I62079.json.schedulesdirect.org" tvg-logo="https://raw.githubusercontent.com/colino17/ultimate-iptvgrabber-docker/master/logos/mlb.png" m3u-name="MLB" tvh-chnum="930", MLB
-pipe:///usr/bin/ffmpeg -i http://192.168.0.17:22000/playlists/MLB.m3u8 -c copy -f hls pipe:1
+pipe:///usr/bin/ffmpeg -i http://10.17.10.17:22000/playlists/MLB.m3u8 -c copy -f hls pipe:1
 
 #### CHANNEL 940 - NFL ####
 #EXTINF:-1 CUID="940" tvg-id="I34710.json.schedulesdirect.org" tvg-logo="https://raw.githubusercontent.com/colino17/ultimate-iptvgrabber-docker/master/logos/nfl.png" m3u-name="NFL" tvh-chnum="940", NFL
-pipe:///usr/bin/ffmpeg -i http://192.168.0.17:22000/playlists/NFL.m3u8 -c copy -f hls pipe:1
+pipe:///usr/bin/ffmpeg -i http://10.17.10.17:22000/playlists/NFL.m3u8 -c copy -f hls pipe:1
 
 #### CHANNEL 950 - GLORY ####
 #EXTINF:-1 CUID="950" tvg-logo="https://raw.githubusercontent.com/colino17/ultimate-iptvgrabber-docker/master/logos/glory.png" tvg-id="GLORY" tvh-chnum="950",GLORY
@@ -358,7 +302,7 @@ pipe:///usr/bin/ffmpeg -i https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxg
 
 #### CHANNEL 960 - WWE ####
 #EXTINF:-1 CUID="960" tvg-id="I91306.json.schedulesdirect.org" tvg-logo="https://raw.githubusercontent.com/colino17/ultimate-iptvgrabber-docker/master/logos/wwe.png" m3u-name="WWE" tvh-chnum="960",WWE
-pipe:///usr/bin/ffmpeg -i http://192.168.0.17:22000/playlists/WWE.m3u8 -c copy -f hls pipe:1
+pipe:///usr/bin/ffmpeg -i http://10.17.10.17:22000/playlists/WWE.m3u8 -c copy -f hls pipe:1
 
 #### CHANNEL 961 - IMPACT ####
 #EXTINF:-1 CUID="961" tvg-logo="https://raw.githubusercontent.com/colino17/ultimate-iptvgrabber-docker/master/logos/impact.png" tvg-id="I117294.json.schedulesdirect.org" tvh-chnum="961",IMPACT
@@ -374,4 +318,4 @@ pipe:///usr/bin/ffmpeg -i https://stadium-ringofhonor-1.sinclair.wurl.com/manife
 
 #### CHANNEL 990 - OLYMPICS ####
 #EXTINF:-1 CUID="990" tvg-id="OLYMPICS" tvg-logo="https://raw.githubusercontent.com/colino17/ultimate-iptvgrabber-docker/master/logos/olympics.png" m3u-name="OLYMPICS" tvh-chnum="990",OLYMPICS
-pipe:///usr/bin/ffmpeg -i http://192.168.0.17:22000/playlists/OLYMPICS.m3u8 -c copy -f hls pipe:1
+pipe:///usr/bin/ffmpeg -i http://10.17.10.17:22000/playlists/OLYMPICS.m3u8 -c copy -f hls pipe:1
