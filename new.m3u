@@ -1,0 +1,17 @@
+#EXTM3U
+
+#### CHANNEL 100 - CTV ####
+#EXTINF:-1 CUID="100" tvg-id="I16544.json.schedulesdirect.org" tvg-logo="https://raw.githubusercontent.com/colino17/ultimate-iptvgrabber-docker/master/logos/ctv.png" tvh-chnum="100",CTV
+http://10.17.70.80:5004/auto/v9.1
+
+#### CHANNEL 101 - GLOBAL ####
+#EXTINF:-1 CUID="101" tvg-id="I17396.json.schedulesdirect.org" tvg-logo="https://raw.githubusercontent.com/colino17/ultimate-iptvgrabber-docker/master/logos/global.png" tvh-chnum="101",GLOBAL
+http://10.17.70.80:5004/auto/v44.1
+
+#### CHANNEL 102 - CBC ####
+#EXTINF:-1 CUID="102" tvg-id="I16261.json.schedulesdirect.org" tvg-logo="https://raw.githubusercontent.com/colino17/ultimate-iptvgrabber-docker/master/logos/cbc.png" tvh-chnum="102",CBC
+http://10.17.70.80:5004/auto/v4.1
+
+#### CHANNEL 110 - NBC ####
+#EXTINF:-1 CUID="110" tvg-id="nbc-20201017" tvg-logo="https://raw.githubusercontent.com/colino17/ultimate-iptvgrabber-docker/master/logos/nbc.png" m3u-name="NBC" tvh-chnum="110",NBC
+http://10.17.10.17:6464/nbc-20201017.m3u8
