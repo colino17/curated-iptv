@@ -6,7 +6,7 @@ http://10.17.70.80:5004/auto/v9.1
 
 #### CHANNEL 101 - GLOBAL ####
 #EXTINF:-1 CUID="101" tvg-id="I17396.json.schedulesdirect.org" tvg-logo="https://raw.githubusercontent.com/colino17/ultimate-iptvgrabber-docker/master/logos/global.png" tvh-chnum="101",GLOBAL
-http://10.17.70.80:5004/auto/v44.1
+http://10.17.70.80:5004/auto/v5000
 
 #### CHANNEL 102 - CBC ####
 #EXTINF:-1 CUID="102" tvg-id="I16261.json.schedulesdirect.org" tvg-logo="https://raw.githubusercontent.com/colino17/ultimate-iptvgrabber-docker/master/logos/cbc.png" tvh-chnum="102",CBC
