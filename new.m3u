@@ -48,7 +48,6 @@ http://10.17.10.17:6464/science-channel.m3u8
 #EXTINF:-1 CUID="302" tvg-id="national-geographic" tvg-logo="https://raw.githubusercontent.com/colino17/ultimate-iptvgrabber-docker/master/logos/natgeo.png" m3u-name="NATGEO" tvh-chnum="110",NATGEO
 http://10.17.10.17:6464/national-geographic.m3u8
 
-
 #### CHANNEL 601 - FS1 ####
 #EXTINF:-1 CUID="601" tvg-id="fox-sports-1-20220618" tvg-logo="https://raw.githubusercontent.com/colino17/ultimate-iptvgrabber-docker/master/logos/fs1.png" tvh-chnum="601",FS1
 http://10.17.10.17:6464/fox-sports-1-20220618.m3u8
@@ -60,3 +59,18 @@ http://10.17.10.17:6464/nba-tv-04192021.m3u8
 #### CHANNEL 620 - GLOBAL ####
 #EXTINF:-1 CUID="620" tvg-id="nfl-network" tvg-logo="https://raw.githubusercontent.com/colino17/ultimate-iptvgrabber-docker/master/logos/nfl.png" tvh-chnum="620",NFL
 http://10.17.10.17:6464/nfl-network.m3u8
+
+#### CHANNEL 800 - CBCNEWS ####
+#EXTINF:-1 CUID="800" tvg-logo="https://raw.githubusercontent.com/colino17/ultimate-iptvgrabber-docker/master/logos/cbcnews.png" tvg-id="I75971.json.schedulesdirect.org" tvh-chnum="800",CBCNEWS
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxcbcnews/CDN/playlist.m3u8
+
+#EXTINF:-1 CUID="810" tvg-id="I58646.json.schedulesdirect.org" tvg-logo="https://raw.githubusercontent.com/colino17/ultimate-iptvgrabber-docker/master/logos/cnn.png" m3u-name="CNN" tvh-chnum="810",CNN
+https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
+
+#### CHANNEL 811 - MSNBC ####
+#EXTINF:-1 CUID="811" tvg-logo="https://raw.githubusercontent.com/colino17/ultimate-iptvgrabber-docker/master/logos/msnbc.png" tvg-id="I16300.json.schedulesdirect.org" tvh-chnum="811",MSNBC
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-xumo-nbcnewsnow/CDN/master.m3u8
+
+#### CHANNEL 812 - CBSN ####
+#EXTINF:-1 CUID="812" tvg-logo="https://raw.githubusercontent.com/colino17/ultimate-iptvgrabber-docker/master/logos/cbsn.png" tvg-id="CBSN" tvh-chnum="812",CBSN
+https://dai.google.com/linear/hls/event/Sid4xiTQTkCT1SLu6rjUSQ/master.m3u8
