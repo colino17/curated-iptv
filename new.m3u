@@ -48,6 +48,13 @@ http://10.17.10.17:6464/science-channel.m3u8
 #EXTINF:-1 CUID="302" tvg-id="national-geographic" tvg-logo="https://raw.githubusercontent.com/colino17/ultimate-iptvgrabber-docker/master/logos/natgeo.png" m3u-name="NATGEO" tvh-chnum="110",NATGEO
 http://10.17.10.17:6464/national-geographic.m3u8
 
+#### CHANNEL 500 - BUZZR ####
+#EXTINF:-1 CUID="500" tvg-logo="https://raw.githubusercontent.com/colino17/ultimate-iptvgrabber-docker/master/logos/buzzr.png" tvg-id="I75009.json.schedulesdirect.org" tvh-chnum="500",BUZZR
+https://buzzr-samsungus.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 CUID="600" tvg-logo="https://raw.githubusercontent.com/colino17/ultimate-iptvgrabber-docker/master/logos/stadium.png" tvg-id="STADIUM" tvh-chnum="600",STADIUM
+https://dai2.xumo.com/amagi_hls_data_xumo1234A-stadiumsports/CDN/master.m3u8
+
 #### CHANNEL 601 - FS1 ####
 #EXTINF:-1 CUID="601" tvg-id="fox-sports-1-20220618" tvg-logo="https://raw.githubusercontent.com/colino17/ultimate-iptvgrabber-docker/master/logos/fs1.png" tvh-chnum="601",FS1
 http://10.17.10.17:6464/fox-sports-1-20220618.m3u8
@@ -59,6 +66,22 @@ http://10.17.10.17:6464/nba-tv-04192021.m3u8
 #### CHANNEL 620 - GLOBAL ####
 #EXTINF:-1 CUID="620" tvg-id="nfl-network" tvg-logo="https://raw.githubusercontent.com/colino17/ultimate-iptvgrabber-docker/master/logos/nfl.png" tvh-chnum="620",NFL
 http://10.17.10.17:6464/nfl-network.m3u8
+
+#### CHANNEL 650 - GLORY ####
+#EXTINF:-1 CUID="650" tvg-logo="https://raw.githubusercontent.com/colino17/ultimate-iptvgrabber-docker/master/logos/glory.png" tvg-id="GLORY" tvh-chnum="650",GLORY
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxglorykickboxing/CDN/playlist.m3u8
+
+#### CHANNEL 661 - IMPACT ####
+#EXTINF:-1 CUID="661" tvg-logo="https://raw.githubusercontent.com/colino17/ultimate-iptvgrabber-docker/master/logos/impact.png" tvg-id="I117294.json.schedulesdirect.org" tvh-chnum="661",IMPACT
+https://d2p372oxiwmcn1.cloudfront.net/hls/main.m3u8
+
+#### CHANNEL 662 - IMPACT PLUS ####
+#EXTINF:-1 CUID="662" tvg-logo="https://raw.githubusercontent.com/colino17/ultimate-iptvgrabber-docker/master/logos/impact.png" tvg-id="I117294.json.schedulesdirect.org" tvh-chnum="662",IMPACT
+https://d2tuwvs0ja335j.cloudfront.net/hls/1080p/playlist.m3u8
+
+#### CHANNEL 680 - POKER ####
+#EXTINF:-1 CUID="680" tvg-logo="https://raw.githubusercontent.com/colino17/ultimate-iptvgrabber-docker/master/logos/poker.png" tvg-id="I114670.json.schedulesdirect.org" tvh-chnum="680",POKER
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxworldpokertour/CDN/playlist.m3u8
 
 #### CHANNEL 800 - CBCNEWS ####
 #EXTINF:-1 CUID="800" tvg-logo="https://raw.githubusercontent.com/colino17/ultimate-iptvgrabber-docker/master/logos/cbcnews.png" tvg-id="I75971.json.schedulesdirect.org" tvh-chnum="800",CBCNEWS
