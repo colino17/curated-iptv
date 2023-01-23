@@ -1,99 +1,99 @@
 #EXTM3U
 
 #### CHANNEL 100 - CTV ####
-#EXTINF:-1 CUID="100" tvg-id="I16544.json.schedulesdirect.org" tvg-logo="https://raw.githubusercontent.com/colino17/ultimate-iptvgrabber-docker/master/logos/ctv.png" tvh-chnum="100",CTV
+#EXTINF:-1 CUID="100" tvg-id="I538.10131.zap2it.com" tvg-logo="https://raw.githubusercontent.com/colino17/xteve-docker/master/logos/ctv.png" tvh-chnum="100",CTV
 http://10.17.70.80:5004/auto/v9.1
 
 #### CHANNEL 101 - GLOBAL ####
-#EXTINF:-1 CUID="101" tvg-id="I17396.json.schedulesdirect.org" tvg-logo="https://raw.githubusercontent.com/colino17/ultimate-iptvgrabber-docker/master/logos/global.png" tvh-chnum="101",GLOBAL
+#EXTINF:-1 CUID="101" tvg-id="I204.17396.zap2it.com" tvg-logo="https://raw.githubusercontent.com/colino17/xteve-docker/master/logos/global.png" tvh-chnum="101",GLOBAL
 http://10.17.70.80:5004/auto/v5000
 
 #### CHANNEL 102 - CBC ####
-#EXTINF:-1 CUID="102" tvg-id="I16261.json.schedulesdirect.org" tvg-logo="https://raw.githubusercontent.com/colino17/ultimate-iptvgrabber-docker/master/logos/cbc.png" tvh-chnum="102",CBC
+#EXTINF:-1 CUID="102" tvg-id="I196.16261.zap2it.com" tvg-logo="https://raw.githubusercontent.com/colino17/xteve-docker/master/logos/cbc.png" tvh-chnum="102",CBC
 http://10.17.70.80:5004/auto/v4.1
 
 #### CHANNEL 110 - NBC ####
-#EXTINF:-1 CUID="110" tvg-id="nbc-20201017" tvg-logo="https://raw.githubusercontent.com/colino17/ultimate-iptvgrabber-docker/master/logos/nbc.png" m3u-name="NBC" tvh-chnum="110",NBC
+#EXTINF:-1 CUID="110" tvg-id="nbc-20201017" tvg-logo="https://raw.githubusercontent.com/colino17/xteve-docker/master/logos/nbc.png" m3u-name="NBC" tvh-chnum="110",NBC
 http://10.17.10.17:6464/nbc-20201017.m3u8
 
 #### CHANNEL 111 - CBS ####
-#EXTINF:-1 CUID="111" tvg-id="cbs" tvg-logo="https://raw.githubusercontent.com/colino17/ultimate-iptvgrabber-docker/master/logos/cbs.png" tvh-chnum="111",CBS
+#EXTINF:-1 CUID="111" tvg-id="cbs" tvg-logo="https://raw.githubusercontent.com/colino17/xteve-docker/master/logos/cbs.png" tvh-chnum="111",CBS
 http://10.17.10.17:6464/cbs.m3u8
 
 #### CHANNEL 200 - AE ####
-#EXTINF:-1 CUID="120" tvg-id="ae" tvg-logo="https://raw.githubusercontent.com/colino17/ultimate-iptvgrabber-docker/master/logos/ae.png" tvh-chnum="200",AE
+#EXTINF:-1 CUID="120" tvg-id="ae" tvg-logo="https://raw.githubusercontent.com/colino17/xteve-docker/master/logos/ae.png" tvh-chnum="200",AE
 http://10.17.10.17:6464/ae.m3u8
 
 #### CHANNEL 201 - HBO ####
-#EXTINF:-1 CUID="201" tvg-id="hbo-02032021" tvg-logo="https://raw.githubusercontent.com/colino17/ultimate-iptvgrabber-docker/master/logos/cbc.png" tvh-chnum="201",HBO
+#EXTINF:-1 CUID="201" tvg-id="hbo-02032021" tvg-logo="https://raw.githubusercontent.com/colino17/xteve-docker/master/logos/cbc.png" tvh-chnum="201",HBO
 http://10.17.10.17:6464/hbo-02032021.m3u8
 
 #### CHANNEL 202 - TNT ####
-#EXTINF:-1 CUID="202" tvg-id="tnt" tvg-logo="https://raw.githubusercontent.com/colino17/ultimate-iptvgrabber-docker/master/logos/tnt.png" m3u-name="TNT" tvh-chnum="110",TNT
+#EXTINF:-1 CUID="202" tvg-id="tnt" tvg-logo="https://raw.githubusercontent.com/colino17/xteve-docker/master/logos/tnt.png" m3u-name="TNT" tvh-chnum="110",TNT
 http://10.17.10.17:6464/tnt.m3u8
 
 #### CHANNEL 203 - USA ####
-#EXTINF:-1 CUID="203" tvg-id="usa-network" tvg-logo="https://raw.githubusercontent.com/colino17/ultimate-iptvgrabber-docker/master/logos/usa.png" tvh-chnum="203",USA
+#EXTINF:-1 CUID="203" tvg-id="usa-network" tvg-logo="https://raw.githubusercontent.com/colino17/xteve-docker/master/logos/usa.png" tvh-chnum="203",USA
 http://10.17.10.17:6464/usa-network.m3u8
 
 #### CHANNEL 300 - HISTORY ####
-#EXTINF:-1 CUID="300" tvg-id="history-channel" tvg-logo="https://raw.githubusercontent.com/colino17/ultimate-iptvgrabber-docker/master/logos/history.png" tvh-chnum="300",HISTORY
+#EXTINF:-1 CUID="300" tvg-id="history-channel" tvg-logo="https://raw.githubusercontent.com/colino17/xteve-docker/master/logos/history.png" tvh-chnum="300",HISTORY
 http://10.17.10.17:6464/history-channel.m3u8
 
 #### CHANNEL 301 - SCIENCE ####
-#EXTINF:-1 CUID="301" tvg-id="science-channel" tvg-logo="https://raw.githubusercontent.com/colino17/ultimate-iptvgrabber-docker/master/logos/science.png" tvh-chnum="301",SCIENCE
+#EXTINF:-1 CUID="301" tvg-id="science-channel" tvg-logo="https://raw.githubusercontent.com/colino17/xteve-docker/master/logos/science.png" tvh-chnum="301",SCIENCE
 http://10.17.10.17:6464/science-channel.m3u8
 
 #### CHANNEL 302 - NATGEO ####
-#EXTINF:-1 CUID="302" tvg-id="national-geographic" tvg-logo="https://raw.githubusercontent.com/colino17/ultimate-iptvgrabber-docker/master/logos/natgeo.png" m3u-name="NATGEO" tvh-chnum="110",NATGEO
+#EXTINF:-1 CUID="302" tvg-id="national-geographic" tvg-logo="https://raw.githubusercontent.com/colino17/xteve-docker/master/logos/natgeo.png" m3u-name="NATGEO" tvh-chnum="110",NATGEO
 http://10.17.10.17:6464/national-geographic.m3u8
 
 #### CHANNEL 500 - BUZZR ####
-#EXTINF:-1 CUID="500" tvg-logo="https://raw.githubusercontent.com/colino17/ultimate-iptvgrabber-docker/master/logos/buzzr.png" tvg-id="I75009.json.schedulesdirect.org" tvh-chnum="500",BUZZR
+#EXTINF:-1 CUID="500" tvg-logo="https://raw.githubusercontent.com/colino17/xteve-docker/master/logos/buzzr.png" tvg-id="I75009.json.schedulesdirect.org" tvh-chnum="500",BUZZR
 https://buzzr-samsungus.amagi.tv/playlist.m3u8
 
-#EXTINF:-1 CUID="600" tvg-logo="https://raw.githubusercontent.com/colino17/ultimate-iptvgrabber-docker/master/logos/stadium.png" tvg-id="STADIUM" tvh-chnum="600",STADIUM
+#EXTINF:-1 CUID="600" tvg-logo="https://raw.githubusercontent.com/colino17/xteve-docker/master/logos/stadium.png" tvg-id="STADIUM" tvh-chnum="600",STADIUM
 https://dai2.xumo.com/amagi_hls_data_xumo1234A-stadiumsports/CDN/master.m3u8
 
 #### CHANNEL 601 - FS1 ####
-#EXTINF:-1 CUID="601" tvg-id="fox-sports-1-20220618" tvg-logo="https://raw.githubusercontent.com/colino17/ultimate-iptvgrabber-docker/master/logos/fs1.png" tvh-chnum="601",FS1
+#EXTINF:-1 CUID="601" tvg-id="fox-sports-1-20220618" tvg-logo="https://raw.githubusercontent.com/colino17/xteve-docker/master/logos/fs1.png" tvh-chnum="601",FS1
 http://10.17.10.17:6464/fox-sports-1-20220618.m3u8
 
 #### CHANNEL 610 - NBA ####
-#EXTINF:-1 CUID="610" tvg-id="nba-tv-04192021" tvg-logo="https://raw.githubusercontent.com/colino17/ultimate-iptvgrabber-docker/master/logos/nba.png" tvh-chnum="610",NBA
+#EXTINF:-1 CUID="610" tvg-id="nba-tv-04192021" tvg-logo="https://raw.githubusercontent.com/colino17/xteve-docker/master/logos/nba.png" tvh-chnum="610",NBA
 http://10.17.10.17:6464/nba-tv-04192021.m3u8
 
 #### CHANNEL 620 - GLOBAL ####
-#EXTINF:-1 CUID="620" tvg-id="nfl-network" tvg-logo="https://raw.githubusercontent.com/colino17/ultimate-iptvgrabber-docker/master/logos/nfl.png" tvh-chnum="620",NFL
+#EXTINF:-1 CUID="620" tvg-id="nfl-network" tvg-logo="https://raw.githubusercontent.com/colino17/xteve-docker/master/logos/nfl.png" tvh-chnum="620",NFL
 http://10.17.10.17:6464/nfl-network.m3u8
 
 #### CHANNEL 650 - GLORY ####
-#EXTINF:-1 CUID="650" tvg-logo="https://raw.githubusercontent.com/colino17/ultimate-iptvgrabber-docker/master/logos/glory.png" tvg-id="GLORY" tvh-chnum="650",GLORY
+#EXTINF:-1 CUID="650" tvg-logo="https://raw.githubusercontent.com/colino17/xteve-docker/master/logos/glory.png" tvg-id="GLORY" tvh-chnum="650",GLORY
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxglorykickboxing/CDN/playlist.m3u8
 
 #### CHANNEL 661 - IMPACT ####
-#EXTINF:-1 CUID="661" tvg-logo="https://raw.githubusercontent.com/colino17/ultimate-iptvgrabber-docker/master/logos/impact.png" tvg-id="I117294.json.schedulesdirect.org" tvh-chnum="661",IMPACT
+#EXTINF:-1 CUID="661" tvg-logo="https://raw.githubusercontent.com/colino17/xteve-docker/master/logos/impact.png" tvg-id="I117294.json.schedulesdirect.org" tvh-chnum="661",IMPACT
 https://d2p372oxiwmcn1.cloudfront.net/hls/main.m3u8
 
 #### CHANNEL 662 - IMPACT PLUS ####
-#EXTINF:-1 CUID="662" tvg-logo="https://raw.githubusercontent.com/colino17/ultimate-iptvgrabber-docker/master/logos/impact.png" tvg-id="I117294.json.schedulesdirect.org" tvh-chnum="662",IMPACT
+#EXTINF:-1 CUID="662" tvg-logo="https://raw.githubusercontent.com/colino17/xteve-docker/master/logos/impact.png" tvg-id="I117294.json.schedulesdirect.org" tvh-chnum="662",IMPACT
 https://d2tuwvs0ja335j.cloudfront.net/hls/1080p/playlist.m3u8
 
 #### CHANNEL 680 - POKER ####
-#EXTINF:-1 CUID="680" tvg-logo="https://raw.githubusercontent.com/colino17/ultimate-iptvgrabber-docker/master/logos/poker.png" tvg-id="I114670.json.schedulesdirect.org" tvh-chnum="680",POKER
+#EXTINF:-1 CUID="680" tvg-logo="https://raw.githubusercontent.com/colino17/xteve-docker/master/logos/poker.png" tvg-id="I114670.json.schedulesdirect.org" tvh-chnum="680",POKER
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxworldpokertour/CDN/playlist.m3u8
 
 #### CHANNEL 800 - CBCNEWS ####
-#EXTINF:-1 CUID="800" tvg-logo="https://raw.githubusercontent.com/colino17/ultimate-iptvgrabber-docker/master/logos/cbcnews.png" tvg-id="I75971.json.schedulesdirect.org" tvh-chnum="800",CBCNEWS
+#EXTINF:-1 CUID="800" tvg-logo="https://raw.githubusercontent.com/colino17/xteve-docker/master/logos/cbcnews.png" tvg-id="I75971.json.schedulesdirect.org" tvh-chnum="800",CBCNEWS
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxcbcnews/CDN/playlist.m3u8
 
-#EXTINF:-1 CUID="810" tvg-id="I58646.json.schedulesdirect.org" tvg-logo="https://raw.githubusercontent.com/colino17/ultimate-iptvgrabber-docker/master/logos/cnn.png" m3u-name="CNN" tvh-chnum="810",CNN
+#EXTINF:-1 CUID="810" tvg-id="I58646.json.schedulesdirect.org" tvg-logo="https://raw.githubusercontent.com/colino17/xteve-docker/master/logos/cnn.png" m3u-name="CNN" tvh-chnum="810",CNN
 https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
 
 #### CHANNEL 811 - MSNBC ####
-#EXTINF:-1 CUID="811" tvg-logo="https://raw.githubusercontent.com/colino17/ultimate-iptvgrabber-docker/master/logos/msnbc.png" tvg-id="I16300.json.schedulesdirect.org" tvh-chnum="811",MSNBC
+#EXTINF:-1 CUID="811" tvg-logo="https://raw.githubusercontent.com/colino17/xteve-docker/master/logos/msnbc.png" tvg-id="I16300.json.schedulesdirect.org" tvh-chnum="811",MSNBC
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-xumo-nbcnewsnow/CDN/master.m3u8
 
 #### CHANNEL 812 - CBSN ####
-#EXTINF:-1 CUID="812" tvg-logo="https://raw.githubusercontent.com/colino17/ultimate-iptvgrabber-docker/master/logos/cbsn.png" tvg-id="CBSN" tvh-chnum="812",CBSN
+#EXTINF:-1 CUID="812" tvg-logo="https://raw.githubusercontent.com/colino17/xteve-docker/master/logos/cbsn.png" tvg-id="CBSN" tvh-chnum="812",CBSN
 https://dai.google.com/linear/hls/event/Sid4xiTQTkCT1SLu6rjUSQ/master.m3u8
