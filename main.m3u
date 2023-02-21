@@ -36,6 +36,18 @@ http://10.17.10.17:6464/tnt.m3u8
 #EXTINF:-1 CUID="203" tvg-id="usa-network" tvg-logo="https://raw.githubusercontent.com/colino17/xteve-docker/master/logos/usa.png" tvh-chnum="203",USA
 http://10.17.10.17:6464/usa-network.m3u8
 
+#EXTINF:-1 tvg-chno="3000" tvg-name=" TeeHeeTV" tvg-id="3000" tvg-logo="https://raw.githubusercontent.com/colino17/xteve-docker/master/logos/teehee.png" group-title="Comedy", TeeHeeTV
+http://10.17.10.17:8409/iptv/channel/3000.ts
+
+#EXTINF:-1 tvg-chno="3001" tvg-name=" Giggle" tvg-id="3001" tvg-logo="https://raw.githubusercontent.com/colino17/xteve-docker/master/logos/giggle.png" group-title="Comedy", Giggle
+http://10.17.10.17:8409/iptv/channel/3001.ts
+
+#EXTINF:-1 tvg-chno="4000" tvg-name=" Cartoon Network Rewind" tvg-id="4000" tvg-logo="https://raw.githubusercontent.com/colino17/xteve-docker/master/logos/cnr.png" group-title="Cartoons", Cartoon Network Rewind
+http://10.17.10.17:8409/iptv/channel/4000.ts
+
+#EXTINF:-1 tvg-chno="4001" tvg-name=" Toonami Rewind" tvg-id="4001" tvg-logo="https://raw.githubusercontent.com/colino17/xteve-docker/master/logos/toonamirewind.png" group-title="Cartoons", Toonami Rewind
+http://10.17.10.17:8409/iptv/channel/4001.ts
+
 #### CHANNEL 300 - HISTORY ####
 #EXTINF:-1 CUID="300" tvg-id="history-channel" tvg-logo="https://raw.githubusercontent.com/colino17/xteve-docker/master/logos/history.png" tvh-chnum="300",HISTORY
 http://10.17.10.17:6464/history-channel.m3u8
