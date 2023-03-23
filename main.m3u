@@ -12,7 +12,7 @@ http://10.17.70.80:5004/auto/v5000
 #EXTINF:-1 CUID="102" tvg-id="I196.16261.zap2it.com" tvg-logo="https://raw.githubusercontent.com/colino17/xteve-docker/master/logos/cbc.png" tvh-chnum="102",CBC
 http://10.17.70.80:5004/auto/v4.1
 
-#EXTINF:-1 tvg-chno="3000" tvg-name=" TeeHeeTV" tvg-id="3000" tvg-logo="https://raw.githubusercontent.com/colino17/xteve-docker/master/logos/teehee.png" group-title="Comedy", TeeHeeTV
+#EXTINF:-1 tvg-chno="3000" tvg-name=" TeeHeeTV" tvg-id="3000" tvg-logo="https://raw.githubusercontent.com/colino17/xteve-docker/master/logos/teehee2.png" group-title="Comedy", TeeHeeTV
 http://10.17.10.17:8409/iptv/channel/3000.ts
 
 #EXTINF:-1 tvg-chno="3001" tvg-name=" Giggle" tvg-id="3001" tvg-logo="https://raw.githubusercontent.com/colino17/xteve-docker/master/logos/giggle.png" group-title="Comedy", Giggle
