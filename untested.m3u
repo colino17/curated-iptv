@@ -1,12 +1,54 @@
-#EXTINF:-1 tvg-id="CONtv.us" status="online",CONtv (1080p)
-https://contv-stirr.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="CONtv.us" status="online",CONtv (1080p)
-https://dai.google.com/linear/hls/event/o8Smo_gsSAm26uW9Xkww_g/master.m3u8
-#EXTINF:-1 tvg-id="CONtv.us" status="error",CONtv (1080p)
-http://contv.sinclair.wurl.com/manifest/playlist.m3u8
-
 #EXTINF:-1 tvg-id="AXSTVNow.us" status="online",AXS TV Now (1080p)
 https://dikcfc9915kp8.cloudfront.net/hls/main.m3u8
 
 #EXTINF:-1 tvg-id="" status="online",Vice East
 https://d2do1g43aq7264.cloudfront.net/playlist.m3u8
+
+#EXTINF:-1 tvg-id="CBATDT.ca",CBC New Brunswick (CBAT-DT) [Geo-blocked]
+https://cbcrclinear-tor.akamaized.net/hls/live/2042757/CBCRCLINEAR_TOR_3/master5.m3u8
+
+#EXTINF:-1 tvg-id="CBCTDT.ca",CBC Prince Edward Island (CBCT-DT) [Geo-blocked]
+https://cbcrclinear-tor.akamaized.net/hls/live/2042756/CBCRCLINEAR_TOR_2/master5.m3u8
+
+#EXTINF:-1 tvg-id="CBETDT.ca",CBC Windsor (CBET-DT) [Geo-blocked]
+https://cbcrclinear-tor.akamaized.net/hls/live/2042759/CBCRCLINEAR_TOR_5/master5.m3u8
+
+#EXTINF:-1 tvg-id="CBHTDT.ca",CBC Nova Scotia (CBHT-DT) [Geo-blocked]
+https://cbcrclinear-tor.akamaized.net/hls/live/2042758/CBCRCLINEAR_TOR_4/master5.m3u8
+
+#EXTINF:-1 tvg-id="CBKTDT.ca",CBC Saskatchewan (CBKT-DT) [Geo-blocked]
+https://cbcrclinear-tor.akamaized.net/hls/live/2042764/CBCRCLINEAR_TOR_10/master5.m3u8
+
+#EXTINF:-1 tvg-id="CBLTDT.ca",CBC Toronto (CBLT-DT) [Geo-blocked]
+https://cbcrclinear-tor.akamaized.net/hls/live/2042760/CBCRCLINEAR_TOR_6/master5.m3u8
+
+#EXTINF:-1 tvg-id="CBMTDT.ca",CBC Montréal (CBMT-DT) [Geo-blocked]
+https://cbcrclinear-tor.akamaized.net/hls/live/2042761/CBCRCLINEAR_TOR_7/master5.m3u8
+
+#EXTINF:-1 tvg-id="CBNTDT.ca",CBC Newfoundland and Labrador (CBNT-DT) [Geo-blocked]
+https://cbcrclinear-tor.akamaized.net/hls/live/2042755/CBCRCLINEAR_TOR_1/master5.m3u8
+
+#EXTINF:-1 tvg-id="CBOTDT.ca",CBC Ottawa (CBOT-DT) [Geo-blocked]
+https://cbcrclinear-tor.akamaized.net/hls/live/2042762/CBCRCLINEAR_TOR_8/master5.m3u8
+
+#EXTINF:-1 tvg-id="CBRTDT.ca",CBC Calgary (CBRT-DT) [Geo-blocked]
+https://cbcrclinear-tor.akamaized.net/hls/live/2042763/CBCRCLINEAR_TOR_9/master5.m3u8
+
+#EXTINF:-1 tvg-id="CBUTDT.ca",CBC Vancouver (CBUT-DT) [Geo-blocked]
+https://cbcrclinear-tor.akamaized.net/hls/live/2042768/CBCRCLINEAR_TOR_14/master5.m3u8
+
+#EXTINF:-1 tvg-id="CBWTDT.ca",CBC Manitoba (CBWT-DT) [Geo-blocked]
+https://cbcrclinear-tor.akamaized.net/hls/live/2042767/CBCRCLINEAR_TOR_13/master5.m3u8
+
+CITYTV
+https://bozztv.com/teleyupp1/teleup-iSykLSKMFr/tracks-v1a1/mono.m3u8
+
+GLOBAL
+https://d128o1k7zh3htz.cloudfront.net/out/v1/74a58360a3734f97b74ba439bc678044/index.m3u8
+https://dfmjr9irb1dl5.cloudfront.net/out/v1/454010ff309e4963a087f5802856e346/index.m3u8
+https://da7sdtkzly6qj.cloudfront.net/out/v1/b317f6c10f2e493993bd2b5314df1c7c/index_1.m3u8
+
+CTV
+https://bozztv.com/teleyupp1/teleup-zxsJFt6VvY/playlist.m3u8
+
+
