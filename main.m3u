@@ -12,22 +12,43 @@ http://10.17.70.80:5004/auto/v5000
 #EXTINF:-1 CUID="102" tvg-id="I196.16261.zap2it.com" tvg-logo="https://raw.githubusercontent.com/colino17/xteve-docker/master/logos/cbc.png" tvh-chnum="102",CBC
 http://10.17.70.80:5004/auto/v4.1
 
-#EXTINF:-1 tvg-chno="3000" tvg-name=" TeeHeeTV" tvg-id="3000" tvg-logo="https://raw.githubusercontent.com/colino17/xteve-docker/master/logos/teehee2.png" group-title="Comedy", TeeHeeTV
+#### CHANNEL 103 - CBC MONTREAL ####
+#EXTINF:-1 CUID="103" tvg-id="I206.10092.zap2it.com" tvg-logo="https://raw.githubusercontent.com/colino17/xteve-docker/master/logos/cbcmontreal.png" tvh-chnum="103",CBC MONTREAL
+https://cbcrclinear-tor.akamaized.net/hls/live/2042761/CBCRCLINEAR_TOR_7/master5.m3u8
+
+#### CHANNEL 104 - CBC TORONTO ####
+#EXTINF:-1 CUID="103" tvg-id="I210.10091.zap2it.com" tvg-logo="https://raw.githubusercontent.com/colino17/xteve-docker/master/logos/cbctoronto.png" tvh-chnum="104",CBC TORONTO
+https://cbcrclinear-tor.akamaized.net/hls/live/2042760/CBCRCLINEAR_TOR_6/master5.m3u8
+
+#### CHANNEL 105 - CBC CALGARY ####
+#EXTINF:-1 CUID="105" tvg-id="I245.15939.zap2it.com" tvg-logo="https://raw.githubusercontent.com/colino17/xteve-docker/master/logos/cbccalgary.png" tvh-chnum="105",CBC CALGARY
+https://cbcrclinear-tor.akamaized.net/hls/live/2042763/CBCRCLINEAR_TOR_9/master5.m3u8
+
+#### CHANNEL 106 - CBC VANCOUVER ####
+#EXTINF:-1 CUID="106" tvg-id="I251.10100.zap2it.com" tvg-logo="https://raw.githubusercontent.com/colino17/xteve-docker/master/logos/cbcvancouver.png" tvh-chnum="106",CBC VANCOUVER
+https://cbcrclinear-tor.akamaized.net/hls/live/2042768/CBCRCLINEAR_TOR_14/master5.m3u8
+
+#### CHANNEL 300 - TEEHEE ####
+#EXTINF:-1 tvg-chno="300" tvg-name=" TeeHeeTV" tvg-id="300" tvg-logo="https://raw.githubusercontent.com/colino17/xteve-docker/master/logos/teehee2.png" group-title="Comedy", TeeHeeTV
 http://10.17.10.17:8409/iptv/channel/3000.ts
 
-#EXTINF:-1 tvg-chno="3001" tvg-name=" Giggle" tvg-id="3001" tvg-logo="https://raw.githubusercontent.com/colino17/xteve-docker/master/logos/giggle.png" group-title="Comedy", Giggle
+#### CHANNEL 301 - GIGGLE ####
+#EXTINF:-1 tvg-chno="301" tvg-name=" Giggle" tvg-id="301" tvg-logo="https://raw.githubusercontent.com/colino17/xteve-docker/master/logos/giggle.png" group-title="Comedy", Giggle
 http://10.17.10.17:8409/iptv/channel/3001.ts
 
-#EXTINF:-1 tvg-chno="4000" tvg-name=" Cartoon Network Rewind" tvg-id="4000" tvg-logo="https://raw.githubusercontent.com/colino17/xteve-docker/master/logos/cnr.png" group-title="Cartoons", Cartoon Network Rewind
+#### CHANNEL 400 - CARTOON NETWORK REWIND ####
+#EXTINF:-1 tvg-chno="400" tvg-name=" Cartoon Network Rewind" tvg-id="400" tvg-logo="https://raw.githubusercontent.com/colino17/xteve-docker/master/logos/cnr.png" group-title="Cartoons", Cartoon Network Rewind
 http://10.17.10.17:8409/iptv/channel/4000.ts
 
-#EXTINF:-1 tvg-chno="4001" tvg-name=" Toonami Rewind" tvg-id="4001" tvg-logo="https://raw.githubusercontent.com/colino17/xteve-docker/master/logos/toonamirewind.png" group-title="Cartoons", Toonami Rewind
+#### CHANNEL 401 - TOONAMI REWIND ####
+#EXTINF:-1 tvg-chno="401" tvg-name=" Toonami Rewind" tvg-id="401" tvg-logo="https://raw.githubusercontent.com/colino17/xteve-docker/master/logos/toonamirewind.png" group-title="Cartoons", Toonami Rewind
 http://10.17.10.17:8409/iptv/channel/4001.ts
 
 #### CHANNEL 500 - BUZZR ####
 #EXTINF:-1 CUID="500" tvg-logo="https://raw.githubusercontent.com/colino17/xteve-docker/master/logos/buzzr.png" tvg-id="I75009.json.schedulesdirect.org" tvh-chnum="500",BUZZR
 https://buzzr-samsungus.amagi.tv/playlist.m3u8
 
+#### CHANNEL 600 - STADIUM ####
 #EXTINF:-1 CUID="600" tvg-logo="https://raw.githubusercontent.com/colino17/xteve-docker/master/logos/stadium.png" tvg-id="STADIUM" tvh-chnum="600",STADIUM
 https://dai2.xumo.com/amagi_hls_data_xumo1234A-stadiumsports/CDN/master.m3u8
 
@@ -50,6 +71,10 @@ https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxworldpokertour/CDN/playlist
 #### CHANNEL 800 - CBCNEWS ####
 #EXTINF:-1 CUID="800" tvg-logo="https://raw.githubusercontent.com/colino17/xteve-docker/master/logos/cbcnews.png" tvg-id="I75971.json.schedulesdirect.org" tvh-chnum="800",CBCNEWS
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxcbcnews/CDN/playlist.m3u8
+
+#### CHANNEL 801 - CBCNEWS ####
+#EXTINF:-1 CUID="801" tvg-logo="https://raw.githubusercontent.com/colino17/xteve-docker/master/logos/cbcnews.png" tvg-id="I75971.json.schedulesdirect.org" tvh-chnum="801",CBCNEWS
+https://pe-fa-lp02a.9c9media.com/live/News1Digi/p/hls/00000201/38ef78f479b07aa0/index/0c6a10a2/live/stream/h264/v1/3500000/manifest.m3u8
 
 #EXTINF:-1 CUID="810" tvg-id="I58646.json.schedulesdirect.org" tvg-logo="https://raw.githubusercontent.com/colino17/xteve-docker/master/logos/cnn.png" m3u-name="CNN" tvh-chnum="810",CNN
 https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
