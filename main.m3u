@@ -12,10 +12,6 @@ http://10.17.70.80:5004/auto/v5000
 #EXTINF:-1 CUID="102" tvg-id="I196.16261.zap2it.com" tvg-logo="https://raw.githubusercontent.com/colino17/xteve-docker/master/logos/cbc.png" tvh-chnum="102",CBC
 http://10.17.70.80:5004/auto/v4.1
 
-#### CHANNEL 103 - CBC MONTREAL ####
-#EXTINF:-1 CUID="103" tvg-id="I206.10092.zap2it.com" tvg-logo="https://raw.githubusercontent.com/colino17/xteve-docker/master/logos/cbcmontreal.png" tvh-chnum="103",CBC MONTREAL
-https://cbcrclinear-tor.akamaized.net/hls/live/2042761/CBCRCLINEAR_TOR_7/master5.m3u8
-
 #### CHANNEL 104 - CBC TORONTO ####
 #EXTINF:-1 CUID="103" tvg-id="I210.10091.zap2it.com" tvg-logo="https://raw.githubusercontent.com/colino17/xteve-docker/master/logos/cbctoronto.png" tvh-chnum="104",CBC TORONTO
 https://cbcrclinear-tor.akamaized.net/hls/live/2042760/CBCRCLINEAR_TOR_6/master5.m3u8
