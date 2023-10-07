@@ -48,17 +48,9 @@ https://buzzr-samsungus.amagi.tv/playlist.m3u8
 #EXTINF:-1 CUID="600" tvg-logo="https://raw.githubusercontent.com/colino17/xteve-docker/master/logos/stadium.png" tvg-id="STADIUM" tvh-chnum="600",STADIUM
 https://dai2.xumo.com/amagi_hls_data_xumo1234A-stadiumsports/CDN/master.m3u8
 
-#### CHANNEL 650 - GLORY ####
-#EXTINF:-1 CUID="650" tvg-logo="https://raw.githubusercontent.com/colino17/xteve-docker/master/logos/glory.png" tvg-id="GLORY" tvh-chnum="650",GLORY
-https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxglorykickboxing/CDN/playlist.m3u8
-
-#### CHANNEL 661 - IMPACT ####
-#EXTINF:-1 CUID="661" tvg-logo="https://raw.githubusercontent.com/colino17/xteve-docker/master/logos/impact.png" tvg-id="I117294.json.schedulesdirect.org" tvh-chnum="661",IMPACT
-https://d2p372oxiwmcn1.cloudfront.net/hls/main.m3u8
-
-#### CHANNEL 662 - IMPACT PLUS ####
-#EXTINF:-1 CUID="662" tvg-logo="https://raw.githubusercontent.com/colino17/xteve-docker/master/logos/impact.png" tvg-id="I117294.json.schedulesdirect.org" tvh-chnum="662",IMPACT
-https://d2tuwvs0ja335j.cloudfront.net/hls/1080p/playlist.m3u8
+#### CHANNEL 606 - SQUARED CIRCLE ####
+#EXTINF:-1 tvg-chno="606" tvg-name="Squared Circle" tvg-id="606" tvg-logo="https://raw.githubusercontent.com/colino17/xteve-docker/master/logos/squaredcircle.png" group-title="Sports", Squared Circle
+http://10.17.10.17:8409/iptv/channel/6060.ts
 
 #### CHANNEL 680 - POKER ####
 #EXTINF:-1 CUID="680" tvg-logo="https://raw.githubusercontent.com/colino17/xteve-docker/master/logos/poker.png" tvg-id="I114670.json.schedulesdirect.org" tvh-chnum="680",POKER
@@ -68,8 +60,8 @@ https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxworldpokertour/CDN/playlist
 #EXTINF:-1 CUID="800" tvg-logo="https://raw.githubusercontent.com/colino17/xteve-docker/master/logos/cbcnews.png" tvg-id="I75971.json.schedulesdirect.org" tvh-chnum="800",CBCNEWS
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxcbcnews/CDN/playlist.m3u8
 
-#### CHANNEL 801 - CBCNEWS ####
-#EXTINF:-1 CUID="801" tvg-logo="https://raw.githubusercontent.com/colino17/xteve-docker/master/logos/cbcnews.png" tvg-id="I75971.json.schedulesdirect.org" tvh-chnum="801",CBCNEWS
+#### CHANNEL 801 - CTVNEWS ####
+#EXTINF:-1 CUID="801" tvg-logo="https://raw.githubusercontent.com/colino17/xteve-docker/master/logos/ctvnews.png" tvg-id="I75971.json.schedulesdirect.org" tvh-chnum="801",CTVNEWS
 https://pe-fa-lp02a.9c9media.com/live/News1Digi/p/hls/00000201/38ef78f479b07aa0/index/0c6a10a2/live/stream/h264/v1/3500000/manifest.m3u8
 
 #EXTINF:-1 CUID="810" tvg-id="I58646.json.schedulesdirect.org" tvg-logo="https://raw.githubusercontent.com/colino17/xteve-docker/master/logos/cnn.png" m3u-name="CNN" tvh-chnum="810",CNN
