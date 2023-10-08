@@ -4,10 +4,6 @@
 #EXTINF:-1 CUID="100" tvg-id="I538.10131.zap2it.com" tvg-logo="https://raw.githubusercontent.com/colino17/xteve-docker/master/logos/ctv.png" tvh-chnum="100",CTV
 http://10.17.70.80:5004/auto/v9.1
 
-#### CHANNEL 101 - GLOBAL ####
-#EXTINF:-1 CUID="101" tvg-id="I204.17396.zap2it.com" tvg-logo="https://raw.githubusercontent.com/colino17/xteve-docker/master/logos/global.png" tvh-chnum="101",GLOBAL
-http://10.17.70.80:5004/auto/v5000
-
 #### CHANNEL 102 - CBC ####
 #EXTINF:-1 CUID="102" tvg-id="I196.16261.zap2it.com" tvg-logo="https://raw.githubusercontent.com/colino17/xteve-docker/master/logos/cbc.png" tvh-chnum="102",CBC
 http://10.17.70.80:5004/auto/v4.1
@@ -23,6 +19,14 @@ https://cbcrclinear-tor.akamaized.net/hls/live/2042763/CBCRCLINEAR_TOR_9/master5
 #### CHANNEL 106 - CBC VANCOUVER ####
 #EXTINF:-1 CUID="106" tvg-id="I251.10100.zap2it.com" tvg-logo="https://raw.githubusercontent.com/colino17/xteve-docker/master/logos/cbcvancouver.png" tvh-chnum="106",CBC VANCOUVER
 https://cbcrclinear-tor.akamaized.net/hls/live/2042768/CBCRCLINEAR_TOR_14/master5.m3u8
+
+#### CHANNEL 200 - TBS ####
+#EXTINF:-1 CUID="200" tvg-id="I52.11867.zap2it.com" tvg-logo="https://raw.githubusercontent.com/colino17/xteve-docker/master/logos/tbs.png" tvh-chnum="200",TBS
+https://turnerlive.warnermediacdn.com/hls/live/2023172/tbseast/slate/VIDEO_0_3564000.m3u8
+
+#### CHANNEL 201 - TNT ####
+#EXTINF:-1 CUID="201" tvg-id="I51.11164.zap2it.com" tvg-logo="https://raw.githubusercontent.com/colino17/xteve-docker/master/logos/tnt.png" tvh-chnum="201",TNT
+https://turnerlive.warnermediacdn.com/hls/live/2023168/tnteast/slate/VIDEO_0_3564000.m3u8
 
 #### CHANNEL 300 - TEEHEE ####
 #EXTINF:-1 tvg-chno="300" tvg-name=" TeeHeeTV" tvg-id="300" tvg-logo="https://raw.githubusercontent.com/colino17/xteve-docker/master/logos/teehee2.png" group-title="Comedy", TeeHeeTV
@@ -64,7 +68,8 @@ https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxcbcnews/CDN/playlist.m3u8
 #EXTINF:-1 CUID="801" tvg-logo="https://raw.githubusercontent.com/colino17/xteve-docker/master/logos/ctvnews.png" tvg-id="I75971.json.schedulesdirect.org" tvh-chnum="801",CTVNEWS
 https://pe-fa-lp02a.9c9media.com/live/News1Digi/p/hls/00000201/38ef78f479b07aa0/index/0c6a10a2/live/stream/h264/v1/3500000/manifest.m3u8
 
-#EXTINF:-1 CUID="810" tvg-id="I58646.json.schedulesdirect.org" tvg-logo="https://raw.githubusercontent.com/colino17/xteve-docker/master/logos/cnn.png" m3u-name="CNN" tvh-chnum="810",CNN
+#### CHANNEL 810 - CNN ####
+#EXTINF:-1 CUID="810" tvg-id="I100.10142.zap2it.com" tvg-logo="https://raw.githubusercontent.com/colino17/xteve-docker/master/logos/cnn.png" m3u-name="CNN" tvh-chnum="810",CNN
 https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
 
 #### CHANNEL 811 - MSNBC ####
