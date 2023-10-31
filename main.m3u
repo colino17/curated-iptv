@@ -53,7 +53,7 @@ https://buzzr-samsungus.amagi.tv/playlist.m3u8
 https://dai2.xumo.com/amagi_hls_data_xumo1234A-stadiumsports/CDN/master.m3u8
 
 #### CHANNEL 606 - SQUARED CIRCLE ####
-#EXTINF:-1 tvg-chno="606" tvg-name="Squared Circle" tvg-id="606" tvg-logo="https://raw.githubusercontent.com/colino17/xteve-docker/master/logos/squaredcircle.png" group-title="Sports", Squared Circle
+#EXTINF:-1 tvg-chno="606" tvg-name="Squared Circle" tvg-id="6060.etv" tvg-logo="https://raw.githubusercontent.com/colino17/xteve-docker/master/logos/squaredcircle.png" group-title="Sports", Squared Circle
 http://10.17.10.17:8409/iptv/channel/6060.ts
 
 #### CHANNEL 680 - POKER ####
