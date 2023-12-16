@@ -79,3 +79,24 @@ https://dai2.xumo.com/amagi_hls_data_xumo1212A-xumo-nbcnewsnow/CDN/master.m3u8
 #### CHANNEL 812 - CBSN ####
 #EXTINF:-1 CUID="812" tvg-logo="https://raw.githubusercontent.com/colino17/xteve-docker/master/logos/cbsn.png" tvg-id="CBSN" tvh-chnum="812",CBSN
 https://dai.google.com/linear/hls/event/Sid4xiTQTkCT1SLu6rjUSQ/master.m3u8
+
+
+#### CHANNEL 900 - BACK YARD ####
+#EXTINF:-1 CUID="900" tvh-chnum="900",BACK YARD
+rtsp://10.17.10.16:8554/back_yard?video=copy&audio=aac
+
+#### CHANNEL 901 - FRONT YARD ####
+#EXTINF:-1 CUID="901" tvh-chnum="901",FRONT YARD
+rtsp://10.17.10.16:8554/front_yard?video=copy&audio=aac
+
+#### CHANNEL 902 - SIDE YARD ####
+#EXTINF:-1 CUID="902" tvh-chnum="902",SIDE YARD
+rtsp://10.17.10.16:8554/side_yard?video=copy&audio=aac
+
+#### CHANNEL 903 - DRIVEWAY ####
+#EXTINF:-1 CUID="903" tvh-chnum="903",DRIVEWAY
+rtsp://10.17.10.16:8554/driveway?video=copy&audio=aac
+
+#### CHANNEL 904 - SHED ####
+#EXTINF:-1 CUID="904" tvh-chnum="904",SHED
+rtsp://10.17.10.16:8554/shed?video=copy&audio=aac
