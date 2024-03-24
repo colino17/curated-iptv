@@ -79,5 +79,3 @@ https://dai2.xumo.com/amagi_hls_data_xumo1212A-xumo-nbcnewsnow/CDN/master.m3u8
 #### CHANNEL 812 - CBSN ####
 #EXTINF:-1 CUID="812" tvg-logo="https://raw.githubusercontent.com/colino17/xteve-docker/master/logos/cbsn.png" tvg-id="CBSN" tvh-chnum="812",CBSN
 https://dai.google.com/linear/hls/event/Sid4xiTQTkCT1SLu6rjUSQ/master.m3u8
-#EXTINF:-1 CUID="904" tvh-chnum="904",SHED
-rtsp://10.17.10.16:8554/shed?video=copy&audio=aac
