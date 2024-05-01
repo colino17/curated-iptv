@@ -42,3 +42,31 @@ https://turnerlive.warnermediacdn.com/hls/live/2023167/tooneast/slate/VIDEO_0_35
 
 #EXTINF:-1 tvg-id="CartoonNetworkWest.us",Cartoon Network West TVE Feed (720p) [Geo-Blocked]
 https://turnerlive.warnermediacdn.com/hls/live/2023180/toonwest/slate/VIDEO_0_3564000.m3u8
+
+
+#EXTINF:-1 tvg-id="Buzzr.us",Buzzr (1080p)
+https://buzzr-roku-us.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="Buzzr.us",BUZZR (720p)
+https://lnc-buzzr.tubi.video/playlist.m3u8
+#EXTINF:-1 tvg-id="KCKSLD1.us",Buzzr (KCKS-LD1) (480p)
+https://cdn.igocast.com/channel1_hls/channel1_master.m3u8
+#EXTINF:-1 tvg-id="Buzzr.us",Buzzr (1080p)
+https://buzzrota-web.amagi.tv/playlist.m3u8
+
+
+#EXTINF:-1 tvg-id="CTVNewsChannel.ca",CTV (720p)
+http://cdn12.henico.net:8080/live/gsctv/index.m3u8
+
+
+#EXTINF:-1 tvg-id="CNN.us",CNN USA (720p) [Geo-blocked]
+https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
+#EXTINF:-1 tvg-id="CNN.us",CNN USA (480p) [Geo-blocked]
+https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_2_1964000.m3u8
+#EXTINF:-1 tvg-id="CNN.us",CNN USA (360p) [Geo-blocked]
+https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_3_1464000.m3u8
+#EXTINF:-1 tvg-id="CNN.us",CNN USA (360p) [Geo-blocked]
+https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_4_1064000.m3u8
+#EXTINF:-1 tvg-id="CNN.us",CNN USA (Adaptive) (720p) [Geo-blocked]
+https://raw.githubusercontent.com/Alstruit/adaptive-streams/alstruit-10_23_us/streams/us/CNNUSA.us.m3u8
+
+
