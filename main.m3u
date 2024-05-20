@@ -1,77 +1,143 @@
 #EXTM3U
 
+###########################
 #### CHANNEL 100 - CTV ####
-#EXTINF:-1 CUID="100" tvg-id="I538.10131.zap2it.com" tvg-logo="https://raw.githubusercontent.com/colino17/xteve-docker/master/logos/ctv.png" tvh-chnum="100",CTV
+###########################
+#EXTINF:-1 CUID="1000" tvg-id="I538.10131.zap2it.com" tvg-logo="https://raw.githubusercontent.com/colino17/xteve-docker/master/logos/ctv.png" tvh-chnum="1000",CTV
 http://10.17.70.80:5004/auto/v9.1
 
-#### CHANNEL 102 - CBC ####
-#EXTINF:-1 CUID="102" tvg-id="I196.16261.zap2it.com" tvg-logo="https://raw.githubusercontent.com/colino17/xteve-docker/master/logos/cbc.png" tvh-chnum="102",CBC
-http://10.17.70.80:5004/auto/v4.1
+####################################
+#### CHANNEL 1001 - CBC ATLANTIC ####
+####################################
+#EXTINF:-1 CUID="1001.1" tvg-id="I196.16261.zap2it.com" tvg-logo="https://raw.githubusercontent.com/colino17/xteve-docker/master/logos/cbc.png" tvh-chnum="1001.1",CBC
+https://cbcrclinear-tor.akamaized.net/hls/live/2042757/CBCRCLINEAR_TOR_3/master5.m3u8
+#EXTINF:-1 CUID="1001.2" tvg-id="I196.16261.zap2it.com" tvg-logo="https://raw.githubusercontent.com/colino17/xteve-docker/master/logos/cbc.png" tvh-chnum="1001.2",CBC
+https://cbcrclinear-tor.akamaized.net/hls/live/2042756/CBCRCLINEAR_TOR_2/master5.m3u8
+#EXTINF:-1 CUID="1001.3" tvg-id="I196.16261.zap2it.com" tvg-logo="https://raw.githubusercontent.com/colino17/xteve-docker/master/logos/cbc.png" tvh-chnum="1001.3",CBC
+https://cbcrclinear-tor.akamaized.net/hls/live/2042758/CBCRCLINEAR_TOR_4/master5.m3u8
 
-#### CHANNEL 104 - CBC TORONTO ####
-#EXTINF:-1 CUID="103" tvg-id="I210.10091.zap2it.com" tvg-logo="https://raw.githubusercontent.com/colino17/xteve-docker/master/logos/cbctoronto.png" tvh-chnum="104",CBC TORONTO
+###################################
+#### CHANNEL 1002 - CBC EASTERN ####
+###################################
+#EXTINF:-1 CUID="1002.1" tvg-id="I210.10091.zap2it.com" tvg-logo="https://raw.githubusercontent.com/colino17/xteve-docker/master/logos/cbctoronto.png" tvh-chnum="1002.1",CBC EASTERN
 https://cbcrclinear-tor.akamaized.net/hls/live/2042760/CBCRCLINEAR_TOR_6/master5.m3u8
+#EXTINF:-1 CUID="1002.2" tvg-id="I210.10091.zap2it.com" tvg-logo="https://raw.githubusercontent.com/colino17/xteve-docker/master/logos/cbctoronto.png" tvh-chnum="1002.2",CBC EASTERN
+https://cbcrclinear-tor.akamaized.net/hls/live/2042762/CBCRCLINEAR_TOR_8/master5.m3u8
+#EXTINF:-1 CUID="1002.3" tvg-id="I210.10091.zap2it.com" tvg-logo="https://raw.githubusercontent.com/colino17/xteve-docker/master/logos/cbctoronto.png" tvh-chnum="1002.3",CBC EASTERN
+https://cbcrclinear-tor.akamaized.net/hls/live/2042759/CBCRCLINEAR_TOR_5/master5.m3u8
 
-#### CHANNEL 105 - CBC CALGARY ####
-#EXTINF:-1 CUID="105" tvg-id="I245.15939.zap2it.com" tvg-logo="https://raw.githubusercontent.com/colino17/xteve-docker/master/logos/cbccalgary.png" tvh-chnum="105",CBC CALGARY
+####################################
+#### CHANNEL 1003 - CBC MOUNTAIN ####
+####################################
+#EXTINF:-1 CUID="1003.1" tvg-id="I245.15939.zap2it.com" tvg-logo="https://raw.githubusercontent.com/colino17/xteve-docker/master/logos/cbccalgary.png" tvh-chnum="1003.1",CBC MOUNTAIN
 https://cbcrclinear-tor.akamaized.net/hls/live/2042763/CBCRCLINEAR_TOR_9/master5.m3u8
+#EXTINF:-1 CUID="1003.2" tvg-id="I245.15939.zap2it.com" tvg-logo="https://raw.githubusercontent.com/colino17/xteve-docker/master/logos/cbccalgary.png" tvh-chnum="1003.2",CBC MOUNTAIN
+https://cbcrclinear-tor.akamaized.net/hls/live/2042764/CBCRCLINEAR_TOR_10/master5.m3u8
 
-#### CHANNEL 106 - CBC VANCOUVER ####
-#EXTINF:-1 CUID="106" tvg-id="I251.10100.zap2it.com" tvg-logo="https://raw.githubusercontent.com/colino17/xteve-docker/master/logos/cbcvancouver.png" tvh-chnum="106",CBC VANCOUVER
+###################################
+#### CHANNEL 106 - CBC WESTERN ####
+###################################
+#EXTINF:-1 CUID="1004" tvg-id="I251.10100.zap2it.com" tvg-logo="https://raw.githubusercontent.com/colino17/xteve-docker/master/logos/cbcvancouver.png" tvh-chnum="1004",CBC WESTERN
 https://cbcrclinear-tor.akamaized.net/hls/live/2042768/CBCRCLINEAR_TOR_14/master5.m3u8
 
-#### CHANNEL 200 - TBS ####
-#EXTINF:-1 CUID="200" tvg-id="I52.11867.zap2it.com" tvg-logo="https://raw.githubusercontent.com/colino17/xteve-docker/master/logos/tbs.png" tvh-chnum="200",TBS
+###########################
+#### CHANNEL 2000 - TBS ####
+###########################
+#EXTINF:-1 CUID="2000.1" tvg-id="I52.11867.zap2it.com" tvg-logo="https://raw.githubusercontent.com/colino17/xteve-docker/master/logos/tbs.png" tvh-chnum="2000.1",TBS
 https://turnerlive.warnermediacdn.com/hls/live/2023172/tbseast/slate/VIDEO_0_3564000.m3u8
+#EXTINF:-1 CUID="2000.2" tvg-id="I52.11867.zap2it.com" tvg-logo="https://raw.githubusercontent.com/colino17/xteve-docker/master/logos/tbs.png" tvh-chnum="2000.2",TBS
+https://raw.githubusercontent.com/Alstruit/adaptive-streams/alstruit-10_23_us/streams/us/TBSEast.us.m3u8
 
-#### CHANNEL 201 - TNT ####
-#EXTINF:-1 CUID="201" tvg-id="I51.11164.zap2it.com" tvg-logo="https://raw.githubusercontent.com/colino17/xteve-docker/master/logos/tnt.png" tvh-chnum="201",TNT
+###########################
+#### CHANNEL 2001 - TNT ####
+###########################
+#EXTINF:-1 CUID="2001.1" tvg-id="I51.11164.zap2it.com" tvg-logo="https://raw.githubusercontent.com/colino17/xteve-docker/master/logos/tnt.png" tvh-chnum="2001.1",TNT
 https://turnerlive.warnermediacdn.com/hls/live/2023168/tnteast/slate/VIDEO_0_3564000.m3u8
+#EXTINF:-1 CUID="2001.1" tvg-id="I51.11164.zap2it.com" tvg-logo="https://raw.githubusercontent.com/colino17/xteve-docker/master/logos/tnt.png" tvh-chnum="2001.2",TNT
+https://raw.githubusercontent.com/Alstruit/adaptive-streams/alstruit-10_23_us/streams/us/TNTEast.us.m3u8
 
-#### CHANNEL 300 - TEEHEE ####
-#EXTINF:-1 tvg-chno="300" tvg-name=" TeeHeeTV" tvg-id="300" tvg-logo="https://raw.githubusercontent.com/colino17/xteve-docker/master/logos/teehee2.png" group-title="Comedy", TeeHeeTV
+##############################
+#### CHANNEL 3000 - TEEHEE ####
+##############################
+#EXTINF:-1 tvg-chno="3000" tvg-name=" TeeHeeTV" tvg-id="3000" tvg-logo="https://raw.githubusercontent.com/colino17/xteve-docker/master/logos/teehee2.png" group-title="Comedy", TeeHeeTV
 http://10.17.10.17:8409/iptv/channel/3000.ts
 
-#### CHANNEL 301 - GIGGLE ####
-#EXTINF:-1 tvg-chno="301" tvg-name=" Giggle" tvg-id="301" tvg-logo="https://raw.githubusercontent.com/colino17/xteve-docker/master/logos/giggle.png" group-title="Comedy", Giggle
+##############################
+#### CHANNEL 3001 - GIGGLE ####
+##############################
+#EXTINF:-1 tvg-chno="3001" tvg-name=" Giggle" tvg-id="3001" tvg-logo="https://raw.githubusercontent.com/colino17/xteve-docker/master/logos/giggle.png" group-title="Comedy", Giggle
 http://10.17.10.17:8409/iptv/channel/3001.ts
 
-#### CHANNEL 400 - CARTOON NETWORK REWIND ####
-#EXTINF:-1 tvg-chno="400" tvg-name=" Cartoon Network Rewind" tvg-id="400" tvg-logo="https://raw.githubusercontent.com/colino17/xteve-docker/master/logos/cnr.png" group-title="Cartoons", Cartoon Network Rewind
+##############################################
+#### CHANNEL 4000 - CARTOON NETWORK REWIND ####
+##############################################
+#EXTINF:-1 tvg-chno="4000" tvg-name=" Cartoon Network Rewind" tvg-id="4000" tvg-logo="https://raw.githubusercontent.com/colino17/xteve-docker/master/logos/cnr.png" group-title="Cartoons", Cartoon Network Rewind
 http://10.17.10.17:8409/iptv/channel/4000.ts
 
-#### CHANNEL 401 - TOONAMI REWIND ####
-#EXTINF:-1 tvg-chno="401" tvg-name=" Toonami Rewind" tvg-id="401" tvg-logo="https://raw.githubusercontent.com/colino17/xteve-docker/master/logos/toonamirewind.png" group-title="Cartoons", Toonami Rewind
+######################################
+#### CHANNEL 4001 - TOONAMI REWIND ####
+######################################
+#EXTINF:-1 tvg-chno="4001" tvg-name=" Toonami Rewind" tvg-id="4001" tvg-logo="https://raw.githubusercontent.com/colino17/xteve-docker/master/logos/toonamirewind.png" group-title="Cartoons", Toonami Rewind
 http://10.17.10.17:8409/iptv/channel/4001.ts
 
-#### CHANNEL 500 - BUZZR ####
-#EXTINF:-1 CUID="500" tvg-logo="https://raw.githubusercontent.com/colino17/xteve-docker/master/logos/buzzr.png" tvg-id="I75009.json.schedulesdirect.org" tvh-chnum="500",BUZZR
+#############################
+#### CHANNEL 5000 - BUZZR ####
+#############################
+#EXTINF:-1 CUID="5000.1" tvg-logo="https://raw.githubusercontent.com/colino17/xteve-docker/master/logos/buzzr.png" tvg-id="I75009.json.schedulesdirect.org" tvh-chnum="5000.1",BUZZR
 https://buzzr-samsungus.amagi.tv/playlist.m3u8
+#EXTINF:-1 CUID="5000.2" tvg-logo="https://raw.githubusercontent.com/colino17/xteve-docker/master/logos/buzzr.png" tvg-id="I75009.json.schedulesdirect.org" tvh-chnum="5000.2",BUZZR
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/samsungus-buzzr-samsungtv-us/playlist.m3u8
+#EXTINF:-1 CUID="5000.3" tvg-logo="https://raw.githubusercontent.com/colino17/xteve-docker/master/logos/buzzr.png" tvg-id="I75009.json.schedulesdirect.org" tvh-chnum="5000.3",BUZZR
+https://lnc-buzzr.tubi.video/playlist.m3u8
+#EXTINF:-1 CUID="5000.4" tvg-logo="https://raw.githubusercontent.com/colino17/xteve-docker/master/logos/buzzr.png" tvg-id="I75009.json.schedulesdirect.org" tvh-chnum="5000.4",BUZZR
+https://cdn.igocast.com/channel1_hls/channel1_master.m3u8
 
-#### CHANNEL 606 - SQUARED CIRCLE ####
-#EXTINF:-1 tvg-chno="606" tvg-name="Squared Circle" tvg-id="6060.etv" tvg-logo="https://raw.githubusercontent.com/colino17/xteve-docker/master/logos/squaredcircle.png" group-title="Sports", Squared Circle
+######################################
+#### CHANNEL 6060 - SQUARED CIRCLE ####
+######################################
+#EXTINF:-1 tvg-chno="6060" tvg-name="Squared Circle" tvg-id="6060.etv" tvg-logo="https://raw.githubusercontent.com/colino17/xteve-docker/master/logos/squaredcircle.png" group-title="Sports", Squared Circle
 http://10.17.10.17:8409/iptv/channel/6060.ts
 
-#### CHANNEL 680 - POKER ####
-#EXTINF:-1 CUID="680" tvg-logo="https://raw.githubusercontent.com/colino17/xteve-docker/master/logos/poker.png" tvg-id="I114670.json.schedulesdirect.org" tvh-chnum="680",POKER
+###########################
+#### CHANNEL 6070 - AXS ###
+###########################
+#EXTINF:-1 CUID="6070" tvg-chno="6070" tvg-name="AXS" tvg-id="" tvg-logo="https://raw.githubusercontent.com/colino17/xteve-docker/master/logos/axs.png" group-title="Sports", AXS
+https://dikcfc9915kp8.cloudfront.net/hls/main.m3u8
+
+#############################
+#### CHANNEL 6080 - POKER ####
+#############################
+#EXTINF:-1 CUID="6080" tvg-logo="https://raw.githubusercontent.com/colino17/xteve-docker/master/logos/poker.png" tvg-id="I114670.json.schedulesdirect.org" tvh-chnum="6080",POKER
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxworldpokertour/CDN/playlist.m3u8
 
-#### CHANNEL 800 - CBCNEWS ####
-#EXTINF:-1 CUID="800" tvg-logo="https://raw.githubusercontent.com/colino17/xteve-docker/master/logos/cbcnews.png" tvg-id="I75971.json.schedulesdirect.org" tvh-chnum="800",CBCNEWS
+###############################
+#### CHANNEL 8000 - CBCNEWS ####
+###############################
+#EXTINF:-1 CUID="8000" tvg-logo="https://raw.githubusercontent.com/colino17/xteve-docker/master/logos/cbcnews.png" tvg-id="I75971.json.schedulesdirect.org" tvh-chnum="8000",CBCNEWS
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxcbcnews/CDN/playlist.m3u8
 
-#### CHANNEL 801 - CTVNEWS ####
-#EXTINF:-1 CUID="801" tvg-logo="https://raw.githubusercontent.com/colino17/xteve-docker/master/logos/ctvnews.png" tvg-id="I75971.json.schedulesdirect.org" tvh-chnum="801",CTVNEWS
-https://pe-fa-lp02a.9c9media.com/live/News1Digi/p/hls/00000201/38ef78f479b07aa0/index/0c6a10a2/live/stream/h264/v1/3500000/manifest.m3u8
-
-#### CHANNEL 810 - CNN ####
-#EXTINF:-1 CUID="810" tvg-id="I100.10142.zap2it.com" tvg-logo="https://raw.githubusercontent.com/colino17/xteve-docker/master/logos/cnn.png" m3u-name="CNN" tvh-chnum="810",CNN
+###########################
+#### CHANNEL 8100 - CNN ####
+###########################
+#EXTINF:-1 CUID="8100.1" tvg-id="I100.10142.zap2it.com" tvg-logo="https://raw.githubusercontent.com/colino17/xteve-docker/master/logos/cnn.png" m3u-name="CNN" tvh-chnum="8100.1",CNN
 https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
+#EXTINF:-1 CUID="8100.2" tvg-id="I100.10142.zap2it.com" tvg-logo="https://raw.githubusercontent.com/colino17/xteve-docker/master/logos/cnn.png" m3u-name="CNN" tvh-chnum="8100.2",CNN
+https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_2_1964000.m3u8
+#EXTINF:-1 CUID="8100.3" tvg-id="I100.10142.zap2it.com" tvg-logo="https://raw.githubusercontent.com/colino17/xteve-docker/master/logos/cnn.png" m3u-name="CNN" tvh-chnum="8100.3",CNN
+https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_3_1464000.m3u8
+#EXTINF:-1 CUID="8100.4" tvg-id="I100.10142.zap2it.com" tvg-logo="https://raw.githubusercontent.com/colino17/xteve-docker/master/logos/cnn.png" m3u-name="CNN" tvh-chnum="8100.4",CNN
+https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_4_1064000.m3u8
+#EXTINF:-1 CUID="8100.5" tvg-id="I100.10142.zap2it.com" tvg-logo="https://raw.githubusercontent.com/colino17/xteve-docker/master/logos/cnn.png" m3u-name="CNN" tvh-chnum="8100.5",CNN
+https://raw.githubusercontent.com/Alstruit/adaptive-streams/alstruit-10_23_us/streams/us/CNNUSA.us.m3u8
 
-#### CHANNEL 811 - MSNBC ####
-#EXTINF:-1 CUID="811" tvg-logo="https://raw.githubusercontent.com/colino17/xteve-docker/master/logos/msnbc.png" tvg-id="I16300.json.schedulesdirect.org" tvh-chnum="811",MSNBC
+#############################
+#### CHANNEL 8101 - MSNBC ####
+#############################
+#EXTINF:-1 CUID="8101" tvg-logo="https://raw.githubusercontent.com/colino17/xteve-docker/master/logos/msnbc.png" tvg-id="I16300.json.schedulesdirect.org" tvh-chnum="8101",MSNBC
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-xumo-nbcnewsnow/CDN/master.m3u8
 
-#### CHANNEL 812 - CBSN ####
-#EXTINF:-1 CUID="812" tvg-logo="https://raw.githubusercontent.com/colino17/xteve-docker/master/logos/cbsn.png" tvg-id="CBSN" tvh-chnum="812",CBSN
+############################
+#### CHANNEL 8102 - CBSN ####
+############################
+#EXTINF:-1 CUID="8102" tvg-logo="https://raw.githubusercontent.com/colino17/xteve-docker/master/logos/cbsn.png" tvg-id="CBSN" tvh-chnum="8102",CBSN
 https://dai.google.com/linear/hls/event/Sid4xiTQTkCT1SLu6rjUSQ/master.m3u8
