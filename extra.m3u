@@ -1,22 +1,9 @@
 #EXTM3U
 
-#EXTINF:-1 CUID="502" tvg-logo="https://raw.githubusercontent.com/colino17/ultimate-iptvgrabber-docker/master/logos/buzzr.png" tvg-id="I75009.json.schedulesdirect.org" tvh-chnum="502",BUZZR
-pipe:///usr/bin/ffmpeg -i https://cdn-ue1-prod.tsv2.amagi.tv/linear/samsungus-buzzr-samsungtv-us/playlist.m3u8 -c copy -f mpegts pipe:1
-#EXTINF:-1 CUID="502" tvg-logo="https://raw.githubusercontent.com/colino17/ultimate-iptvgrabber-docker/master/logos/buzzr.png" tvg-id="I75009.json.schedulesdirect.org" tvh-chnum="502",BUZZR
-pipe:///usr/bin/ffmpeg -i https://buzzr-roku-us.amagi.tv/playlist.m3u8 -c copy -f mpegts pipe:1
-#EXTINF:-1 CUID="502" tvg-logo="https://raw.githubusercontent.com/colino17/ultimate-iptvgrabber-docker/master/logos/buzzr.png" tvg-id="I75009.json.schedulesdirect.org" tvh-chnum="502",BUZZR
-pipe:///usr/bin/ffmpeg -i https://dai.google.com/linear/hls/event/wFZ1ufQ8ToaSdPgGtbBbpw/master.m3u8 -c copy -f mpegts pipe:1
 
 
-#### CHANNEL 810 - CNN ####
-#EXTINF:-1 CUID="810" tvg-id="I58646.json.schedulesdirect.org" tvg-logo="https://raw.githubusercontent.com/colino17/ultimate-iptvgrabber-docker/master/logos/cnn.png" m3u-name="CNN" tvh-chnum="810",CNN
-pipe:///usr/bin/ffmpeg -i https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_2_1964000.m3u8 -c copy -f mpegts pipe:1
-#EXTINF:-1 CUID="810" tvg-id="I58646.json.schedulesdirect.org" tvg-logo="https://raw.githubusercontent.com/colino17/ultimate-iptvgrabber-docker/master/logos/cnn.png" m3u-name="CNN" tvh-chnum="810",CNN
-pipe:///usr/bin/ffmpeg -i https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_3_1464000.m3u8 -c copy -f mpegts pipe:1
-#EXTINF:-1 CUID="810" tvg-id="I58646.json.schedulesdirect.org" tvg-logo="https://raw.githubusercontent.com/colino17/ultimate-iptvgrabber-docker/master/logos/cnn.png" m3u-name="CNN" tvh-chnum="810",CNN
-pipe:///usr/bin/ffmpeg -i https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_4_1064000.m3u8 -c copy -f mpegts pipe:1
 
 
 #### CHANNEL 900 - STADIUM ####
 #EXTINF:-1 CUID="900" tvg-logo="https://raw.githubusercontent.com/colino17/ultimate-iptvgrabber-docker/master/logos/stadium.png" tvg-id="STADIUM" tvh-chnum="900",STADIUM
-pipe:///usr/bin/ffmpeg -i https://stadium.samsung.wurl.com/manifest/playlist.m3u8 -c copy -f mpegts pipe:1
+https://stadium.samsung.wurl.com/manifest/playlist.m3u8
