@@ -1,9 +1,0 @@
-#EXTM3U
-
-
-
-
-
-#### CHANNEL 900 - STADIUM ####
-#EXTINF:-1 CUID="900" tvg-logo="https://raw.githubusercontent.com/colino17/ultimate-iptvgrabber-docker/master/logos/stadium.png" tvg-id="STADIUM" tvh-chnum="900",STADIUM
-https://stadium.samsung.wurl.com/manifest/playlist.m3u8
