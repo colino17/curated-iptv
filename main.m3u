@@ -83,13 +83,13 @@ http://10.17.10.17:8409/iptv/channel/4001.ts
 #############################
 #### CHANNEL 5000 - BUZZR ####
 #############################
-#EXTINF:-1 CUID="5000.1" tvg-logo="https://raw.githubusercontent.com/colino17/xteve-docker/master/logos/buzzr.png" tvg-id="I75009.json.schedulesdirect.org" tvh-chnum="5000.1",BUZZR
+#EXTINF:-1 CUID="5000.1" tvg-logo="https://raw.githubusercontent.com/colino17/xteve-docker/master/logos/buzzr.png" tvg-id="BUZZR" tvh-chnum="5000.1",BUZZR
 https://buzzr-samsungus.amagi.tv/playlist.m3u8
-#EXTINF:-1 CUID="5000.2" tvg-logo="https://raw.githubusercontent.com/colino17/xteve-docker/master/logos/buzzr.png" tvg-id="I75009.json.schedulesdirect.org" tvh-chnum="5000.2",BUZZR
+#EXTINF:-1 CUID="5000.2" tvg-logo="https://raw.githubusercontent.com/colino17/xteve-docker/master/logos/buzzr.png" tvg-id="BUZZR" tvh-chnum="5000.2",BUZZR
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/samsungus-buzzr-samsungtv-us/playlist.m3u8
-#EXTINF:-1 CUID="5000.3" tvg-logo="https://raw.githubusercontent.com/colino17/xteve-docker/master/logos/buzzr.png" tvg-id="I75009.json.schedulesdirect.org" tvh-chnum="5000.3",BUZZR
+#EXTINF:-1 CUID="5000.3" tvg-logo="https://raw.githubusercontent.com/colino17/xteve-docker/master/logos/buzzr.png" tvg-id="BUZZR" tvh-chnum="5000.3",BUZZR
 https://lnc-buzzr.tubi.video/playlist.m3u8
-#EXTINF:-1 CUID="5000.4" tvg-logo="https://raw.githubusercontent.com/colino17/xteve-docker/master/logos/buzzr.png" tvg-id="I75009.json.schedulesdirect.org" tvh-chnum="5000.4",BUZZR
+#EXTINF:-1 CUID="5000.4" tvg-logo="https://raw.githubusercontent.com/colino17/xteve-docker/master/logos/buzzr.png" tvg-id="BUZZR" tvh-chnum="5000.4",BUZZR
 https://cdn.igocast.com/channel1_hls/channel1_master.m3u8
 
 ######################################
@@ -101,19 +101,19 @@ http://10.17.10.17:8409/iptv/channel/6060.ts
 ###########################
 #### CHANNEL 6070 - AXS ###
 ###########################
-#EXTINF:-1 CUID="6070" tvg-chno="6070" tvg-name="AXS" tvg-id="" tvg-logo="https://raw.githubusercontent.com/colino17/xteve-docker/master/logos/axs.png" group-title="Sports", AXS
+#EXTINF:-1 CUID="6070" tvg-chno="6070" tvg-name="AXS" tvg-id="AXS" tvg-logo="https://raw.githubusercontent.com/colino17/xteve-docker/master/logos/axs.png" group-title="Sports", AXS
 https://dikcfc9915kp8.cloudfront.net/hls/main.m3u8
 
 #############################
 #### CHANNEL 6080 - POKER ####
 #############################
-#EXTINF:-1 CUID="6080" tvg-logo="https://raw.githubusercontent.com/colino17/xteve-docker/master/logos/poker.png" tvg-id="I114670.json.schedulesdirect.org" tvh-chnum="6080",POKER
+#EXTINF:-1 CUID="6080" tvg-logo="https://raw.githubusercontent.com/colino17/xteve-docker/master/logos/poker.png" tvg-id="POKER" tvh-chnum="6080",POKER
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxworldpokertour/CDN/playlist.m3u8
 
 ###############################
 #### CHANNEL 8000 - CBCNEWS ####
 ###############################
-#EXTINF:-1 CUID="8000" tvg-logo="https://raw.githubusercontent.com/colino17/xteve-docker/master/logos/cbcnews.png" tvg-id="I75971.json.schedulesdirect.org" tvh-chnum="8000",CBCNEWS
+#EXTINF:-1 CUID="8000" tvg-logo="https://raw.githubusercontent.com/colino17/xteve-docker/master/logos/cbcnews.png" tvg-id="CBCNEWS" tvh-chnum="8000",CBCNEWS
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxcbcnews/CDN/playlist.m3u8
 
 ###########################
@@ -133,7 +133,7 @@ https://raw.githubusercontent.com/Alstruit/adaptive-streams/alstruit-10_23_us/st
 #############################
 #### CHANNEL 8101 - MSNBC ####
 #############################
-#EXTINF:-1 CUID="8101" tvg-logo="https://raw.githubusercontent.com/colino17/xteve-docker/master/logos/msnbc.png" tvg-id="I16300.json.schedulesdirect.org" tvh-chnum="8101",MSNBC
+#EXTINF:-1 CUID="8101" tvg-logo="https://raw.githubusercontent.com/colino17/xteve-docker/master/logos/msnbc.png" tvg-id="MSNBC" tvh-chnum="8101",MSNBC
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-xumo-nbcnewsnow/CDN/master.m3u8
 
 ############################
