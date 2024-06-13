@@ -9,11 +9,11 @@ http://10.17.70.80:5004/auto/v9.1
 ####################################
 #### CHANNEL 1001 - CBC ATLANTIC ####
 ####################################
-#EXTINF:-1 CUID="1001.1" tvg-id="I196.16261.zap2it.com" tvg-logo="https://raw.githubusercontent.com/colino17/curated-iptv/master/logos/cbc.png" tvh-chnum="1001.1",CBC
+#EXTINF:-1 CUID="1001" tvg-id="I196.16261.zap2it.com" tvg-logo="https://raw.githubusercontent.com/colino17/curated-iptv/master/logos/cbc.png" tvh-chnum="1001",CBC ATLANTIC
 https://cbcrclinear-tor.akamaized.net/hls/live/2042757/CBCRCLINEAR_TOR_3/master5.m3u8
-#EXTINF:-1 CUID="1001.2" tvg-id="I196.16261.zap2it.com" tvg-logo="https://raw.githubusercontent.com/colino17/curated-iptv/master/logos/cbc.png" tvh-chnum="1001.2",CBC
+#EXTINF:-1 CUID="1001.1" tvg-id="1001.1" tvg-logo="https://raw.githubusercontent.com/colino17/curated-iptv/master/logos/cbc.png" tvh-chnum="1001.1",CBC ATLANTIC BACKUP 1
 https://cbcrclinear-tor.akamaized.net/hls/live/2042756/CBCRCLINEAR_TOR_2/master5.m3u8
-#EXTINF:-1 CUID="1001.3" tvg-id="I196.16261.zap2it.com" tvg-logo="https://raw.githubusercontent.com/colino17/curated-iptv/master/logos/cbc.png" tvh-chnum="1001.3",CBC
+#EXTINF:-1 CUID="1001.2" tvg-id="1001.2" tvg-logo="https://raw.githubusercontent.com/colino17/curated-iptv/master/logos/cbc.png" tvh-chnum="1001.2",CBC ATLANTIC BACKUP 2
 https://cbcrclinear-tor.akamaized.net/hls/live/2042758/CBCRCLINEAR_TOR_4/master5.m3u8
 
 ###################################
@@ -119,7 +119,7 @@ https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxcbcnews/CDN/playlist.m3u8
 ###########################
 #### CHANNEL 8100 - CNN ####
 ###########################
-#EXTINF:-1 CUID="8100.1" tvg-id="I100.10142.zap2it.com" tvg-logo="https://raw.githubusercontent.com/colino17/curated-iptv/master/logos/cnn.png" m3u-name="CNN" tvh-chnum="8100.1",CNN
+#EXTINF:-1 CUID="8100" tvg-id="I100.10142.zap2it.com" tvg-logo="https://raw.githubusercontent.com/colino17/curated-iptv/master/logos/cnn.png" m3u-name="CNN" tvh-chnum="8100",CNN
 https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
 #EXTINF:-1 CUID="8100.2" tvg-id="I100.10142.zap2it.com" tvg-logo="https://raw.githubusercontent.com/colino17/curated-iptv/master/logos/cnn.png" m3u-name="CNN" tvh-chnum="8100.2",CNN
 https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_2_1964000.m3u8
