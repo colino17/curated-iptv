@@ -61,19 +61,19 @@ http://10.17.10.17:8409/iptv/channel/3000.ts
 ###############################
 #### CHANNEL 3001 - GIGGLE ####
 ###############################
-#EXTINF:-1 tvg-chno="3001" tvg-name=" Giggle" tvg-id="3001" tvg-logo="https://raw.githubusercontent.com/colino17/curated-iptv/master/logos/giggle.png" group-title="Comedy", Giggle
+#EXTINF:-1 tvg-chno="3001" tvg-name=" Giggle" tvg-id="3001.etv" tvg-logo="https://raw.githubusercontent.com/colino17/curated-iptv/master/logos/giggle.png" group-title="Comedy", Giggle
 http://10.17.10.17:8409/iptv/channel/3001.ts
 
 ###############################################
 #### CHANNEL 4000 - CARTOON NETWORK REWIND ####
 ###############################################
-#EXTINF:-1 tvg-chno="4000" tvg-name=" Cartoon Network Rewind" tvg-id="4000" tvg-logo="https://raw.githubusercontent.com/colino17/curated-iptv/master/logos/cnr.png" group-title="Cartoons", Cartoon Network Rewind
+#EXTINF:-1 tvg-chno="4000" tvg-name=" Cartoon Network Rewind" tvg-id="4000.etv" tvg-logo="https://raw.githubusercontent.com/colino17/curated-iptv/master/logos/cnr.png" group-title="Cartoons", Cartoon Network Rewind
 http://10.17.10.17:8409/iptv/channel/4000.ts
 
 #######################################
 #### CHANNEL 4001 - TOONAMI REWIND ####
 #######################################
-#EXTINF:-1 tvg-chno="4001" tvg-name=" Toonami Rewind" tvg-id="4001" tvg-logo="https://raw.githubusercontent.com/colino17/curated-iptv/master/logos/toonamirewind.png" group-title="Cartoons", Toonami Rewind
+#EXTINF:-1 tvg-chno="4001" tvg-name=" Toonami Rewind" tvg-id="4001.etv" tvg-logo="https://raw.githubusercontent.com/colino17/curated-iptv/master/logos/toonamirewind.png" group-title="Cartoons", Toonami Rewind
 http://10.17.10.17:8409/iptv/channel/4001.ts
 
 ##############################
