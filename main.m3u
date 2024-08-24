@@ -45,16 +45,12 @@ https://cbcrclinear-tor.akamaized.net/hls/live/2042768/CBCRCLINEAR_TOR_14/master
 ###########################
 #EXTINF:-1 CUID="2000.1" tvg-id="I52.11867.zap2it.com" tvg-logo="https://raw.githubusercontent.com/colino17/curated-iptv/master/logos/tbs.png" tvh-chnum="2000.1",TBS
 https://turnerlive.warnermediacdn.com/hls/live/2023172/tbseast/slate/VIDEO_0_3564000.m3u8
-#EXTINF:-1 CUID="2000.2" tvg-id="I52.11867.zap2it.com" tvg-logo="https://raw.githubusercontent.com/colino17/curated-iptv/master/logos/tbs.png" tvh-chnum="2000.2",TBS
-https://raw.githubusercontent.com/Alstruit/adaptive-streams/alstruit-10_23_us/streams/us/TBSEast.us.m3u8
 
 ###########################
 #### CHANNEL 2001 - TNT ####
 ###########################
 #EXTINF:-1 CUID="2001.1" tvg-id="I51.11164.zap2it.com" tvg-logo="https://raw.githubusercontent.com/colino17/curated-iptv/master/logos/tnt.png" tvh-chnum="2001.1",TNT
 https://turnerlive.warnermediacdn.com/hls/live/2023168/tnteast/slate/VIDEO_0_3564000.m3u8
-#EXTINF:-1 CUID="2001.1" tvg-id="I51.11164.zap2it.com" tvg-logo="https://raw.githubusercontent.com/colino17/curated-iptv/master/logos/tnt.png" tvh-chnum="2001.2",TNT
-https://raw.githubusercontent.com/Alstruit/adaptive-streams/alstruit-10_23_us/streams/us/TNTEast.us.m3u8
 
 ##############################
 #### CHANNEL 3000 - TEEHEE ####
@@ -89,8 +85,6 @@ https://buzzr-samsungus.amagi.tv/playlist.m3u8
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/samsungus-buzzr-samsungtv-us/playlist.m3u8
 #EXTINF:-1 CUID="5000.3" tvg-logo="https://raw.githubusercontent.com/colino17/curated-iptv/master/logos/buzzr.png" tvg-id="BUZZR" tvh-chnum="5000.3",BUZZR
 https://lnc-buzzr.tubi.video/playlist.m3u8
-#EXTINF:-1 CUID="5000.4" tvg-logo="https://raw.githubusercontent.com/colino17/curated-iptv/master/logos/buzzr.png" tvg-id="BUZZR" tvh-chnum="5000.4",BUZZR
-https://cdn.igocast.com/channel1_hls/channel1_master.m3u8
 
 ######################################
 #### CHANNEL 6060 - SQUARED CIRCLE ####
@@ -98,23 +92,11 @@ https://cdn.igocast.com/channel1_hls/channel1_master.m3u8
 #EXTINF:-1 tvg-chno="6060" tvg-name="Squared Circle" tvg-id="6060.etv" tvg-logo="https://raw.githubusercontent.com/colino17/curated-iptv/master/logos/squaredcircle.png" group-title="Sports", Squared Circle
 http://10.17.10.17:8409/iptv/channel/6060.ts
 
-###########################
-#### CHANNEL 6070 - AXS ###
-###########################
-#EXTINF:-1 CUID="6070" tvg-chno="6070" tvg-name="AXS" tvg-id="AXS" tvg-logo="https://raw.githubusercontent.com/colino17/curated-iptv/master/logos/axs.png" group-title="Sports", AXS
-https://dikcfc9915kp8.cloudfront.net/hls/main.m3u8
-
 #############################
 #### CHANNEL 6080 - POKER ####
 #############################
 #EXTINF:-1 CUID="6080" tvg-logo="https://raw.githubusercontent.com/colino17/curated-iptv/master/logos/poker.png" tvg-id="POKER" tvh-chnum="6080",POKER
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxworldpokertour/CDN/playlist.m3u8
-
-###############################
-#### CHANNEL 8000 - CBCNEWS ####
-###############################
-#EXTINF:-1 CUID="8000" tvg-logo="https://raw.githubusercontent.com/colino17/curated-iptv/master/logos/cbcnews.png" tvg-id="CBCNEWS" tvh-chnum="8000",CBCNEWS
-https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxcbcnews/CDN/playlist.m3u8
 
 ###########################
 #### CHANNEL 8100 - CNN ####
@@ -127,17 +109,3 @@ https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_2_19
 https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_3_1464000.m3u8
 #EXTINF:-1 CUID="8100.4" tvg-id="I100.10142.zap2it.com" tvg-logo="https://raw.githubusercontent.com/colino17/curated-iptv/master/logos/cnn.png" m3u-name="CNN" tvh-chnum="8100.4",CNN
 https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_4_1064000.m3u8
-#EXTINF:-1 CUID="8100.5" tvg-id="I100.10142.zap2it.com" tvg-logo="https://raw.githubusercontent.com/colino17/curated-iptv/master/logos/cnn.png" m3u-name="CNN" tvh-chnum="8100.5",CNN
-https://raw.githubusercontent.com/Alstruit/adaptive-streams/alstruit-10_23_us/streams/us/CNNUSA.us.m3u8
-
-#############################
-#### CHANNEL 8101 - MSNBC ####
-#############################
-#EXTINF:-1 CUID="8101" tvg-logo="https://raw.githubusercontent.com/colino17/curated-iptv/master/logos/msnbc.png" tvg-id="MSNBC" tvh-chnum="8101",MSNBC
-https://dai2.xumo.com/amagi_hls_data_xumo1212A-xumo-nbcnewsnow/CDN/master.m3u8
-
-############################
-#### CHANNEL 8102 - CBSN ####
-############################
-#EXTINF:-1 CUID="8102" tvg-logo="https://raw.githubusercontent.com/colino17/curated-iptv/master/logos/cbsn.png" tvg-id="CBSN" tvh-chnum="8102",CBSN
-https://dai.google.com/linear/hls/event/Sid4xiTQTkCT1SLu6rjUSQ/master.m3u8
