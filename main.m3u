@@ -3,53 +3,53 @@
 ############################
 #### CHANNEL 1000 - CTV ####
 ############################
-#EXTINF:-1 CUID="1000" tvg-id="I538.10131.zap2it.com" tvg-logo="https://raw.githubusercontent.com/colino17/curated-iptv/master/logos/ctv.png" tvh-chnum="1000",CTV
+#EXTINF:-1 tvg-chno="1000" tvg-id="I538.10131.zap2it.com" tvg-logo="https://raw.githubusercontent.com/colino17/curated-iptv/master/logos/ctv.png" tvh-chnum="1000",CTV
 http://10.17.70.80:5004/auto/v9.1
 
 #####################################
 #### CHANNEL 1001 - CBC ATLANTIC ####
 #####################################
-#EXTINF:-1 CUID="1001" tvg-id="I196.16261.zap2it.com" tvg-logo="https://raw.githubusercontent.com/colino17/curated-iptv/master/logos/cbc.png" tvh-chnum="1001",CBC ATLANTIC
+#EXTINF:-1 tvg-chno="1001" tvg-id="I196.16261.zap2it.com" tvg-logo="https://raw.githubusercontent.com/colino17/curated-iptv/master/logos/cbc.png" tvh-chnum="1001",CBC ATLANTIC
 https://cbcrclinear-tor.akamaized.net/hls/live/2042757/CBCRCLINEAR_TOR_3/master5.m3u8
-#EXTINF:-1 CUID="1001.1" tvg-id="1001.1" tvg-logo="https://raw.githubusercontent.com/colino17/curated-iptv/master/logos/cbc.png" tvh-chnum="1001.1",CBC ATLANTIC BACKUP 1
+#EXTINF:-1 tvg-chno="1001.1" tvg-id="1001.1" tvg-logo="https://raw.githubusercontent.com/colino17/curated-iptv/master/logos/cbc.png" tvh-chnum="1001.1",CBC ATLANTIC BACKUP 1
 https://cbcrclinear-tor.akamaized.net/hls/live/2042756/CBCRCLINEAR_TOR_2/master5.m3u8
-#EXTINF:-1 CUID="1001.2" tvg-id="1001.2" tvg-logo="https://raw.githubusercontent.com/colino17/curated-iptv/master/logos/cbc.png" tvh-chnum="1001.2",CBC ATLANTIC BACKUP 2
+#EXTINF:-1 tvg-chno="1001.2" tvg-id="1001.2" tvg-logo="https://raw.githubusercontent.com/colino17/curated-iptv/master/logos/cbc.png" tvh-chnum="1001.2",CBC ATLANTIC BACKUP 2
 https://cbcrclinear-tor.akamaized.net/hls/live/2042758/CBCRCLINEAR_TOR_4/master5.m3u8
 
 ####################################
 #### CHANNEL 1002 - CBC EASTERN ####
 ####################################
-#EXTINF:-1 CUID="1002.1" tvg-id="I210.10091.zap2it.com" tvg-logo="https://raw.githubusercontent.com/colino17/curated-iptv/master/logos/cbctoronto.png" tvh-chnum="1002.1",CBC EASTERN
+#EXTINF:-1 tvg-chno="1002" tvg-id="I210.10091.zap2it.com" tvg-logo="https://raw.githubusercontent.com/colino17/curated-iptv/master/logos/cbctoronto.png" tvh-chnum="1002.1",CBC EASTERN
 https://cbcrclinear-tor.akamaized.net/hls/live/2042760/CBCRCLINEAR_TOR_6/master5.m3u8
-#EXTINF:-1 CUID="1002.2" tvg-id="I210.10091.zap2it.com" tvg-logo="https://raw.githubusercontent.com/colino17/curated-iptv/master/logos/cbctoronto.png" tvh-chnum="1002.2",CBC EASTERN
+#EXTINF:-1 tvg-chno="1002.1" tvg-id="I210.10091.zap2it.com" tvg-logo="https://raw.githubusercontent.com/colino17/curated-iptv/master/logos/cbctoronto.png" tvh-chnum="1002.2",CBC EASTERN
 https://cbcrclinear-tor.akamaized.net/hls/live/2042762/CBCRCLINEAR_TOR_8/master5.m3u8
-#EXTINF:-1 CUID="1002.3" tvg-id="I210.10091.zap2it.com" tvg-logo="https://raw.githubusercontent.com/colino17/curated-iptv/master/logos/cbctoronto.png" tvh-chnum="1002.3",CBC EASTERN
+#EXTINF:-1 tvg-chno="1002.2" tvg-id="I210.10091.zap2it.com" tvg-logo="https://raw.githubusercontent.com/colino17/curated-iptv/master/logos/cbctoronto.png" tvh-chnum="1002.3",CBC EASTERN
 https://cbcrclinear-tor.akamaized.net/hls/live/2042759/CBCRCLINEAR_TOR_5/master5.m3u8
 
 #####################################
 #### CHANNEL 1003 - CBC MOUNTAIN ####
 #####################################
-#EXTINF:-1 CUID="1003.1" tvg-id="I245.15939.zap2it.com" tvg-logo="https://raw.githubusercontent.com/colino17/curated-iptv/master/logos/cbccalgary.png" tvh-chnum="1003.1",CBC MOUNTAIN
+#EXTINF:-1 tvg-chno="1003" tvg-id="I245.15939.zap2it.com" tvg-logo="https://raw.githubusercontent.com/colino17/curated-iptv/master/logos/cbccalgary.png" tvh-chnum="1003.1",CBC MOUNTAIN
 https://cbcrclinear-tor.akamaized.net/hls/live/2042763/CBCRCLINEAR_TOR_9/master5.m3u8
-#EXTINF:-1 CUID="1003.2" tvg-id="I245.15939.zap2it.com" tvg-logo="https://raw.githubusercontent.com/colino17/curated-iptv/master/logos/cbccalgary.png" tvh-chnum="1003.2",CBC MOUNTAIN
+#EXTINF:-1 tvg-chno="1003.1" tvg-id="I245.15939.zap2it.com" tvg-logo="https://raw.githubusercontent.com/colino17/curated-iptv/master/logos/cbccalgary.png" tvh-chnum="1003.2",CBC MOUNTAIN
 https://cbcrclinear-tor.akamaized.net/hls/live/2042764/CBCRCLINEAR_TOR_10/master5.m3u8
 
 ####################################
 #### CHANNEL 1004 - CBC WESTERN ####
 ####################################
-#EXTINF:-1 CUID="1004" tvg-id="I251.10100.zap2it.com" tvg-logo="https://raw.githubusercontent.com/colino17/curated-iptv/master/logos/cbcvancouver.png" tvh-chnum="1004",CBC WESTERN
+#EXTINF:-1 tvg-chno="1004" tvg-id="I251.10100.zap2it.com" tvg-logo="https://raw.githubusercontent.com/colino17/curated-iptv/master/logos/cbcvancouver.png" tvh-chnum="1004",CBC WESTERN
 https://cbcrclinear-tor.akamaized.net/hls/live/2042768/CBCRCLINEAR_TOR_14/master5.m3u8
 
 ############################
 #### CHANNEL 2000 - TBS ####
 ############################
-#EXTINF:-1 CUID="2000.1" tvg-id="I52.11867.zap2it.com" tvg-logo="https://raw.githubusercontent.com/colino17/curated-iptv/master/logos/tbs.png" tvh-chnum="2000.1",TBS
+#EXTINF:-1 tvg-chno="2000" tvg-id="I52.11867.zap2it.com" tvg-logo="https://raw.githubusercontent.com/colino17/curated-iptv/master/logos/tbs.png" tvh-chnum="2000.1",TBS
 https://turnerlive.warnermediacdn.com/hls/live/2023172/tbseast/slate/VIDEO_0_3564000.m3u8
 
 ############################
 #### CHANNEL 2001 - TNT ####
 ############################
-#EXTINF:-1 CUID="2001.1" tvg-id="I51.11164.zap2it.com" tvg-logo="https://raw.githubusercontent.com/colino17/curated-iptv/master/logos/tnt.png" tvh-chnum="2001.1",TNT
+#EXTINF:-1 tvg-chno="2001" tvg-id="I51.11164.zap2it.com" tvg-logo="https://raw.githubusercontent.com/colino17/curated-iptv/master/logos/tnt.png" tvh-chnum="2001.1",TNT
 https://turnerlive.warnermediacdn.com/hls/live/2023168/tnteast/slate/VIDEO_0_3564000.m3u8
 
 ###############################
@@ -79,17 +79,17 @@ http://10.17.10.17:8409/iptv/channel/4001.ts
 ##############################
 #### CHANNEL 5000 - BUZZR ####
 ##############################
-#EXTINF:-1 CUID="5000.1" tvg-logo="https://raw.githubusercontent.com/colino17/curated-iptv/master/logos/buzzr.png" tvg-id="BUZZR" tvh-chnum="5000.1",BUZZR
+#EXTINF:-1 tvg-chno="5000" tvg-logo="https://raw.githubusercontent.com/colino17/curated-iptv/master/logos/buzzr.png" tvg-id="BUZZR" tvh-chnum="5000.1",BUZZR
 https://buzzr-samsungus.amagi.tv/playlist.m3u8
-#EXTINF:-1 CUID="5000.2" tvg-logo="https://raw.githubusercontent.com/colino17/curated-iptv/master/logos/buzzr.png" tvg-id="BUZZR" tvh-chnum="5000.2",BUZZR
+#EXTINF:-1 CUID="5000.1" tvg-logo="https://raw.githubusercontent.com/colino17/curated-iptv/master/logos/buzzr.png" tvg-id="BUZZR" tvh-chnum="5000.2",BUZZR
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/samsungus-buzzr-samsungtv-us/playlist.m3u8
-#EXTINF:-1 CUID="5000.3" tvg-logo="https://raw.githubusercontent.com/colino17/curated-iptv/master/logos/buzzr.png" tvg-id="BUZZR" tvh-chnum="5000.3",BUZZR
+#EXTINF:-1 CUID="5000.2" tvg-logo="https://raw.githubusercontent.com/colino17/curated-iptv/master/logos/buzzr.png" tvg-id="BUZZR" tvh-chnum="5000.3",BUZZR
 https://lnc-buzzr.tubi.video/playlist.m3u8
 
 ############################
 #### CHANNEL 6030 - WSN ####
 ############################
-#EXTINF:-1 tvg-id="WSN" tvg-logo="https://raw.githubusercontent.com/colino17/curated-iptv/master/logos/wsn.png",WSN
+#EXTINF:-1 tvg-chno="6030" tvg-id="WSN" tvg-logo="https://raw.githubusercontent.com/colino17/curated-iptv/master/logos/wsn.png",WSN
 https://lnc-fast-studios-womens-sports.tubi.video/playlist.m3u8
 
 #######################################
@@ -101,35 +101,35 @@ http://10.17.10.17:8409/iptv/channel/6060.ts
 #################################
 #### CHANNEL 6061 - TNA PLUS ####
 #################################
-#EXTINF:-1 tvg-id="TNA" tvg-logo="https://raw.githubusercontent.com/colino17/curated-iptv/master/logos/tna.png",TNA PLUS
+#EXTINF:-1 tvg-chno="6061" tvg-id="TNA" tvg-logo="https://raw.githubusercontent.com/colino17/curated-iptv/master/logos/tna.png",TNA PLUS
 https://d3mwqwqfak7y2q.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/ImpactWrestling-prod/hls/main.m3u8
 
 ##############################
 #### CHANNEL 6080 - POKER ####
 ##############################
-#EXTINF:-1 CUID="6080" tvg-logo="https://raw.githubusercontent.com/colino17/curated-iptv/master/logos/poker.png" tvg-id="POKER" tvh-chnum="6080",POKER
+#EXTINF:-1 tvg-chno="6080" tvg-logo="https://raw.githubusercontent.com/colino17/curated-iptv/master/logos/poker.png" tvg-id="POKER" tvh-chnum="6080",POKER
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxworldpokertour/CDN/playlist.m3u8
 
 ##################################
 #### CHANNEL 7000 - TASTEMADE ####
 ##################################
-#EXTINF:-1 tvg-id="TASTEMADE tvg-logo="https://raw.githubusercontent.com/colino17/curated-iptv/master/logos/tastemade.png",TASTEMADE
+#EXTINF:-1 tvg-chno="7000" tvg-id="TASTEMADE tvg-logo="https://raw.githubusercontent.com/colino17/curated-iptv/master/logos/tastemade.png",TASTEMADE
 https://tmint-aus-samsungau.amagi.tv/playlist.m3u8
 
 #########################################
 #### CHANNEL 7001 - TASTEMADE TRAVEL ####
 #########################################
-#EXTINF:-1 tvg-id="TASTEMADETRAVEL" tvg-logo="https://raw.githubusercontent.com/colino17/curated-iptv/master/logos/tastemadetravel.png",TASTEMADE TRAVEL
+#EXTINF:-1 tvg-chno="7001" tvg-id="TASTEMADETRAVEL" tvg-logo="https://raw.githubusercontent.com/colino17/curated-iptv/master/logos/tastemadetravel.png",TASTEMADE TRAVEL
 https://tastemadetravel-vizio.amagi.tv/playlist.m3u8
 
 ############################
 #### CHANNEL 8100 - CNN ####
 ############################
-#EXTINF:-1 CUID="8100" tvg-id="I100.10142.zap2it.com" tvg-logo="https://raw.githubusercontent.com/colino17/curated-iptv/master/logos/cnn.png" m3u-name="CNN" tvh-chnum="8100",CNN
+#EXTINF:-1 tvg-chno="8100" tvg-id="I100.10142.zap2it.com" tvg-logo="https://raw.githubusercontent.com/colino17/curated-iptv/master/logos/cnn.png" m3u-name="CNN" tvh-chnum="8100",CNN
 https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
-#EXTINF:-1 CUID="8100.2" tvg-id="I100.10142.zap2it.com" tvg-logo="https://raw.githubusercontent.com/colino17/curated-iptv/master/logos/cnn.png" m3u-name="CNN" tvh-chnum="8100.2",CNN
+#EXTINF:-1 tvg-chno="8100.1" tvg-id="I100.10142.zap2it.com" tvg-logo="https://raw.githubusercontent.com/colino17/curated-iptv/master/logos/cnn.png" m3u-name="CNN" tvh-chnum="8100.2",CNN
 https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_2_1964000.m3u8
-#EXTINF:-1 CUID="8100.3" tvg-id="I100.10142.zap2it.com" tvg-logo="https://raw.githubusercontent.com/colino17/curated-iptv/master/logos/cnn.png" m3u-name="CNN" tvh-chnum="8100.3",CNN
+#EXTINF:-1 tvg-chno="8100.2" tvg-id="I100.10142.zap2it.com" tvg-logo="https://raw.githubusercontent.com/colino17/curated-iptv/master/logos/cnn.png" m3u-name="CNN" tvh-chnum="8100.3",CNN
 https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_3_1464000.m3u8
-#EXTINF:-1 CUID="8100.4" tvg-id="I100.10142.zap2it.com" tvg-logo="https://raw.githubusercontent.com/colino17/curated-iptv/master/logos/cnn.png" m3u-name="CNN" tvh-chnum="8100.4",CNN
+#EXTINF:-1 tvg-chno="8100.3" tvg-id="I100.10142.zap2it.com" tvg-logo="https://raw.githubusercontent.com/colino17/curated-iptv/master/logos/cnn.png" m3u-name="CNN" tvh-chnum="8100.4",CNN
 https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_4_1064000.m3u8
