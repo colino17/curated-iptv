@@ -101,7 +101,7 @@ http://10.17.10.17:8409/iptv/channel/6060.ts
 #################################
 #### CHANNEL 6070 - TNA PLUS ####
 #################################
-#EXTINF:-1 tvg-chno="6070" tvg-id="TNA" tvg-logo="https://raw.githubusercontent.com/colino17/curated-iptv/master/logos/tna.png" group-title="Sports",TNA PLUS
+#EXTINF:-1 tvg-chno="6070" tvg-id="TNAPLUS" tvg-logo="https://raw.githubusercontent.com/colino17/curated-iptv/master/logos/tna.png" group-title="Sports",TNA PLUS
 https://d3mwqwqfak7y2q.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/ImpactWrestling-prod/hls/main.m3u8
 
 ##############################
