@@ -55,7 +55,7 @@ https://turnerlive.warnermediacdn.com/hls/live/2023168/tnteast/slate/VIDEO_0_356
 ###############################
 #### CHANNEL 3000 - TEEHEE ####
 ###############################
-#EXTINF:-1 tvg-chno="3000" channelID="x-ID.3000" tvg-id="3000" tvg-logo="https://raw.githubusercontent.com/colino17/curated-iptv/master/logos/teehee2.png" group-title="Comedy",TEEHEETV
+#EXTINF:-1 tvg-chno="3000" channelID="x-ID.3000" tvg-id="3000.etv" tvg-logo="https://raw.githubusercontent.com/colino17/curated-iptv/master/logos/teehee2.png" group-title="Comedy",TEEHEETV
 http://10.17.10.17:8409/iptv/channel/3000.ts
 
 ###############################
