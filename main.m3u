@@ -86,12 +86,6 @@ https://cdn-ue1-prod.tsv2.amagi.tv/linear/samsungus-buzzr-samsungtv-us/playlist.
 #EXTINF:-1 tvg-chno="5002",BUZZR BACKUP 2
 https://lnc-buzzr.tubi.video/playlist.m3u8
 
-############################
-#### CHANNEL 6030 - WSN ####
-############################
-#EXTINF:-1 tvg-chno="6030" tvg-id="WSN" tvg-logo="https://raw.githubusercontent.com/colino17/curated-iptv/master/logos/wsn.png" group-title="Sports",WSN
-https://lnc-fast-studios-womens-sports.tubi.video/playlist.m3u8
-
 #######################################
 #### CHANNEL 6060 - SQUARED CIRCLE ####
 #######################################
@@ -115,12 +109,6 @@ https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxworldpokertour/CDN/playlist
 ##################################
 #EXTINF:-1 tvg-chno="7000" tvg-id="TASTEMADE" tvg-logo="https://raw.githubusercontent.com/colino17/curated-iptv/master/logos/tastemade.png" group-title="Lifestyle",TASTEMADE
 https://tmint-aus-samsungau.amagi.tv/playlist.m3u8
-
-#########################################
-#### CHANNEL 7010 - TASTEMADE TRAVEL ####
-#########################################
-#EXTINF:-1 tvg-chno="7010" tvg-id="TASTEMADETRAVEL" tvg-logo="https://raw.githubusercontent.com/colino17/curated-iptv/master/logos/tastemadetravel.png" group-title="Lifestyle",TASTEMADE TRAVEL
-https://tastemadetravel-vizio.amagi.tv/playlist.m3u8
 
 ############################
 #### CHANNEL 8000 - CNN ####
