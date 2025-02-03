@@ -55,25 +55,25 @@ https://turnerlive.warnermediacdn.com/hls/live/2023168/tnteast/slate/VIDEO_0_356
 ###############################
 #### CHANNEL 3000 - TEEHEE ####
 ###############################
-#EXTINF:-1 tvg-chno="3000" tvg-id="3000.etv" tvg-logo="https://raw.githubusercontent.com/colino17/curated-iptv/master/logos/teehee2.png" group-title="Comedy",TEEHEETV
+#EXTINF:-1 tvg-chno="3000" tvg-id="C3000.291.ersatztv.org" tvg-logo="https://raw.githubusercontent.com/colino17/curated-iptv/master/logos/teehee2.png" group-title="Comedy",TEEHEETV
 http://10.17.10.17:8409/iptv/channel/3000.ts
 
 ###############################
 #### CHANNEL 3001 - GIGGLE ####
 ###############################
-#EXTINF:-1 tvg-chno="3001" tvg-id="3001.etv" tvg-logo="https://raw.githubusercontent.com/colino17/curated-iptv/master/logos/giggle.png" group-title="Comedy",GIGGLE
+#EXTINF:-1 tvg-chno="3001" tvg-id="C3001.292.ersatztv.org" tvg-logo="https://raw.githubusercontent.com/colino17/curated-iptv/master/logos/giggle.png" group-title="Comedy",GIGGLE
 http://10.17.10.17:8409/iptv/channel/3001.ts
 
 ###############################################
 #### CHANNEL 4000 - CARTOON NETWORK REWIND ####
 ###############################################
-#EXTINF:-1 tvg-chno="4000" tvg-id="4000.etv" tvg-logo="https://raw.githubusercontent.com/colino17/curated-iptv/master/logos/cnr.png" group-title="Cartoons",CARTOON NETWORK REWIND
+#EXTINF:-1 tvg-chno="4000" tvg-id="C4000.292.ersatztv.org" tvg-logo="https://raw.githubusercontent.com/colino17/curated-iptv/master/logos/cnr.png" group-title="Cartoons",CARTOON NETWORK REWIND
 http://10.17.10.17:8409/iptv/channel/4000.ts
 
 #######################################
 #### CHANNEL 4001 - TOONAMI REWIND ####
 #######################################
-#EXTINF:-1 tvg-chno="4001" tvg-id="4001.etv" tvg-logo="https://raw.githubusercontent.com/colino17/curated-iptv/master/logos/toonamirewind.png" group-title="Cartoons",TOONAMI REWIND
+#EXTINF:-1 tvg-chno="4001" tvg-id="C4001.293.ersatztv.org" tvg-logo="https://raw.githubusercontent.com/colino17/curated-iptv/master/logos/toonamirewind.png" group-title="Cartoons",TOONAMI REWIND
 http://10.17.10.17:8409/iptv/channel/4001.ts
 
 ##############################
@@ -89,7 +89,7 @@ https://lnc-buzzr.tubi.video/playlist.m3u8
 #######################################
 #### CHANNEL 6060 - SQUARED CIRCLE ####
 #######################################
-#EXTINF:-1 tvg-chno="6060" tvg-id="6060.etv" tvg-logo="https://raw.githubusercontent.com/colino17/curated-iptv/master/logos/squaredcircle.png" group-title="Sports",SQUARED CIRCLE
+#EXTINF:-1 tvg-chno="6060" tvg-id="C6060.300.ersatztv.org" tvg-logo="https://raw.githubusercontent.com/colino17/curated-iptv/master/logos/squaredcircle.png" group-title="Sports",SQUARED CIRCLE
 http://10.17.10.17:8409/iptv/channel/6060.ts
 
 #################################
