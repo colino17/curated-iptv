@@ -84,6 +84,42 @@ http://fl3.moveonjoy.com/Buzzr/index.m3u8
 #EXTINF:-1 tvg-chno="5001",BUZZR BACKUP 1
 https://apollo.production-public.tubi.io/live/ac-buzzr.m3u8
 
+##############################
+#### CHANNEL 5050 - NINJA ####
+##############################
+#EXTINF:-1 tvg-chno="5050" tvg-id="NINJA" tvg-logo="https://raw.githubusercontent.com/colino17/curated-iptv/master/logos/ninja.png" group-title="Entertainment",NINJA
+https://xumo-drct-ch812-n4996.fast.nbcuni.com/live/master.m3u8
+
+#############################
+#### CHANNEL 6010 - TSN1 ####
+#############################
+#EXTINF:-1 tvg-chno="6010" tvg-id="tsn1" tvg-logo="https://raw.githubusercontent.com/colino17/curated-iptv/master/logos/tsn1.png" group-title="Sports",TSN1
+http://fl5.moveonjoy.com/TSN_1/index.m3u8
+
+#############################
+#### CHANNEL 6020 - TSN2 ####
+#############################
+#EXTINF:-1 tvg-chno="6020" tvg-id="tsn2" tvg-logo="https://raw.githubusercontent.com/colino17/curated-iptv/master/logos/tsn2.png" group-title="Sports",TSN2
+http://fl5.moveonjoy.com/TSN_2/index.m3u8
+
+#############################
+#### CHANNEL 6030 - TSN3 ####
+#############################
+#EXTINF:-1 tvg-chno="6030" tvg-id="tsn3" tvg-logo="https://raw.githubusercontent.com/colino17/curated-iptv/master/logos/tsn3.png" group-title="Sports",TSN3
+http://fl5.moveonjoy.com/TSN_3/index.m3u8
+
+#############################
+#### CHANNEL 6040 - TSN4 ####
+#############################
+#EXTINF:-1 tvg-chno="6040" tvg-id="tsn4" tvg-logo="https://raw.githubusercontent.com/colino17/curated-iptv/master/logos/tsn4.png" group-title="Sports",TSN4
+http://fl5.moveonjoy.com/TSN_4/index.m3u8
+
+#############################
+#### CHANNEL 6050 - TSN5 ####
+#############################
+#EXTINF:-1 tvg-chno="6050" tvg-id="tsn5" tvg-logo="https://raw.githubusercontent.com/colino17/curated-iptv/master/logos/tsn5.png" group-title="Sports",TSN5
+http://fl5.moveonjoy.com/TSN_5/index.m3u8
+
 #######################################
 #### CHANNEL 6060 - SQUARED CIRCLE ####
 #######################################
@@ -94,12 +130,22 @@ https://ersatz.interna.casa/iptv/channel/6060.ts
 #### CHANNEL 6070 - TNA PLUS ####
 #################################
 #EXTINF:-1 tvg-chno="6070" tvg-id="TNAPLUS" tvg-logo="https://raw.githubusercontent.com/colino17/curated-iptv/master/logos/tna.png" group-title="Sports",TNA PLUS
+https://a-cdn.klowdtv.com/live2/tna_720p/playlist.m3u8
+#EXTINF:-1 tvg-chno="6071",TNA PLUS BACKUP 1
 https://d3mwqwqfak7y2q.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/ImpactWrestling-prod/hls/main.m3u8
 
+############################
+#### CHANNEL 6080 - UFC ####
+############################
+#EXTINF:-1 tvg-chno="6080" tvg-id="UFC" tvg-logo="https://raw.githubusercontent.com/colino17/curated-iptv/master/logos/ufc.png" group-title="Sports",UFC
+https://linear-893.frequency.stream/dist/xumo/893/hls/master/playlist.m3u8
+#EXTINF:-1 tvg-chno="6081",UFC BACKUP 1
+https://aegis-cloudfront-1.tubi.video/a78ea283-8666-44a1-a0f6-fde5d229ac21/playlist.m3u8
+
 ##############################
-#### CHANNEL 6080 - POKER ####
+#### CHANNEL 6090 - POKER ####
 ##############################
-#EXTINF:-1 tvg-chno="6080" tvg-id="POKER" tvg-logo="https://raw.githubusercontent.com/colino17/curated-iptv/master/logos/poker.png" group-title="Sports",POKER
+#EXTINF:-1 tvg-chno="6090" tvg-id="POKER" tvg-logo="https://raw.githubusercontent.com/colino17/curated-iptv/master/logos/poker.png" group-title="Sports",POKER
 https://dth07jsr8atug.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/WPT-Plex/171.m3u8
 
 ##################################
@@ -107,6 +153,8 @@ https://dth07jsr8atug.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25
 ##################################
 #EXTINF:-1 tvg-chno="7000" tvg-id="TASTEMADE" tvg-logo="https://raw.githubusercontent.com/colino17/curated-iptv/master/logos/tastemade.png" group-title="Lifestyle",TASTEMADE
 https://tastemade-xumo.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-chno="7001" ,TASTEMADE BACKUP 1
+https://condenast-bonappetit-vizio.amagi.tv/playlist.m3u8
 
 ############################
 #### CHANNEL 8000 - CNN ####
