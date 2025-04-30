@@ -37,7 +37,7 @@ https://cbcrclinear-tor.akamaized.net/hls/live/2042764/CBCRCLINEAR_TOR_10/master
 ####################################
 #### CHANNEL 1040 - CBC WESTERN ####
 ####################################
-#EXTINF:-1 tvg-chno="1040" tvg-id="I251.10100.zap2it.com" tvg-logo="https://raw.githubusercontent.com/colino17/curated-iptv/master/logos/cbcvancouver.png" group-title="Network",CBC WESTERN
+#EXTINF:-1 tvg-chno="1040" tvg-id="CBUT-2" tvg-logo="https://raw.githubusercontent.com/colino17/curated-iptv/master/logos/cbcvancouver.png" group-title="Network",CBC WESTERN
 https://cbcrclinear-tor.akamaized.net/hls/live/2042768/CBCRCLINEAR_TOR_14/master5.m3u8
 
 ############################
