@@ -3,13 +3,13 @@
 ############################
 #### CHANNEL 1000 - CTV ####
 ############################
-#EXTINF:-1 tvg-chno="1000" tvg-id="I538.10131.zap2it.com" tvg-logo="https://raw.githubusercontent.com/colino17/curated-iptv/master/logos/ctv.png" group-title="Network",CTV
+#EXTINF:-1 tvg-chno="1000" tvg-id="CTVATLANTIC" tvg-logo="https://raw.githubusercontent.com/colino17/curated-iptv/master/logos/ctv.png" group-title="Network",CTV
 https://ota.interna.casa/auto/v9.1
 
 #####################################
 #### CHANNEL 1010 - CBC ATLANTIC ####
 #####################################
-#EXTINF:-1 tvg-chno="1010" tvg-id="I196.16261.zap2it.com" tvg-logo="https://raw.githubusercontent.com/colino17/curated-iptv/master/logos/cbc.png" group-title="Network",CBC ATLANTIC
+#EXTINF:-1 tvg-chno="1010" tvg-id="CBCATLANTIC" tvg-logo="https://raw.githubusercontent.com/colino17/curated-iptv/master/logos/cbc.png" group-title="Network",CBC ATLANTIC
 https://cbcrclinear-tor.akamaized.net/hls/live/2042757/CBCRCLINEAR_TOR_3/master5.m3u8
 #EXTINF:-1 tvg-chno="1011",CBC ATLANTIC BACKUP 1
 https://cbcrclinear-tor.akamaized.net/hls/live/2042756/CBCRCLINEAR_TOR_2/master5.m3u8
@@ -29,7 +29,7 @@ https://cbcrclinear-tor.akamaized.net/hls/live/2042759/CBCRCLINEAR_TOR_5/master5
 #####################################
 #### CHANNEL 1030 - CBC MOUNTAIN ####
 #####################################
-#EXTINF:-1 tvg-chno="1030" tvg-id="I245.15939.zap2it.com" tvg-logo="https://raw.githubusercontent.com/colino17/curated-iptv/master/logos/cbccalgary.png" group-title="Network",CBC MOUNTAIN
+#EXTINF:-1 tvg-chno="1030" tvg-id="CBCMOUNTAIN" tvg-logo="https://raw.githubusercontent.com/colino17/curated-iptv/master/logos/cbccalgary.png" group-title="Network",CBC MOUNTAIN
 https://cbcrclinear-tor.akamaized.net/hls/live/2042763/CBCRCLINEAR_TOR_9/master5.m3u8
 #EXTINF:-1 tvg-chno="1031",CBC MOUNTAIN BACKUP 1
 https://cbcrclinear-tor.akamaized.net/hls/live/2042764/CBCRCLINEAR_TOR_10/master5.m3u8
