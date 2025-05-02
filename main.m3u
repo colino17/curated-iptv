@@ -19,7 +19,7 @@ https://cbcrclinear-tor.akamaized.net/hls/live/2042758/CBCRCLINEAR_TOR_4/master5
 ####################################
 #### CHANNEL 1020 - CBC EASTERN ####
 ####################################
-#EXTINF:-1 tvg-chno="1020" tvg-id="CBMT" tvg-logo="https://raw.githubusercontent.com/colino17/curated-iptv/master/logos/cbctoronto.png" group-title="Network",CBC EASTERN
+#EXTINF:-1 tvg-chno="1020" tvg-id="CBCEAST1" tvg-logo="https://raw.githubusercontent.com/colino17/curated-iptv/master/logos/cbctoronto.png" group-title="Network",CBC EASTERN
 https://cbcrclinear-tor.akamaized.net/hls/live/2042760/CBCRCLINEAR_TOR_6/master5.m3u8
 #EXTINF:-1 tvg-chno="1021",CBC EASTERN BACKUP 1
 https://cbcrclinear-tor.akamaized.net/hls/live/2042762/CBCRCLINEAR_TOR_8/master5.m3u8
@@ -37,19 +37,19 @@ https://cbcrclinear-tor.akamaized.net/hls/live/2042764/CBCRCLINEAR_TOR_10/master
 ####################################
 #### CHANNEL 1040 - CBC WESTERN ####
 ####################################
-#EXTINF:-1 tvg-chno="1040" tvg-id="CBUT-2" tvg-logo="https://raw.githubusercontent.com/colino17/curated-iptv/master/logos/cbcvancouver.png" group-title="Network",CBC WESTERN
+#EXTINF:-1 tvg-chno="1040" tvg-id="CBCWEST" tvg-logo="https://raw.githubusercontent.com/colino17/curated-iptv/master/logos/cbcvancouver.png" group-title="Network",CBC WESTERN
 https://cbcrclinear-tor.akamaized.net/hls/live/2042768/CBCRCLINEAR_TOR_14/master5.m3u8
 
 ############################
 #### CHANNEL 2000 - TBS ####
 ############################
-#EXTINF:-1 tvg-chno="2000" tvg-id="tbs (TBS)" tvg-logo="https://raw.githubusercontent.com/colino17/curated-iptv/master/logos/tbs.png" group-title="Network",TBS
+#EXTINF:-1 tvg-chno="2000" tvg-id="TBS" tvg-logo="https://raw.githubusercontent.com/colino17/curated-iptv/master/logos/tbs.png" group-title="Network",TBS
 https://turnerlive.warnermediacdn.com/hls/live/2023172/tbseast/slate/VIDEO_0_3564000.m3u8
 
 ############################
 #### CHANNEL 2010 - TNT ####
 ############################
-#EXTINF:-1 tvg-chno="2010" tvg-id="TNT (TNT)" tvg-logo="https://raw.githubusercontent.com/colino17/curated-iptv/master/logos/tnt.png" group-title="Network",TNT
+#EXTINF:-1 tvg-chno="2010" tvg-id="TNT" tvg-logo="https://raw.githubusercontent.com/colino17/curated-iptv/master/logos/tnt.png" group-title="Network",TNT
 https://turnerlive.warnermediacdn.com/hls/live/2023168/tnteast/slate/VIDEO_0_3564000.m3u8
 
 ###############################
@@ -159,7 +159,7 @@ https://condenast-bonappetit-vizio.amagi.tv/playlist.m3u8
 ###############################
 #### CHANNEL 7050 - TRAVEL ####
 ###############################
-#EXTINF:-1 tvg-chno="7050" tvg-id="TRAVEL" tvg-logo="https://raw.githubusercontent.com/colino17/curated-iptv/master/logos/travel.png" group-title="Lifestyle",TRAVEL
+#EXTINF:-1 tvg-chno="7050" tvg-id="TRAVELXP" tvg-logo="https://raw.githubusercontent.com/colino17/curated-iptv/master/logos/travel.png" group-title="Lifestyle",TRAVEL
 https://travelxp-travelxp-1-eu.rakuten.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-chno="7051" ,TRAVEL BACKUP 1
 https://amg00861-amg00861c10-firetv-us-4726.playouts.now.amagi.tv/playlist.m3u8
@@ -169,7 +169,7 @@ https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/e5
 ############################
 #### CHANNEL 8000 - CNN ####
 ############################
-#EXTINF:-1 tvg-chno="8000" tvg-id="CNN (CNN)" tvg-logo="https://raw.githubusercontent.com/colino17/curated-iptv/master/logos/cnn.png" m3u-name="CNN" group-title="News",CNN
+#EXTINF:-1 tvg-chno="8000" tvg-id="CNN" tvg-logo="https://raw.githubusercontent.com/colino17/curated-iptv/master/logos/cnn.png" m3u-name="CNN" group-title="News",CNN
 https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
 #EXTINF:-1 tvg-chno="8001",CNN BACKUP 1
 https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_2_1964000.m3u8
