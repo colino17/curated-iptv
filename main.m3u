@@ -4,7 +4,7 @@
 #### CHANNEL 1000 - CTV ####
 ############################
 #EXTINF:-1 tvg-chno="1000" tvg-id="CTVATLANTIC" tvg-logo="https://raw.githubusercontent.com/colino17/curated-iptv/master/logos/ctv.png" group-title="Network",CTV
-https://ota.interna.casa/auto/v9.1
+http://10.17.70.80/auto/v9.1
 
 #####################################
 #### CHANNEL 1010 - CBC ATLANTIC ####
@@ -56,33 +56,33 @@ https://turnerlive.warnermediacdn.com/hls/live/2023168/tnteast/slate/VIDEO_0_356
 #### CHANNEL 3000 - TEEHEE ####
 ###############################
 #EXTINF:-1 tvg-chno="3000" tvg-id="C3000.291.ersatztv.org" tvg-logo="https://raw.githubusercontent.com/colino17/curated-iptv/master/logos/teehee2.png" group-title="Comedy",TEEHEETV
-https://ersatz.interna.casa/iptv/channel/3000.ts
+http://10.17.10.17:8409/iptv/channel/3000.ts
 
 ###############################
 #### CHANNEL 3001 - GIGGLE ####
 ###############################
 #EXTINF:-1 tvg-chno="3001" tvg-id="C3001.292.ersatztv.org" tvg-logo="https://raw.githubusercontent.com/colino17/curated-iptv/master/logos/giggle.png" group-title="Comedy",GIGGLE
-https://ersatz.interna.casa/iptv/channel/3001.ts
+http://10.17.10.17:8409/iptv/channel/3001.ts
 
 ###############################################
 #### CHANNEL 4000 - CARTOON NETWORK REWIND ####
 ###############################################
 #EXTINF:-1 tvg-chno="4000" tvg-id="C4000.292.ersatztv.org" tvg-logo="https://raw.githubusercontent.com/colino17/curated-iptv/master/logos/cnr.png" group-title="Cartoons",CARTOON NETWORK REWIND
-https://ersatz.interna.casa/iptv/channel/4000.ts
+http://10.17.10.17:8409/iptv/channel/4000.ts
 
 #######################################
 #### CHANNEL 4001 - TOONAMI REWIND ####
 #######################################
 #EXTINF:-1 tvg-chno="4001" tvg-id="C4001.293.ersatztv.org" tvg-logo="https://raw.githubusercontent.com/colino17/curated-iptv/master/logos/toonamirewind.png" group-title="Cartoons",TOONAMI REWIND
-https://ersatz.interna.casa/iptv/channel/4001.ts
+http://10.17.10.17:8409/iptv/channel/4001.ts
 
 ##############################
 #### CHANNEL 5000 - BUZZR ####
 ##############################
 #EXTINF:-1 tvg-chno="5000" tvg-id="BUZZR" tvg-logo="https://raw.githubusercontent.com/colino17/curated-iptv/master/logos/buzzr.png" group-title="Entertainment",BUZZR
-http://fl3.moveonjoy.com/Buzzr/index.m3u8
+https://livetv-fa.tubi.video/buzzr/playlist.m3u8
 #EXTINF:-1 tvg-chno="5001",BUZZR BACKUP 1
-https://apollo.production-public.tubi.io/live/ac-buzzr.m3u8
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5812bfbe4ced4f7b601b12e6/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c276ad1-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=23022078-db68-4a8c-ad1c-683fb029b53d
 
 ##############################
 #### CHANNEL 5050 - NINJA ####
@@ -90,49 +90,19 @@ https://apollo.production-public.tubi.io/live/ac-buzzr.m3u8
 #EXTINF:-1 tvg-chno="5050" tvg-id="NINJA" tvg-logo="https://raw.githubusercontent.com/colino17/curated-iptv/master/logos/ninja.png" group-title="Entertainment",NINJA
 https://xumo-drct-ch812-n4996.fast.nbcuni.com/live/master.m3u8
 
-#############################
-#### CHANNEL 6010 - TSN1 ####
-#############################
-#EXTINF:-1 tvg-chno="6010" tvg-id="TSN1" tvg-logo="https://raw.githubusercontent.com/colino17/curated-iptv/master/logos/tsn1.png" group-title="Sports",TSN1
-http://fl5.moveonjoy.com/TSN_1/index.m3u8
-
-#############################
-#### CHANNEL 6020 - TSN2 ####
-#############################
-#EXTINF:-1 tvg-chno="6020" tvg-id="TSN2" tvg-logo="https://raw.githubusercontent.com/colino17/curated-iptv/master/logos/tsn2.png" group-title="Sports",TSN2
-http://fl5.moveonjoy.com/TSN_2/index.m3u8
-
-#############################
-#### CHANNEL 6030 - TSN3 ####
-#############################
-#EXTINF:-1 tvg-chno="6030" tvg-id="TSN3" tvg-logo="https://raw.githubusercontent.com/colino17/curated-iptv/master/logos/tsn3.png" group-title="Sports",TSN3
-http://fl5.moveonjoy.com/TSN_3/index.m3u8
-
-#############################
-#### CHANNEL 6040 - TSN4 ####
-#############################
-#EXTINF:-1 tvg-chno="6040" tvg-id="TSN4" tvg-logo="https://raw.githubusercontent.com/colino17/curated-iptv/master/logos/tsn4.png" group-title="Sports",TSN4
-http://fl5.moveonjoy.com/TSN_4/index.m3u8
-
-#############################
-#### CHANNEL 6050 - TSN5 ####
-#############################
-#EXTINF:-1 tvg-chno="6050" tvg-id="TSN5" tvg-logo="https://raw.githubusercontent.com/colino17/curated-iptv/master/logos/tsn5.png" group-title="Sports",TSN5
-http://fl5.moveonjoy.com/TSN_5/index.m3u8
-
 #######################################
 #### CHANNEL 6060 - SQUARED CIRCLE ####
 #######################################
 #EXTINF:-1 tvg-chno="6060" tvg-id="C6060.300.ersatztv.org" tvg-logo="https://raw.githubusercontent.com/colino17/curated-iptv/master/logos/squaredcircle.png" group-title="Sports",SQUARED CIRCLE
-https://ersatz.interna.casa/iptv/channel/6060.ts
+http://10.17.10.17:8409/iptv/channel/6060.ts
 
 #################################
 #### CHANNEL 6070 - TNA PLUS ####
 #################################
 #EXTINF:-1 tvg-chno="6070" tvg-id="TNAPLUS" tvg-logo="https://raw.githubusercontent.com/colino17/curated-iptv/master/logos/tna.png" group-title="Sports",TNA PLUS
-https://a-cdn.klowdtv.com/live2/tna_720p/playlist.m3u8
+https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8?ads.xumo_channelId=88883039
 #EXTINF:-1 tvg-chno="6071",TNA PLUS BACKUP 1
-https://d3mwqwqfak7y2q.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/ImpactWrestling-prod/hls/main.m3u8
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/62ea4dadce395f0007086df2/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=2c7c7788-35fc-11ef-a031-2b5d494037a2&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=649aa9eb-97bb-42d6-85e0-d0595821c87a
 
 ############################
 #### CHANNEL 6080 - UFC ####
@@ -146,7 +116,7 @@ https://aegis-cloudfront-1.tubi.video/a78ea283-8666-44a1-a0f6-fde5d229ac21/playl
 #### CHANNEL 6090 - POKER ####
 ##############################
 #EXTINF:-1 tvg-chno="6090" tvg-id="POKER" tvg-logo="https://raw.githubusercontent.com/colino17/curated-iptv/master/logos/poker.png" group-title="Sports",POKER
-https://dth07jsr8atug.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/WPT-Plex/171.m3u8
+https://d2e00kr7m9coe4.cloudfront.net/scheduler/scheduleMaster/406.m3u8
 
 ##################################
 #### CHANNEL 7000 - TASTEMADE ####
@@ -160,12 +130,8 @@ https://condenast-bonappetit-vizio.amagi.tv/playlist.m3u8
 #### CHANNEL 7050 - TRAVEL ####
 ###############################
 #EXTINF:-1 tvg-chno="7050" tvg-id="TRAVELXP" tvg-logo="https://raw.githubusercontent.com/colino17/curated-iptv/master/logos/travel.png" group-title="Lifestyle",TRAVEL
-https://travelxp-travelxp-1-eu.rakuten.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-chno="7051" ,TRAVEL BACKUP 1
 https://travelxp-travelxp-1-nz.samsung.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-chno="7052" ,TRAVEL BACKUP 2
-https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/e58c3999-b5e1-4322-8d73-db8ebd8acb32/manifest.m3u8
-#EXTINF:-1 tvg-chno="7053" ,TRAVEL BACKUP 3
+#EXTINF:-1 tvg-chno="7052" ,TRAVEL BACKUP 1
 https://amg00861-amg00861c10-firetv-us-4726.playouts.now.amagi.tv/playlist.m3u8
 
 ############################
