@@ -10,35 +10,35 @@ http://10.17.70.80/auto/v9.1
 #### CHANNEL 1010 - CBC ATLANTIC ####
 #####################################
 #EXTINF:-1 tvg-chno="1010" tvg-id="CBCATLANTIC" tvg-logo="https://raw.githubusercontent.com/colino17/curated-iptv/master/logos/cbc.png" group-title="Network",CBC ATLANTIC
-https://cbcrclinear-tor.akamaized.net/hls/live/2042757/CBCRCLINEAR_TOR_3/master5.m3u8
+https://cbcrclinear-tor2.akamaized.net/hls/live/20000030/CBCRCLINEAR_TOR_ATF/master_3000.m3u8
 #EXTINF:-1 tvg-chno="1011",CBC ATLANTIC BACKUP 1
-https://cbcrclinear-tor.akamaized.net/hls/live/2042756/CBCRCLINEAR_TOR_2/master5.m3u8
+https://cbcrclinear-tor2.akamaized.net/hls/live/20000031/CBCRCLINEAR_TOR_ATH/master_3000.m3u8
 #EXTINF:-1 tvg-chno="1012",CBC ATLANTIC BACKUP 2
-https://cbcrclinear-tor.akamaized.net/hls/live/2042758/CBCRCLINEAR_TOR_4/master5.m3u8
+https://cbcrclinear-tor2.akamaized.net/hls/live/20000029/CBCRCLINEAR_TOR_ATC/master_3000.m3u8
 
 ####################################
 #### CHANNEL 1020 - CBC EASTERN ####
 ####################################
 #EXTINF:-1 tvg-chno="1020" tvg-id="CBCEAST1" tvg-logo="https://raw.githubusercontent.com/colino17/curated-iptv/master/logos/cbctoronto.png" group-title="Network",CBC EASTERN
-https://cbcrclinear-tor.akamaized.net/hls/live/2042760/CBCRCLINEAR_TOR_6/master5.m3u8
+https://cbcrclinear-tor2.akamaized.net/hls/live/20000034/CBCRCLINEAR_TOR_ETM/master_3000.m3u8
 #EXTINF:-1 tvg-chno="1021",CBC EASTERN BACKUP 1
-https://cbcrclinear-tor.akamaized.net/hls/live/2042762/CBCRCLINEAR_TOR_8/master5.m3u8
+https://cbcrclinear-tor2.akamaized.net/hls/live/20000033/CBCRCLINEAR_TOR_ETT/master_3000.m3u8
 #EXTINF:-1 tvg-chno="1022",CBC EASTERN BACKUP 2
-https://cbcrclinear-tor.akamaized.net/hls/live/2042759/CBCRCLINEAR_TOR_5/master5.m3u8
+https://cbcrclinear-tor2.akamaized.net/hls/live/20000035/CBCRCLINEAR_TOR_ETO/master_3000.m3u8
 
 #####################################
 #### CHANNEL 1030 - CBC MOUNTAIN ####
 #####################################
 #EXTINF:-1 tvg-chno="1030" tvg-id="CBCMOUNTAIN" tvg-logo="https://raw.githubusercontent.com/colino17/curated-iptv/master/logos/cbccalgary.png" group-title="Network",CBC MOUNTAIN
-https://cbcrclinear-tor.akamaized.net/hls/live/2042763/CBCRCLINEAR_TOR_9/master5.m3u8
+https://cbcrclinear-tor2.akamaized.net/hls/live/20000036/CBCRCLINEAR_TOR_MTC/master_3000.m3u8
 #EXTINF:-1 tvg-chno="1031",CBC MOUNTAIN BACKUP 1
-https://cbcrclinear-tor.akamaized.net/hls/live/2042764/CBCRCLINEAR_TOR_10/master5.m3u8
+https://cbcrclinear-tor2.akamaized.net/hls/live/20000038/CBCRCLINEAR_TOR_MTE/master_3000.m3u8
 
 ####################################
 #### CHANNEL 1040 - CBC WESTERN ####
 ####################################
 #EXTINF:-1 tvg-chno="1040" tvg-id="CBCWEST" tvg-logo="https://raw.githubusercontent.com/colino17/curated-iptv/master/logos/cbcvancouver.png" group-title="Network",CBC WESTERN
-https://cbcrclinear-tor.akamaized.net/hls/live/2042768/CBCRCLINEAR_TOR_14/master5.m3u8
+https://cbcrclinear-tor2.akamaized.net/hls/live/20000041/CBCRCLINEAR_TOR_PTV/master_3000.m3u8
 
 ############################
 #### CHANNEL 2000 - TBS ####
@@ -80,9 +80,9 @@ http://10.17.10.17:8409/iptv/channel/4001.ts
 #### CHANNEL 5000 - BUZZR ####
 ##############################
 #EXTINF:-1 tvg-chno="5000" tvg-id="BUZZR" tvg-logo="https://raw.githubusercontent.com/colino17/curated-iptv/master/logos/buzzr.png" group-title="Entertainment",BUZZR
-https://livetv-fa.tubi.video/buzzr/playlist.m3u8
+https://aegis-cloudfront-1.tubi.video/d4038326-a3e3-4aba-b1f1-f0526c912c74/playlist.m3u8
 #EXTINF:-1 tvg-chno="5001",BUZZR BACKUP 1
-http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5812bfbe4ced4f7b601b12e6/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c276ad1-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=23022078-db68-4a8c-ad1c-683fb029b53d
+https://jmp2.uk/plu-5812bfbe4ced4f7b601b12e6.m3u8
 
 ##############################
 #### CHANNEL 5050 - NINJA ####
@@ -102,7 +102,7 @@ http://10.17.10.17:8409/iptv/channel/6060.ts
 #EXTINF:-1 tvg-chno="6070" tvg-id="TNAPLUS" tvg-logo="https://raw.githubusercontent.com/colino17/curated-iptv/master/logos/tna.png" group-title="Sports",TNA PLUS
 https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8?ads.xumo_channelId=88883039
 #EXTINF:-1 tvg-chno="6071",TNA PLUS BACKUP 1
-http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/62ea4dadce395f0007086df2/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=2c7c7788-35fc-11ef-a031-2b5d494037a2&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=649aa9eb-97bb-42d6-85e0-d0595821c87a
+https://jmp2.uk/plu-62ea4dadce395f0007086df2.m3u8
 
 ############################
 #### CHANNEL 6080 - UFC ####
