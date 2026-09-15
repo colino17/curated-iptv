@@ -110,7 +110,7 @@ https://jmp2.uk/plu-62ea4dadce395f0007086df2.m3u8
 #EXTINF:-1 tvg-chno="6080" tvg-id="UFC" tvg-logo="https://raw.githubusercontent.com/colino17/curated-iptv/master/logos/ufc.png" group-title="Sports",UFC
 https://linear-893.frequency.stream/dist/xumo/893/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-chno="6081",UFC BACKUP 1
-https://aegis-cloudfront-1.tubi.video/a78ea283-8666-44a1-a0f6-fde5d229ac21/playlist.m3u8
+https://jmp2.uk/plu-66ed3e9d5e4a6e0008b346e0.m3u8
 
 ##############################
 #### CHANNEL 6090 - POKER ####
@@ -122,9 +122,9 @@ https://d2e00kr7m9coe4.cloudfront.net/scheduler/scheduleMaster/406.m3u8
 #### CHANNEL 7000 - TASTEMADE ####
 ##################################
 #EXTINF:-1 tvg-chno="7000" tvg-id="TASTEMADE" tvg-logo="https://raw.githubusercontent.com/colino17/curated-iptv/master/logos/tastemade.png" group-title="Lifestyle",TASTEMADE
-https://tastemade-xumo.amagi.tv/playlist.m3u8
+https://tastemade-tdint-rakuten.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-chno="7001" ,TASTEMADE BACKUP 1
-https://condenast-bonappetit-vizio.amagi.tv/playlist.m3u8
+https://jmp2.uk/plu-5f998c1fc54853000797bacd.m3u8
 
 ###############################
 #### CHANNEL 7050 - TRAVEL ####
