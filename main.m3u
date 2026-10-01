@@ -45,12 +45,20 @@ https://cbcrclinear-tor2.akamaized.net/hls/live/20000041/CBCRCLINEAR_TOR_PTV/mas
 ############################
 #EXTINF:-1 tvg-chno="2000" tvg-id="TBS" tvg-logo="https://raw.githubusercontent.com/colino17/curated-iptv/master/logos/tbs.png" group-title="Network",TBS
 https://turnerlive.warnermediacdn.com/hls/live/2023172/tbseast/slate/VIDEO_0_3564000.m3u8
+#EXTINF:-1 tvg-chno="2001",TBS BACKUP 1
+https://turnerlive.warnermediacdn.com/hls/live/2023172/tbseast/slate/VIDEO_2_1964000.m3u8
+#EXTINF:-1 tvg-chno="2002",TBS BACKUP 2
+https://turnerlive.warnermediacdn.com/hls/live/2023172/tbseast/slate/VIDEO_3_1464000.m3u8
 
 ############################
 #### CHANNEL 2010 - TNT ####
 ############################
 #EXTINF:-1 tvg-chno="2010" tvg-id="TNT" tvg-logo="https://raw.githubusercontent.com/colino17/curated-iptv/master/logos/tnt.png" group-title="Network",TNT
 https://turnerlive.warnermediacdn.com/hls/live/2023168/tnteast/slate/VIDEO_0_3564000.m3u8
+#EXTINF:-1 tvg-chno="2011",TNT BACKUP 1
+https://turnerlive.warnermediacdn.com/hls/live/2023168/tnteast/slate/VIDEO_2_1964000.m3u8
+#EXTINF:-1 tvg-chno="2012",TNT BACKUP 2
+https://turnerlive.warnermediacdn.com/hls/live/2023168/tnteast/slate/VIDEO_3_1464000.m3u8
 
 ###############################
 #### CHANNEL 3000 - TEEHEE ####
