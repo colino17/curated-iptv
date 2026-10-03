@@ -19,7 +19,7 @@ https://cbcrclinear-tor2.akamaized.net/hls/live/20000029/CBCRCLINEAR_TOR_ATC/mas
 ####################################
 #### CHANNEL 1020 - CBC EASTERN ####
 ####################################
-#EXTINF:-1 tvg-chno="1020" tvg-id="CBCEAST1" tvg-logo="https://raw.githubusercontent.com/colino17/curated-iptv/master/logos/cbctoronto.png" group-title="Network",CBC EASTERN
+#EXTINF:-1 tvg-chno="1020" tvg-id="CBCEAST" tvg-logo="https://raw.githubusercontent.com/colino17/curated-iptv/master/logos/cbctoronto.png" group-title="Network",CBC EASTERN
 https://cbcrclinear-tor2.akamaized.net/hls/live/20000034/CBCRCLINEAR_TOR_ETM/master_3000.m3u8
 #EXTINF:-1 tvg-chno="1021",CBC EASTERN BACKUP 1
 https://cbcrclinear-tor2.akamaized.net/hls/live/20000033/CBCRCLINEAR_TOR_ETT/master_3000.m3u8
